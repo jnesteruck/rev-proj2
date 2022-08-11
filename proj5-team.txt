@@ -1,0 +1,6 @@
+Team 1
+---------------------
+Keynon Hawkins & Martin Salinas Jr. (qty, datetime, ecommerce_website)
+Raymond Fillingame: product info (product_id, product_name, category, price)
+Raymond Jaconski: transaction info (payment_type, payment_txn_success, failure_reason)
+Jacob Nesteruck: customer info (customer_id, customer_name, country, city)
