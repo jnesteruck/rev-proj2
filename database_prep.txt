@@ -1,0 +1,151 @@
+use Project2
+
+##########################################################################
+Test Collections
+
+db.Armor.insertMany([
+{_id: 1, name:"Leather", cost:10.00},
+{_id: 2, name:"Half Plate", cost:750.00},
+{_id: 3, name:"Plate", cost:1500.00},
+{_id: 4, name:"Shield", cost:10.00}
+])
+
+db.Weapons.insertMany([
+{_id: 5, name:"Dagger", cost:2.00},
+{_id: 6, name:"Shortbow", cost:25.00},
+{_id: 7, name:"Greatsword", cost:50.00},
+{_id: 8, name:"Warhammer", cost:15.00},
+{_id: 9, name:"Hand Crossbow", cost:75.00}
+])
+
+db.Gear.insertMany([
+{_id: 10, name:"Clothes, Fine", cost:15.00},
+{_id: 11, name:"Clothes, Traveler's", cost:2.00},
+{_id: 12, name:"Component Pouch", cost:25.00},
+{_id: 13, name:"Crowbar", cost:2.00},
+{_id: 14, name:"Sprig of Mistletoe (Druidic Focus)", cost:1.00},
+{_id: 15, name:"Totem (Druidic Focus)", cost:1.00},
+])
+##########################################################################
+
+Real Collections 109 items
+
+db.Armor.insertMany([
+{_id: 1, name:"Padded", cost:5.00},
+{_id: 2, name:"Leather", cost:10.00},
+{_id: 3, name:"Studded Leather", cost:45.00},
+{_id: 4, name:"Hide", cost:10.00},
+{_id: 5, name:"Chain Shirt", cost:50.00},
+{_id: 6, name:"Scale Mail", cost:50.00},
+{_id: 7, name:"Breastplate", cost:400.00},
+{_id: 8, name:"Half Plate", cost:750.00},
+{_id: 9, name:"Ring Mail", cost:30.00},
+{_id: 10, name:"Chain Mail", cost:75.00},
+{_id: 11, name:"Splint", cost:200.00},
+{_id: 12, name:"Plate", cost:1500.00},
+{_id: 13, name:"Shield", cost:10.00}
+])
+
+db.Weapons.insertMany([
+{_id: 14, name:"Club", cost:1.00},
+{_id: 15, name:"Dagger", cost:2.00},
+{_id: 16, name:"Greatclub", cost:2.00},
+{_id: 17, name:"Handaxe", cost:5.00},
+{_id: 18, name:"Javelin", cost:5.00},
+{_id: 19, name:"Light Hammer", cost:2.00},
+{_id: 20, name:"Mace", cost:5.00},
+{_id: 21, name:"Quarterstaff", cost:2.00},
+{_id: 22, name:"Sickle", cost:1.00},
+{_id: 23, name:"Spear", cost:10.00},
+{_id: 24, name:"Light Crossbow", cost:25.00},
+{_id: 25, name:"Dart", cost:.50},
+{_id: 26, name:"Shortbow", cost:25.00},
+{_id: 27, name:"Sling", cost:1.00},
+{_id: 28, name:"Battleaxe", cost:10.00},
+{_id: 29, name:"Flail", cost:10.00},
+{_id: 30, name:"Glaive", cost:200.00},
+{_id: 31, name:"Greataxe", cost:50.00},
+{_id: 32, name:"Greatsword", cost:50.00},
+{_id: 33, name:"Halberd", cost:20.00},
+{_id: 34, name:"Lance", cost:10.00},
+{_id: 35, name:"Longsword", cost:15.00},
+{_id: 36, name:"Maul", cost:10.00},
+{_id: 37, name:"Morningstar", cost:15.00},
+{_id: 38, name:"Pike", cost:5.00},
+{_id: 39, name:"Rapier", cost:25.00},
+{_id: 40, name:"Scimitar", cost:25.00},
+{_id: 41, name:"Shortsword", cost:10.00},
+{_id: 42, name:"Trident", cost:5.00},
+{_id: 43, name:"War Pick", cost:5.00},
+{_id: 44, name:"Warhammer", cost:15.00},
+{_id: 45, name:"Whip", cost:2.00},
+{_id: 46, name:"Blowgun", cost:10.00},
+{_id: 47, name:"Hand Crossbow", cost:75.00},
+{_id: 48, name:"Heavy Crossbow", cost:50.00},
+{_id: 49, name:"Longbow", cost:50.00},
+{_id: 50, name:"Net", cost:1.00}
+])
+
+db.Gear.insertMany([
+{_id: 51, name:"Acid (vial)", cost:25.00},
+{_id: 52, name:"Alchemist's Fire (flask)", cost:50.00},
+{_id: 53, name:"Arrows (20)", cost:10.00},
+{_id: 54, name:"Blowgun Needles (50)", cost:10.00},
+{_id: 55, name:"Crossbow Bolts (20)", cost:10.00},
+{_id: 56, name:"Sling Bullets (20)", cost:.50},
+{_id: 57, name:"Antitoxin (vial)", cost:50.00},
+{_id: 58, name:"Crystal (Arcane Focus)", cost:10.00},
+{_id: 59, name:"Orb (Arcane Focus)", cost:20.00},
+{_id: 60, name:"Rod (Arcane Focus)", cost:10.00},
+{_id: 61, name:"Staff (Arcane Focus)", cost:5.00},
+{_id: 62, name:"Wand (Arcane Focus)", cost:10.00},
+{_id: 63, name:"Backpack", cost:20.00},
+{_id: 64, name:"Ball Bearings (100)", cost:20.00},
+{_id: 65, name:"Bedroll", cost:1000},
+{_id: 66, name:"Book", cost:25.00},
+{_id: 67, name:"Bottle, Glass", cost:2.00},
+{_id: 68, name:"Bucket", cost:1.50},
+{_id: 69, name:"Caltrops (20)", cost:10.00},
+{_id: 70, name:"Candle", cost:1.00},
+{_id: 71, name:"Chain (10 ft)", cost:5.00},
+{_id: 72, name:"Chalk (10 piece)", cost:1.00},
+{_id: 73, name:"Chest", cost:5.00},
+{_id: 74, name:"Climber's Kit", cost:25.00},
+{_id: 75, name:"Clothes, Common", cost:5.00},
+{_id: 76, name:"Clothes, Costume", cost:15.00},
+{_id: 77, name:"Clothes, Fine", cost:150.00},
+{_id: 78, name:"Clothes, Traveler's", cost:20.00},
+{_id: 79, name:"Component Pouch", cost:25.00},
+{_id: 80, name:"Crowbar", cost:2.00},
+{_id: 81, name:"Sprig of Mistletoe (Druidic Focus)", cost:1.00},
+{_id: 82, name:"Totem (Druidic Focus)", cost:1.00},
+{_id: 83, name:"Wooden Staff (Druidic Focus)", cost:5.00},
+{_id: 84, name:"Yew Wand (Druidic Focus)", cost:10.00},
+{_id: 85, name:"Grappling Hook", cost:2.00},
+{_id: 86, name:"Hammer", cost:1.00},
+{_id: 87, name:"Sledgehammer", cost:2.00},
+{_id: 88, name:"Healer's Kit", cost:5.00},
+{_id: 89, name:"Amulet (Holy Symbol)", cost:5.00},
+{_id: 90, name:"Emblem (Holy Symbol)", cost:5.00},
+{_id: 91, name:"Reliquary (Holy Symbol)", cost:5.00},
+{_id: 92, name:"Holy Water (Flask)", cost:25.00},
+{_id: 93, name:"Hourglass", cost:25.00},
+{_id: 94, name:"Hunting Trap", cost:5.00},
+{_id: 95, name:"Ink (1 ounce bottle)", cost:1.00},
+{_id: 96, name:"Ink Pen", cost:.20},
+{_id: 97, name:"Lamp", cost:5.00},
+{_id: 98, name:"Lantern, Bullseye", cost:10.00},
+{_id: 99, name:"Lanter, Hooded", cost:5.00},
+{_id: 100, name:"Oil (Flask)", cost:1.00},
+{_id: 101, name:"Poison, Basic (Vial)", cost:100.00},
+{_id: 102, name:"Potion of Healing", cost:50.00},
+{_id: 103, name:"Rations (1 day)", cost:5.00},
+{_id: 104, name:"Robes", cost:10.00},
+{_id: 105, name:"Rope (50 ft)", cost:10.00},
+{_id: 106, name:"Spellbook", cost: 50.00},
+{_id: 107, name:"Torch", cost:1.00},
+{_id: 108, name:"Vial", cost:1.00},
+{_id: 109, name:"Waterskin", cost:2.00}
+])
+
+

@@ -1,0 +1,37 @@
+PROJECT 2!!!!!!!!!!!!!
+
+analyze large dataset using E-Commerce data structure.
+Pyspark only necessary for data analysis
+each team has one member make a repository
+	adds team members to allow them to commit.
+		manage access
+team clones repository, git pull to update
+	develop on development branch, not main.
+	click overview, new branch
+		git checout -b branch_name
+		git add .
+		git commit -m "comment"
+		git push
+			if no upstream branch, use suggested command, try again
+	to merge branches
+		git checkout main
+		git merge branch_name
+recommend gitignore file
+
+each team makes a generator by 8/17
+	produce 10k-15k random records
+	output data in a schema to a csv
+	have rogue records (altered data) the other team will have to handle
+swap data with other teams
+analyze data by listed questions (by 8/24) (all overall and by country)
+	top selling category
+	how does popularity change?
+	which locations sees highest traffic
+	what times have highest traffic?
+present 8/26
+
+Team 1
+Keynon Hawkins & Martin Salinas Jr. (qty, datetime, ecommerce_website)
+Raymond Fillingame: product info (product_id, product_name, category, price)
+Raymond Jaconski: transaction info (payment_type, payment_txn_success, failure_reason)
+Jacob Nesteruck: customer info (customer_id, customer_name, country, city)
