@@ -3,9 +3,8 @@ import random
 
 def main():
     count = 0
-    while count < 10000:
-        payment_type = [ "Credit Card", "Venmo", "Google pay", "Apple pay", "Cash app", "Gift card" "Paypal"]
-        payment_success = ["Y" , "N" ]
+    while count < 15000:
+        payment_type = [ "Credit Card", "Venmo", "Google pay", "Apple pay", "Cash app", "Gift card", "Paypal"]
         fail_reason_card1 = ["Failed to Authenticate buyer","Card reported stolen", "Insuffecient Funds", "Incorrect CCV", "Card Type Not Supported"]
         fail_reason_card2 = ["Insuffecient Funds", "Incorrect CCV", "Gift Card Type Not Supported"]
         fail_reason_app = ["Failed to Authenticate buyer", "Payment site timed out", "Insuffecient Funds"]
