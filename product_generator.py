@@ -1,3 +1,4 @@
+from ast import match_case
 import re
 import logging
 from pymongo import MongoClient
@@ -11,19 +12,22 @@ clear = lambda: os.system('cls')
 # Get all and return a list of them.
 
 def main():
+
+    product_gen(100, 20)
+
+def product_gen(iterations, rng):
     # Pre initialize vital files
     logging.basicConfig(filename = "product.log", level = logging.DEBUG, format = '%(asctime)s :: %(message)s')
-    logging.info("*********************************************************")
+    #logging.info("*********************************************************")
     client = MongoClient()
     db = client.get_database("Project2")
 
-    logging.info("Loading database records...")
-
     # Scattered throughout, add in low chance for rogue data.
     # At least for testing, add number of iterations for test cases
-    iterations = 10
 
+    counter = 0
     for i in range(iterations):
+        counter += 1
 
         # Randomly pick armor, weapon, or gear, setting which collection to search
         rand_collection = random.randint(1, 20)
@@ -53,11 +57,24 @@ def main():
         product_name = product.get('name')
         price = product.get('cost')
 
+        rng1 = random.randint(1, rng)
+        rng2 = random.randint(1, rng)
+        if rng1 == rng2:
+            product_id = random.randint(1, 100)
+        elif rng1 == 2*rng2:
+            product_name = "Null"
+        elif rng2 == 2*rng1:
+            price = random.randint(0, 10*rng) * random.random()
+        else:
+            logging.info("No errors.")
+
         # Gather everything into a list and return it
         product = [product_id, product_name, category, price]
         logging.info(f"{product_name} with ID {product_id} and price ${price:.2f} from category {category} selected.")
-        # print(product)
-        return product
+        
+        # use print for testing, return for implementation
+        print(str(counter) + ": " + str(product))
+        # return product
 
     # Second half of testing block
     # test = collection.find()
