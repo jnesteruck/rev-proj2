@@ -12,20 +12,33 @@ clear = lambda: os.system('cls')
 # Get all and return a list of them.
 
 def main():
-
-    product_gen(100, 20)
-
-def product_gen(iterations, rng):
     # Pre initialize vital files
     logging.basicConfig(filename = "product.log", level = logging.DEBUG, format = '%(asctime)s :: %(message)s')
-    #logging.info("*********************************************************")
+    logging.info("*********************************************************")
+    logging.info("Database Primed")
     client = MongoClient()
     db = client.get_database("Project2")
+    
+    database = product_gen(100, 15, db)
+    # product = [product_id, product_name, category, price]
+
+    fname = "product_list.csv"
+    with open(fname, "w") as f:
+        for entry in database:
+            if type(entry[3]) == type("Hi"):
+                f.write(str(entry[0]) + "," + str(entry[1]) + "," + str(entry[2]) + "," + str(entry[3]) + ',\n')
+            else:
+                f.write(str(entry[0]) + "," + str(entry[1]) + "," + str(entry[2]) + "," + str(entry[3]) + ',\n')
+    f.close()
+    logging.info("Product List CSV constructed.")
+
+def product_gen(iterations, rng, db):
 
     # Scattered throughout, add in low chance for rogue data.
     # At least for testing, add number of iterations for test cases
 
     counter = 0
+    product_list = []
     for i in range(iterations):
         counter += 1
 
@@ -57,25 +70,40 @@ def product_gen(iterations, rng):
         product_name = product.get('name')
         price = product.get('cost')
 
-        rng1 = random.randint(1, rng)
-        rng2 = random.randint(1, rng)
-        if rng1 == rng2:
-            product_id = random.randint(1, 100)
-        elif rng1 == 2*rng2:
-            product_name = "Null"
-        elif rng2 == 2*rng1:
-            price = random.randint(0, 10*rng) * random.random()
-        else:
-            logging.info("No errors.")
+        if rng != 0:
+            rng1 = random.randint(1, rng)
+            rng2 = random.randint(1, rng)
+            if rng1 == rng2:
+                product_id = random.randint(1, 100)
+                if rng1 == 1:
+                    product_id = "Null"
+                    product_name = "Null"
+                    price = "Null"
+                    category = "Null"
+                    logging.info("Null error detected.")
+            elif rng1 == 2*rng2:
+                product_name = "Null"
+            elif rng2 == 2*rng1:
+                price = random.randint(0, 10*rng) * random.random()
+                price = round(price, 2)
+            # else:
+            #     logging.info("No errors.")
 
         # Gather everything into a list and return it
-        product = [product_id, product_name, category, price]
-        logging.info(f"{product_name} with ID {product_id} and price ${price:.2f} from category {category} selected.")
-        
-        # use print for testing, return for implementation
-        print(str(counter) + ": " + str(product))
-        # return product
+        product = [product_id, product_name, category, price, 2]
 
+        # Testing log block
+        # if type(price) == type("Hello"):
+        #     logging.info(f"{product_name} with ID {product_id} and price {price} from category {category} selected.")
+        # else:
+        #     logging.info(f"{product_name} with ID {product_id} and price ${price:2f} from category {category} selected.")
+
+        product_list.append(product)
+        # use print for testing, return for implementation
+        # print(str(counter) + ": " + str(product))
+    
+    return product_list
+    
     # Second half of testing block
     # test = collection.find()
     # for elem in test:
