@@ -2,17 +2,33 @@ import datetime
 import random
 import numpy
 import pandas as pd
+import calendar
+from date import val
 ecom = [
-    'Amazon.com'
-    'Ety.com'
-    'Walmart.com'
-    'yeoldestore.com'
-    'LarpersTrove.com'
-    'Blacksmithery.com'
-    'Hardhat.com'
+    'Amazon.com',
+    'Etsy.com' ,
+    'Walmart.com' ,
+    'yeoldestore.com' ,
+    'LarpersTrove.com' ,
+    'Blacksmithery.com' ,
+    'Hardhat.com '
 ]
-columns = ['Order_id', 'Qty_product', 'ecommerece_website'] 
+
+columns = ['Qty_product', 'datetime', 'Ecommerece_website'] 
 df= pd.DataFrame(columns= columns)
 for i in range(10):
-    order = random.choice(ecom.keys())
-    qty = random.randint(1, 10)
+        web = random.choice(list(ecom))
+        qty = random.randint(1, 10)
+        date = [val]
+        dt = random.choice(list(date))
+        df.loc[i] = [qty, dt, web]
+df.to_csv("test2.csv")
+
+#this is from date.py 
+import datetime
+import pandas as pd
+y= pd.date_range('2022-1-1', '2022-8-16', freq='D''1H', name="list.date")
+
+for val in y:
+    
+    print(val)
