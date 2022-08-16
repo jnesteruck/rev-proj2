@@ -34,4 +34,4 @@ class Customer:
         return f"{self._id},{self._name}"
     
     def locationString(self):
-        return f"{self._city},{self._country}"
+        return f"{self._country},{self._city}"
