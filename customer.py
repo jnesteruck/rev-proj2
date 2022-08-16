@@ -31,7 +31,7 @@ class Customer:
         return f"ID: {str(self._id).zfill(3)}, Name: {self._name}, Location: {self._city}, {self._country}"
     
     def nameIDString(self):
-        return f"{self._id}, {self._name}"
+        return f"{self._id},{self._name}"
     
     def locationString(self):
-        return f"{self._city}, {self._country}"
+        return f"{self._city},{self._country}"
