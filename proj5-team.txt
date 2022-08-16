@@ -4,3 +4,9 @@ Keynon Hawkins & Martin Salinas Jr. (qty, datetime, ecommerce_website)
 Raymond Fillingame: product info (product_id, product_name, category, price)
 Raymond Jaconski: transaction info (payment_type, payment_txn_success, failure_reason)
 Jacob Nesteruck: customer info (customer_id, customer_name, country, city)
+
+Order of entries
+---------------------
+orderID(counter), customer_id(JN), customer_name(JN), product_id(RF), product_name(RF), 
+category(RF), payment_type(RJ), qty(KH & MS), price(RF), datetime(KH & MS), country(JN), city(JN), 
+ecommerce_website(KH & MS), payment_txn_id(counter), payment_txn_success(RJ), failure_reason(RJ)
