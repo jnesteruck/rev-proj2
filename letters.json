@@ -1,0 +1,2836 @@
+{
+    "letter frequencies": [
+        {
+            "letter": "E",
+            "frequency": 20821104413,
+            "bigram frequency": [
+                {
+                    "letter": "R",
+                    "frequency": 57754162106
+                },
+                {
+                    "letter": "N",
+                    "frequency": 41004903554
+                },
+                {
+                    "letter": "S",
+                    "frequency": 37766388079
+                },
+                {
+                    "letter": "D",
+                    "frequency": 32937140633
+                },
+                {
+                    "letter": "A",
+                    "frequency": 19403941063
+                },
+                {
+                    "letter": "L",
+                    "frequency": 14952716079
+                },
+                {
+                    "letter": "C",
+                    "frequency": 13457763533
+                },
+                {
+                    "letter": "T",
+                    "frequency": 11634161334
+                },
+                {
+                    "letter": "E",
+                    "frequency": 10647199443
+                },
+                {
+                    "letter": "M",
+                    "frequency": 10536054813
+                },
+                {
+                    "letter": "V",
+                    "frequency": 7184041787
+                },
+                {
+                    "letter": "X",
+                    "frequency": 6035335807
+                },
+                {
+                    "letter": "I",
+                    "frequency": 5169898489
+                },
+                {
+                    "letter": "P",
+                    "frequency": 4837800987
+                },
+                {
+                    "letter": "F",
+                    "frequency": 4588497002
+                },
+                {
+                    "letter": "Y",
+                    "frequency": 4053144855
+                },
+                {
+                    "letter": "G",
+                    "frequency": 3370515965
+                },
+                {
+                    "letter": "W",
+                    "frequency": 3293529190
+                },
+                {
+                    "letter": "O",
+                    "frequency": 2044268477
+                },
+                {
+                    "letter": "Q",
+                    "frequency": 1614312175
+                },
+                {
+                    "letter": "U",
+                    "frequency": 878402090
+                },
+                {
+                    "letter": "B",
+                    "frequency": 763383542
+                },
+                {
+                    "letter": "H",
+                    "frequency": 742240059
+                },
+                {
+                    "letter": "K",
+                    "frequency": 464449289
+                },
+                {
+                    "letter": "J",
+                    "frequency": 128194584
+                },
+                {
+                    "letter": "Z",
+                    "frequency": 127540198
+                }
+            ]
+        },
+        {
+            "letter": "T",
+            "frequency": 118849337945,
+            "bigram frequency": [
+                {
+                    "letter": "H",
+                    "frequency": 100272945963
+                },
+                {
+                    "letter": "I",
+                    "frequency": 37856196209
+                },
+                {
+                    "letter": "E",
+                    "frequency": 33973261529
+                },
+                {
+                    "letter": "O",
+                    "frequency": 29360205581
+                },
+                {
+                    "letter": "A",
+                    "frequency": 14941000711
+                },
+                {
+                    "letter": "R",
+                    "frequency": 12006693396
+                },
+                {
+                    "letter": "S",
+                    "frequency": 9516029773
+                },
+                {
+                    "letter": "U",
+                    "frequency": 7187510085
+                },
+                {
+                    "letter": "Y",
+                    "frequency": 6408447994
+                },
+                {
+                    "letter": "T",
+                    "frequency": 4812693687
+                },
+                {
+                    "letter": "L",
+                    "frequency": 2775935006
+                },
+                {
+                    "letter": "W",
+                    "frequency": 2322619238
+                },
+                {
+                    "letter": "M",
+                    "frequency": 746621025
+                },
+                {
+                    "letter": "C",
+                    "frequency": 736955048
+                },
+                {
+                    "letter": "N",
+                    "frequency": 282266629
+                },
+                {
+                    "letter": "F",
+                    "frequency": 159626603
+                },
+                {
+                    "letter": "P",
+                    "frequency": 121089391
+                },
+                {
+                    "letter": "Z",
+                    "frequency": 108527540
+                },
+                {
+                    "letter": "B",
+                    "frequency": 71746167
+                },
+                {
+                    "letter": "G",
+                    "frequency": 55522877
+                },
+                {
+                    "letter": "D",
+                    "frequency": 36539510
+                },
+                {
+                    "letter": "V",
+                    "frequency": 32805751
+                },
+                {
+                    "letter": "K",
+                    "frequency": 13081991
+                },
+                {
+                    "letter": "X",
+                    "frequency": 3328898
+                },
+                {
+                    "letter": "J",
+                    "frequency": 3169658
+                },
+                {
+                    "letter": "Q",
+                    "frequency": 2517400
+                }
+            ]
+        },
+        {
+            "letter": "A",
+            "frequency": 86893227065,
+            "bigram frequency": [
+                {
+                    "letter": "N",
+                    "frequency": 55974567611
+                },
+                {
+                    "letter": "T",
+                    "frequency": 41920838452
+                },
+                {
+                    "letter": "L",
+                    "frequency": 30662410438
+                },
+                {
+                    "letter": "R",
+                    "frequency": 30308513014
+                },
+                {
+                    "letter": "S",
+                    "frequency": 24561944198
+                },
+                {
+                    "letter": "C",
+                    "frequency": 12625666388
+                },
+                {
+                    "letter": "D",
+                    "frequency": 10375130449
+                },
+                {
+                    "letter": "I",
+                    "frequency": 8922759715
+                },
+                {
+                    "letter": "M",
+                    "frequency": 8032259916
+                },
+                {
+                    "letter": "B",
+                    "frequency": 6479202253
+                },
+                {
+                    "letter": "Y",
+                    "frequency": 6128842727
+                },
+                {
+                    "letter": "V",
+                    "frequency": 5778409728
+                },
+                {
+                    "letter": "G",
+                    "frequency": 5772552144
+                },
+                {
+                    "letter": "P",
+                    "frequency": 5719570727
+                },
+                {
+                    "letter": "U",
+                    "frequency": 3356322923
+                },
+                {
+                    "letter": "K",
+                    "frequency": 2952167845
+                },
+                {
+                    "letter": "F",
+                    "frequency": 2092395523
+                },
+                {
+                    "letter": "W",
+                    "frequency": 1689436638
+                },
+                {
+                    "letter": "X",
+                    "frequency": 531206960
+                },
+                {
+                    "letter": "H",
+                    "frequency": 384694919
+                },
+                {
+                    "letter": "E",
+                    "frequency": 349540062
+                },
+                {
+                    "letter": "Z",
+                    "frequency": 334669428
+                },
+                {
+                    "letter": "J",
+                    "frequency": 331384552
+                },
+                {
+                    "letter": "O",
+                    "frequency": 130442323
+                },
+                {
+                    "letter": "A",
+                    "frequency": 79794787
+                },
+                {
+                    "letter": "Q",
+                    "frequency": 63283982
+                }
+            ]
+        },
+        {
+            "letter": "O",
+            "frequency": 56762601060,
+            "bigram frequency": [
+                {
+                    "letter": "N",
+                    "frequency": 49570981965
+                },
+                {
+                    "letter": "R",
+                    "frequency": 35994097756
+                },
+                {
+                    "letter": "F",
+                    "frequency": 33130341561
+                },
+                {
+                    "letter": "U",
+                    "frequency": 24531132241
+                },
+                {
+                    "letter": "M",
+                    "frequency": 15402602484
+                },
+                {
+                    "letter": "T",
+                    "frequency": 12465822481
+                },
+                {
+                    "letter": "L",
+                    "frequency": 10305660447
+                },
+                {
+                    "letter": "W",
+                    "frequency": 9318366591
+                },
+                {
+                    "letter": "S",
+                    "frequency": 8176085241
+                },
+                {
+                    "letter": "P",
+                    "frequency": 6313536754
+                },
+                {
+                    "letter": "O",
+                    "frequency": 5928601045
+                },
+                {
+                    "letter": "D",
+                    "frequency": 5511014957
+                },
+                {
+                    "letter": "V",
+                    "frequency": 5021440160
+                },
+                {
+                    "letter": "C",
+                    "frequency": 4692062395
+                },
+                {
+                    "letter": "B",
+                    "frequency": 2725791138
+                },
+                {
+                    "letter": "G",
+                    "frequency": 2651165734
+                },
+                {
+                    "letter": "I",
+                    "frequency": 2474275212
+                },
+                {
+                    "letter": "K",
+                    "frequency": 1813376076
+                },
+                {
+                    "letter": "A",
+                    "frequency": 1620913259
+                },
+                {
+                    "letter": "E",
+                    "frequency": 1089254517
+                },
+                {
+                    "letter": "Y",
+                    "frequency": 1020190223
+                },
+                {
+                    "letter": "H",
+                    "frequency": 602121281
+                },
+                {
+                    "letter": "X",
+                    "frequency": 523764012
+                },
+                {
+                    "letter": "J",
+                    "frequency": 196696657
+                },
+                {
+                    "letter": "Z",
+                    "frequency": 97904996
+                },
+                {
+                    "letter": "Q",
+                    "frequency": 29227658
+                }
+            ]
+        },
+        {
+            "letter": "I",
+            "frequency": 54256321754,
+            "bigram frequency": [
+                {
+                    "letter": "N",
+                    "frequency": 68595215308
+                },
+                {
+                    "letter": "S",
+                    "frequency": 31817918249
+                },
+                {
+                    "letter": "T",
+                    "frequency": 31672532308
+                },
+                {
+                    "letter": "O",
+                    "frequency": 23542263265
+                },
+                {
+                    "letter": "C",
+                    "frequency": 19701195496
+                },
+                {
+                    "letter": "L",
+                    "frequency": 12167821320
+                },
+                {
+                    "letter": "E",
+                    "frequency": 10845731320
+                },
+                {
+                    "letter": "M",
+                    "frequency": 8959759181
+                },
+                {
+                    "letter": "R",
+                    "frequency": 8886799024
+                },
+                {
+                    "letter": "D",
+                    "frequency": 8332214014
+                },
+                {
+                    "letter": "V",
+                    "frequency": 8116349309
+                },
+                {
+                    "letter": "A",
+                    "frequency": 8072199471
+                },
+                {
+                    "letter": "G",
+                    "frequency": 7189051323
+                },
+                {
+                    "letter": "F",
+                    "frequency": 5731148470
+                },
+                {
+                    "letter": "B",
+                    "frequency": 2780268452
+                },
+                {
+                    "letter": "P",
+                    "frequency": 2515455253
+                },
+                {
+                    "letter": "Z",
+                    "frequency": 1814164135
+                },
+                {
+                    "letter": "K",
+                    "frequency": 1209994695
+                },
+                {
+                    "letter": "I",
+                    "frequency": 642384029
+                },
+                {
+                    "letter": "X",
+                    "frequency": 621227893
+                },
+                {
+                    "letter": "U",
+                    "frequency": 490874936
+                },
+                {
+                    "letter": "Q",
+                    "frequency": 318727904
+                },
+                {
+                    "letter": "H",
+                    "frequency": 58966344
+                },
+                {
+                    "letter": "J",
+                    "frequency": 31324465
+                },
+                {
+                    "letter": "W",
+                    "frequency": 17611969
+                },
+                {
+                    "letter": "Y",
+                    "frequency": 6247588
+                }
+            ]
+        },
+        {
+            "letter": "N",
+            "frequency": 16990703679,
+            "bigram frequency": [
+                {
+                    "letter": "D",
+                    "frequency": 38129777631
+                },
+                {
+                    "letter": "T",
+                    "frequency": 29359771944
+                },
+                {
+                    "letter": "G",
+                    "frequency": 26871805511
+                },
+                {
+                    "letter": "E",
+                    "frequency": 19504235770
+                },
+                {
+                    "letter": "S",
+                    "frequency": 14350320288
+                },
+                {
+                    "letter": "O",
+                    "frequency": 13099447521
+                },
+                {
+                    "letter": "C",
+                    "frequency": 11722631112
+                },
+                {
+                    "letter": "A",
+                    "frequency": 9790855551
+                },
+                {
+                    "letter": "I",
+                    "frequency": 9564648232
+                },
+                {
+                    "letter": "Y",
+                    "frequency": 2760941827
+                },
+                {
+                    "letter": "U",
+                    "frequency": 2217508482
+                },
+                {
+                    "letter": "N",
+                    "frequency": 2051719074
+                },
+                {
+                    "letter": "F",
+                    "frequency": 1894270041
+                },
+                {
+                    "letter": "L",
+                    "frequency": 1798491132
+                },
+                {
+                    "letter": "V",
+                    "frequency": 1466426243
+                },
+                {
+                    "letter": "K",
+                    "frequency": 1455100124
+                },
+                {
+                    "letter": "M",
+                    "frequency": 782441941
+                },
+                {
+                    "letter": "J",
+                    "frequency": 312598990
+                },
+                {
+                    "letter": "H",
+                    "frequency": 306883963
+                },
+                {
+                    "letter": "R",
+                    "frequency": 258048421
+                },
+                {
+                    "letter": "P",
+                    "frequency": 170186564
+                },
+                {
+                    "letter": "Q",
+                    "frequency": 167770304
+                },
+                {
+                    "letter": "W",
+                    "frequency": 163456000
+                },
+                {
+                    "letter": "Z",
+                    "frequency": 123192934
+                },
+                {
+                    "letter": "B",
+                    "frequency": 122258836
+                },
+                {
+                    "letter": "X",
+                    "frequency": 73899576
+                }
+            ]
+        },
+        {
+            "letter": "S",
+            "frequency": 49734339142,
+            "bigram frequency": [
+                {
+                    "letter": "T",
+                    "frequency": 29704461829
+                },
+                {
+                    "letter": "E",
+                    "frequency": 26282488562
+                },
+                {
+                    "letter": "I",
+                    "frequency": 15509759748
+                },
+                {
+                    "letter": "S",
+                    "frequency": 11421755201
+                },
+                {
+                    "letter": "O",
+                    "frequency": 11214705934
+                },
+                {
+                    "letter": "H",
+                    "frequency": 8888705287
+                },
+                {
+                    "letter": "U",
+                    "frequency": 8774129154
+                },
+                {
+                    "letter": "A",
+                    "frequency": 6147356936
+                },
+                {
+                    "letter": "P",
+                    "frequency": 5392724233
+                },
+                {
+                    "letter": "C",
+                    "frequency": 4363410770
+                },
+                {
+                    "letter": "M",
+                    "frequency": 1838392669
+                },
+                {
+                    "letter": "Y",
+                    "frequency": 1602829285
+                },
+                {
+                    "letter": "L",
+                    "frequency": 1575646777
+                },
+                {
+                    "letter": "K",
+                    "frequency": 1112771273
+                },
+                {
+                    "letter": "W",
+                    "frequency": 663415953
+                },
+                {
+                    "letter": "F",
+                    "frequency": 483979931
+                },
+                {
+                    "letter": "N",
+                    "frequency": 258702825
+                },
+                {
+                    "letter": "B",
+                    "frequency": 223212317
+                },
+                {
+                    "letter": "Q",
+                    "frequency": 209894196
+                },
+                {
+                    "letter": "R",
+                    "frequency": 168896339
+                },
+                {
+                    "letter": "D",
+                    "frequency": 148275222
+                },
+                {
+                    "letter": "G",
+                    "frequency": 69588685
+                },
+                {
+                    "letter": "V",
+                    "frequency": 35005005
+                },
+                {
+                    "letter": "J",
+                    "frequency": 7621847
+                },
+                {
+                    "letter": "Z",
+                    "frequency": 7041052
+                },
+                {
+                    "letter": "X",
+                    "frequency": 503772
+                }
+            ]
+        },
+        {
+            "letter": "R",
+            "frequency": 21020892617,
+            "bigram frequency": [
+                {
+                    "letter": "E",
+                    "frequency": 52285662239
+                },
+                {
+                    "letter": "I",
+                    "frequency": 20516398905
+                },
+                {
+                    "letter": "O",
+                    "frequency": 20491179118
+                },
+                {
+                    "letter": "A",
+                    "frequency": 19332539912
+                },
+                {
+                    "letter": "S",
+                    "frequency": 11180732354
+                },
+                {
+                    "letter": "T",
+                    "frequency": 10198055461
+                },
+                {
+                    "letter": "Y",
+                    "frequency": 6985436186
+                },
+                {
+                    "letter": "D",
+                    "frequency": 5338083783
+                },
+                {
+                    "letter": "M",
+                    "frequency": 4938158020
+                },
+                {
+                    "letter": "N",
+                    "frequency": 4521640992
+                },
+                {
+                    "letter": "U",
+                    "frequency": 3618438291
+                },
+                {
+                    "letter": "C",
+                    "frequency": 3422694015
+                },
+                {
+                    "letter": "R",
+                    "frequency": 3404547067
+                },
+                {
+                    "letter": "G",
+                    "frequency": 2813274913
+                },
+                {
+                    "letter": "K",
+                    "frequency": 2736041446
+                },
+                {
+                    "letter": "L",
+                    "frequency": 2432373251
+                },
+                {
+                    "letter": "V",
+                    "frequency": 1953555667
+                },
+                {
+                    "letter": "P",
+                    "frequency": 1173542093
+                },
+                {
+                    "letter": "F",
+                    "frequency": 909634941
+                },
+                {
+                    "letter": "B",
+                    "frequency": 753194669
+                },
+                {
+                    "letter": "H",
+                    "frequency": 426095630
+                },
+                {
+                    "letter": "W",
+                    "frequency": 359714599
+                },
+                {
+                    "letter": "X",
+                    "frequency": 32990613
+                },
+                {
+                    "letter": "Q",
+                    "frequency": 28152573
+                },
+                {
+                    "letter": "Z",
+                    "frequency": 17993128
+                },
+                {
+                    "letter": "J",
+                    "frequency": 15598009
+                }
+            ]
+        },
+        {
+            "letter": "H",
+            "frequency": 31238837884,
+            "bigram frequency": [
+                {
+                    "letter": "E",
+                    "frequency": 86697336727
+                },
+                {
+                    "letter": "A",
+                    "frequency": 26103411208
+                },
+                {
+                    "letter": "I",
+                    "frequency": 21520845924
+                },
+                {
+                    "letter": "O",
+                    "frequency": 13672603513
+                },
+                {
+                    "letter": "T",
+                    "frequency": 3670802795
+                },
+                {
+                    "letter": "R",
+                    "frequency": 2379584978
+                },
+                {
+                    "letter": "U",
+                    "frequency": 2077887429
+                },
+                {
+                    "letter": "Y",
+                    "frequency": 1412343465
+                },
+                {
+                    "letter": "N",
+                    "frequency": 726288117
+                },
+                {
+                    "letter": "S",
+                    "frequency": 414044112
+                },
+                {
+                    "letter": "M",
+                    "frequency": 359316447
+                },
+                {
+                    "letter": "L",
+                    "frequency": 355049620
+                },
+                {
+                    "letter": "W",
+                    "frequency": 134615178
+                },
+                {
+                    "letter": "B",
+                    "frequency": 123778334
+                },
+                {
+                    "letter": "D",
+                    "frequency": 80544316
+                },
+                {
+                    "letter": "F",
+                    "frequency": 63249924
+                },
+                {
+                    "letter": "C",
+                    "frequency": 34631551
+                },
+                {
+                    "letter": "P",
+                    "frequency": 16696129
+                },
+                {
+                    "letter": "H",
+                    "frequency": 14730425
+                },
+                {
+                    "letter": "Q",
+                    "frequency": 11925353
+                },
+                {
+                    "letter": "Z",
+                    "frequency": 10729982
+                },
+                {
+                    "letter": "G",
+                    "frequency": 7789748
+                },
+                {
+                    "letter": "K",
+                    "frequency": 6595610
+                },
+                {
+                    "letter": "V",
+                    "frequency": 6292998
+                },
+                {
+                    "letter": "J",
+                    "frequency": 1282370
+                },
+                {
+                    "letter": "X",
+                    "frequency": 263997
+                }
+            ]
+        },
+        {
+            "letter": "L",
+            "frequency": 17967162608,
+            "bigram frequency": [
+                {
+                    "letter": "E",
+                    "frequency": 23382173640
+                },
+                {
+                    "letter": "I",
+                    "frequency": 17604626629
+                },
+                {
+                    "letter": "L",
+                    "frequency": 16257360474
+                },
+                {
+                    "letter": "A",
+                    "frequency": 14874551789
+                },
+                {
+                    "letter": "Y",
+                    "frequency": 11983948242
+                },
+                {
+                    "letter": "O",
+                    "frequency": 10908830081
+                },
+                {
+                    "letter": "D",
+                    "frequency": 7122648226
+                },
+                {
+                    "letter": "S",
+                    "frequency": 3990203351
+                },
+                {
+                    "letter": "U",
+                    "frequency": 3811884104
+                },
+                {
+                    "letter": "T",
+                    "frequency": 3486149365
+                },
+                {
+                    "letter": "F",
+                    "frequency": 1507867867
+                },
+                {
+                    "letter": "V",
+                    "frequency": 984229060
+                },
+                {
+                    "letter": "M",
+                    "frequency": 649112313
+                },
+                {
+                    "letter": "K",
+                    "frequency": 555883002
+                },
+                {
+                    "letter": "P",
+                    "frequency": 536595562
+                },
+                {
+                    "letter": "W",
+                    "frequency": 356374125
+                },
+                {
+                    "letter": "C",
+                    "frequency": 333338045
+                },
+                {
+                    "letter": "R",
+                    "frequency": 283411884
+                },
+                {
+                    "letter": "B",
+                    "frequency": 188643782
+                },
+                {
+                    "letter": "G",
+                    "frequency": 171657388
+                },
+                {
+                    "letter": "N",
+                    "frequency": 165509578
+                },
+                {
+                    "letter": "H",
+                    "frequency": 45643026
+                },
+                {
+                    "letter": "Z",
+                    "frequency": 11767790
+                },
+                {
+                    "letter": "X",
+                    "frequency": 8612462
+                },
+                {
+                    "letter": "Q",
+                    "frequency": 3582930
+                },
+                {
+                    "letter": "J",
+                    "frequency": 3169833
+                }
+            ]
+        },
+        {
+            "letter": "D",
+            "frequency": 23610994165,
+            "bigram frequency": [
+                {
+                    "letter": "E",
+                    "frequency": 21565300071
+                },
+                {
+                    "letter": "I",
+                    "frequency": 13899990598
+                },
+                {
+                    "letter": "O",
+                    "frequency": 5307591560
+                },
+                {
+                    "letter": "A",
+                    "frequency": 4259590348
+                },
+                {
+                    "letter": "U",
+                    "frequency": 4186093215
+                },
+                {
+                    "letter": "S",
+                    "frequency": 3560125353
+                },
+                {
+                    "letter": "R",
+                    "frequency": 2409399231
+                },
+                {
+                    "letter": "Y",
+                    "frequency": 1421751251
+                },
+                {
+                    "letter": "D",
+                    "frequency": 1205446875
+                },
+                {
+                    "letter": "L",
+                    "frequency": 911886482
+                },
+                {
+                    "letter": "G",
+                    "frequency": 874188188
+                },
+                {
+                    "letter": "V",
+                    "frequency": 537221821
+                },
+                {
+                    "letter": "M",
+                    "frequency": 512522701
+                },
+                {
+                    "letter": "W",
+                    "frequency": 230152384
+                },
+                {
+                    "letter": "N",
+                    "frequency": 213431654
+                },
+                {
+                    "letter": "H",
+                    "frequency": 153344431
+                },
+                {
+                    "letter": "J",
+                    "frequency": 134832736
+                },
+                {
+                    "letter": "T",
+                    "frequency": 81648332
+                },
+                {
+                    "letter": "F",
+                    "frequency": 78347492
+                },
+                {
+                    "letter": "B",
+                    "frequency": 78190243
+                },
+                {
+                    "letter": "C",
+                    "frequency": 71030077
+                },
+                {
+                    "letter": "P",
+                    "frequency": 48855638
+                },
+                {
+                    "letter": "Q",
+                    "frequency": 19927900
+                },
+                {
+                    "letter": "K",
+                    "frequency": 9494027
+                },
+                {
+                    "letter": "Z",
+                    "frequency": 2200704
+                },
+                {
+                    "letter": "X",
+                    "frequency": 1296277
+                }
+            ]
+        },
+        {
+            "letter": "C",
+            "frequency": 38962746440,
+            "bigram frequency": [
+                {
+                    "letter": "O",
+                    "frequency": 22384167777
+                },
+                {
+                    "letter": "E",
+                    "frequency": 18367773425
+                },
+                {
+                    "letter": "H",
+                    "frequency": 16854985236
+                },
+                {
+                    "letter": "A",
+                    "frequency": 15174413181
+                },
+                {
+                    "letter": "T",
+                    "frequency": 12997849406
+                },
+                {
+                    "letter": "I",
+                    "frequency": 7936922442
+                },
+                {
+                    "letter": "U",
+                    "frequency": 4585165906
+                },
+                {
+                    "letter": "R",
+                    "frequency": 4214150542
+                },
+                {
+                    "letter": "L",
+                    "frequency": 4201617719
+                },
+                {
+                    "letter": "K",
+                    "frequency": 3316660134
+                },
+                {
+                    "letter": "C",
+                    "frequency": 2344219345
+                },
+                {
+                    "letter": "Y",
+                    "frequency": 1176324279
+                },
+                {
+                    "letter": "S",
+                    "frequency": 643530723
+                },
+                {
+                    "letter": "Q",
+                    "frequency": 154363546
+                },
+                {
+                    "letter": "M",
+                    "frequency": 75144874
+                },
+                {
+                    "letter": "D",
+                    "frequency": 62905910
+                },
+                {
+                    "letter": "F",
+                    "frequency": 39704311
+                },
+                {
+                    "letter": "P",
+                    "frequency": 37067423
+                },
+                {
+                    "letter": "G",
+                    "frequency": 24975673
+                },
+                {
+                    "letter": "N",
+                    "frequency": 24249641
+                },
+                {
+                    "letter": "Z",
+                    "frequency": 20601701
+                },
+                {
+                    "letter": "B",
+                    "frequency": 17751935
+                },
+                {
+                    "letter": "V",
+                    "frequency": 5869407
+                },
+                {
+                    "letter": "W",
+                    "frequency": 3909223
+                },
+                {
+                    "letter": "J",
+                    "frequency": 2962048
+                },
+                {
+                    "letter": "X",
+                    "frequency": 876736
+                }
+            ]
+        },
+        {
+            "letter": "U",
+            "frequency": 8801470813,
+            "bigram frequency": [
+                {
+                    "letter": "R",
+                    "frequency": 15303657594
+                },
+                {
+                    "letter": "S",
+                    "frequency": 12808517567
+                },
+                {
+                    "letter": "T",
+                    "frequency": 11423899818
+                },
+                {
+                    "letter": "N",
+                    "frequency": 11121118166
+                },
+                {
+                    "letter": "L",
+                    "frequency": 9751225781
+                },
+                {
+                    "letter": "C",
+                    "frequency": 5291161134
+                },
+                {
+                    "letter": "E",
+                    "frequency": 4158448570
+                },
+                {
+                    "letter": "M",
+                    "frequency": 3901923211
+                },
+                {
+                    "letter": "A",
+                    "frequency": 3844138094
+                },
+                {
+                    "letter": "P",
+                    "frequency": 3835093459
+                },
+                {
+                    "letter": "G",
+                    "frequency": 3606562400
+                },
+                {
+                    "letter": "I",
+                    "frequency": 2852182384
+                },
+                {
+                    "letter": "D",
+                    "frequency": 2577213760
+                },
+                {
+                    "letter": "B",
+                    "frequency": 2497666762
+                },
+                {
+                    "letter": "F",
+                    "frequency": 522547858
+                },
+                {
+                    "letter": "O",
+                    "frequency": 300484143
+                },
+                {
+                    "letter": "K",
+                    "frequency": 129819900
+                },
+                {
+                    "letter": "Y",
+                    "frequency": 128782521
+                },
+                {
+                    "letter": "X",
+                    "frequency": 110947766
+                },
+                {
+                    "letter": "V",
+                    "frequency": 82252351
+                },
+                {
+                    "letter": "Z",
+                    "frequency": 53873803
+                },
+                {
+                    "letter": "H",
+                    "frequency": 30097154
+                },
+                {
+                    "letter": "U",
+                    "frequency": 22006895
+                },
+                {
+                    "letter": "J",
+                    "frequency": 14548024
+                },
+                {
+                    "letter": "W",
+                    "frequency": 7824504
+                },
+                {
+                    "letter": "Q",
+                    "frequency": 7235727
+                }
+            ]
+        },
+        {
+            "letter": "M",
+            "frequency": 28460312383,
+            "bigram frequency": [
+                {
+                    "letter": "E",
+                    "frequency": 22360109325
+                },
+                {
+                    "letter": "A",
+                    "frequency": 15938689768
+                },
+                {
+                    "letter": "O",
+                    "frequency": 9498813191
+                },
+                {
+                    "letter": "I",
+                    "frequency": 8957825538
+                },
+                {
+                    "letter": "P",
+                    "frequency": 6743935008
+                },
+                {
+                    "letter": "U",
+                    "frequency": 3231856188
+                },
+                {
+                    "letter": "M",
+                    "frequency": 2708822249
+                },
+                {
+                    "letter": "S",
+                    "frequency": 2617582287
+                },
+                {
+                    "letter": "B",
+                    "frequency": 2544901434
+                },
+                {
+                    "letter": "Y",
+                    "frequency": 1753447198
+                },
+                {
+                    "letter": "N",
+                    "frequency": 247850339
+                },
+                {
+                    "letter": "L",
+                    "frequency": 129888836
+                },
+                {
+                    "letter": "C",
+                    "frequency": 121591374
+                },
+                {
+                    "letter": "F",
+                    "frequency": 107664447
+                },
+                {
+                    "letter": "R",
+                    "frequency": 87580303
+                },
+                {
+                    "letter": "T",
+                    "frequency": 38538709
+                },
+                {
+                    "letter": "G",
+                    "frequency": 34537023
+                },
+                {
+                    "letter": "D",
+                    "frequency": 18929019
+                },
+                {
+                    "letter": "W",
+                    "frequency": 16465357
+                },
+                {
+                    "letter": "H",
+                    "frequency": 15033898
+                },
+                {
+                    "letter": "V",
+                    "frequency": 8172535
+                },
+                {
+                    "letter": "K",
+                    "frequency": 3956883
+                },
+                {
+                    "letter": "J",
+                    "frequency": 2923325
+                },
+                {
+                    "letter": "X",
+                    "frequency": 994334
+                },
+                {
+                    "letter": "Z",
+                    "frequency": 970282
+                },
+                {
+                    "letter": "Q",
+                    "frequency": 708424
+                }
+            ]
+        },
+        {
+            "letter": "F",
+            "frequency": 29952197540,
+            "bigram frequency": [
+                {
+                    "letter": "O",
+                    "frequency": 13753006196
+                },
+                {
+                    "letter": "I",
+                    "frequency": 8024355222
+                },
+                {
+                    "letter": "E",
+                    "frequency": 6670566518
+                },
+                {
+                    "letter": "R",
+                    "frequency": 6011200185
+                },
+                {
+                    "letter": "A",
+                    "frequency": 4624241031
+                },
+                {
+                    "letter": "F",
+                    "frequency": 4125634219
+                },
+                {
+                    "letter": "U",
+                    "frequency": 2706168901
+                },
+                {
+                    "letter": "T",
+                    "frequency": 2302659749
+                },
+                {
+                    "letter": "L",
+                    "frequency": 1830098844
+                },
+                {
+                    "letter": "Y",
+                    "frequency": 256535008
+                },
+                {
+                    "letter": "S",
+                    "frequency": 155349948
+                },
+                {
+                    "letter": "M",
+                    "frequency": 19340776
+                },
+                {
+                    "letter": "C",
+                    "frequency": 16254390
+                },
+                {
+                    "letter": "G",
+                    "frequency": 14424524
+                },
+                {
+                    "letter": "D",
+                    "frequency": 13966832
+                },
+                {
+                    "letter": "N",
+                    "frequency": 11823066
+                },
+                {
+                    "letter": "B",
+                    "frequency": 7730842
+                },
+                {
+                    "letter": "W",
+                    "frequency": 6451511
+                },
+                {
+                    "letter": "P",
+                    "frequency": 6262895
+                },
+                {
+                    "letter": "H",
+                    "frequency": 5166165
+                },
+                {
+                    "letter": "K",
+                    "frequency": 3293208
+                },
+                {
+                    "letter": "J",
+                    "frequency": 2065436
+                },
+                {
+                    "letter": "X",
+                    "frequency": 812116
+                },
+                {
+                    "letter": "V",
+                    "frequency": 807297
+                },
+                {
+                    "letter": "Z",
+                    "frequency": 263860
+                },
+                {
+                    "letter": "Q",
+                    "frequency": 149430
+                }
+            ]
+        },
+        {
+            "letter": "P",
+            "frequency": 32124438693,
+            "bigram frequency": [
+                {
+                    "letter": "E",
+                    "frequency": 13477683504
+                },
+                {
+                    "letter": "R",
+                    "frequency": 13378480175
+                },
+                {
+                    "letter": "O",
+                    "frequency": 10189505383
+                },
+                {
+                    "letter": "A",
+                    "frequency": 9123652775
+                },
+                {
+                    "letter": "L",
+                    "frequency": 7415349106
+                },
+                {
+                    "letter": "P",
+                    "frequency": 3850125519
+                },
+                {
+                    "letter": "I",
+                    "frequency": 3470838749
+                },
+                {
+                    "letter": "T",
+                    "frequency": 2982699529
+                },
+                {
+                    "letter": "U",
+                    "frequency": 2947681332
+                },
+                {
+                    "letter": "H",
+                    "frequency": 2661480326
+                },
+                {
+                    "letter": "S",
+                    "frequency": 1538723474
+                },
+                {
+                    "letter": "M",
+                    "frequency": 449910017
+                },
+                {
+                    "letter": "Y",
+                    "frequency": 331698156
+                },
+                {
+                    "letter": "F",
+                    "frequency": 41022263
+                },
+                {
+                    "letter": "B",
+                    "frequency": 36901495
+                },
+                {
+                    "letter": "W",
+                    "frequency": 34037460
+                },
+                {
+                    "letter": "D",
+                    "frequency": 33798376
+                },
+                {
+                    "letter": "N",
+                    "frequency": 33536129
+                },
+                {
+                    "letter": "C",
+                    "frequency": 33156666
+                },
+                {
+                    "letter": "K",
+                    "frequency": 23099462
+                },
+                {
+                    "letter": "G",
+                    "frequency": 13354952
+                },
+                {
+                    "letter": "Z",
+                    "frequency": 6382200
+                },
+                {
+                    "letter": "V",
+                    "frequency": 6222096
+                },
+                {
+                    "letter": "J",
+                    "frequency": 2810773
+                },
+                {
+                    "letter": "X",
+                    "frequency": 1473468
+                },
+                {
+                    "letter": "Q",
+                    "frequency": 1075049
+                }
+            ]
+        },
+        {
+            "letter": "G",
+            "frequency": 12211759680,
+            "bigram frequency": [
+                {
+                    "letter": "E",
+                    "frequency": 10861045622
+                },
+                {
+                    "letter": "H",
+                    "frequency": 6414827751
+                },
+                {
+                    "letter": "R",
+                    "frequency": 5548472398
+                },
+                {
+                    "letter": "I",
+                    "frequency": 4275639800
+                },
+                {
+                    "letter": "A",
+                    "frequency": 4175274057
+                },
+                {
+                    "letter": "O",
+                    "frequency": 3725558729
+                },
+                {
+                    "letter": "U",
+                    "frequency": 2418410978
+                },
+                {
+                    "letter": "N",
+                    "frequency": 1850801359
+                },
+                {
+                    "letter": "L",
+                    "frequency": 1709752272
+                },
+                {
+                    "letter": "S",
+                    "frequency": 1443474876
+                },
+                {
+                    "letter": "Y",
+                    "frequency": 731420025
+                },
+                {
+                    "letter": "G",
+                    "frequency": 697999944
+                },
+                {
+                    "letter": "T",
+                    "frequency": 434302509
+                },
+                {
+                    "letter": "M",
+                    "frequency": 277966576
+                },
+                {
+                    "letter": "D",
+                    "frequency": 89087728
+                },
+                {
+                    "letter": "F",
+                    "frequency": 33962536
+                },
+                {
+                    "letter": "W",
+                    "frequency": 18260884
+                },
+                {
+                    "letter": "B",
+                    "frequency": 13944852
+                },
+                {
+                    "letter": "P",
+                    "frequency": 11612944
+                },
+                {
+                    "letter": "K",
+                    "frequency": 7338894
+                },
+                {
+                    "letter": "C",
+                    "frequency": 6455066
+                },
+                {
+                    "letter": "Z",
+                    "frequency": 3431194
+                },
+                {
+                    "letter": "V",
+                    "frequency": 1192366
+                },
+                {
+                    "letter": "J",
+                    "frequency": 1093028
+                },
+                {
+                    "letter": "X",
+                    "frequency": 557030
+                },
+                {
+                    "letter": "Q",
+                    "frequency": 345624
+                }
+            ]
+        },
+        {
+            "letter": "W",
+            "frequency": 40889321958,
+            "bigram frequency": [
+                {
+                    "letter": "A",
+                    "frequency": 10865206430
+                },
+                {
+                    "letter": "H",
+                    "frequency": 10680697684
+                },
+                {
+                    "letter": "I",
+                    "frequency": 10557401491
+                },
+                {
+                    "letter": "E",
+                    "frequency": 10176141608
+                },
+                {
+                    "letter": "O",
+                    "frequency": 6252724050
+                },
+                {
+                    "letter": "N",
+                    "frequency": 2227183930
+                },
+                {
+                    "letter": "S",
+                    "frequency": 989253674
+                },
+                {
+                    "letter": "R",
+                    "frequency": 867361010
+                },
+                {
+                    "letter": "L",
+                    "frequency": 429185823
+                },
+                {
+                    "letter": "T",
+                    "frequency": 184446342
+                },
+                {
+                    "letter": "D",
+                    "frequency": 99767462
+                },
+                {
+                    "letter": "Y",
+                    "frequency": 68368953
+                },
+                {
+                    "letter": "F",
+                    "frequency": 45330551
+                },
+                {
+                    "letter": "M",
+                    "frequency": 30732232
+                },
+                {
+                    "letter": "K",
+                    "frequency": 30095733
+                },
+                {
+                    "letter": "B",
+                    "frequency": 29929113
+                },
+                {
+                    "letter": "P",
+                    "frequency": 20982546
+                },
+                {
+                    "letter": "U",
+                    "frequency": 19601657
+                },
+                {
+                    "letter": "C",
+                    "frequency": 19008254
+                },
+                {
+                    "letter": "W",
+                    "frequency": 7377619
+                },
+                {
+                    "letter": "G",
+                    "frequency": 2751783
+                },
+                {
+                    "letter": "J",
+                    "frequency": 914179
+                },
+                {
+                    "letter": "V",
+                    "frequency": 389123
+                },
+                {
+                    "letter": "X",
+                    "frequency": 150637
+                }
+            ]
+        },
+        {
+            "letter": "Y",
+            "frequency": 5677068230,
+            "bigram frequency": [
+                {
+                    "letter": "O",
+                    "frequency": 4226720021
+                },
+                {
+                    "letter": "S",
+                    "frequency": 2730343336
+                },
+                {
+                    "letter": "E",
+                    "frequency": 2612941418
+                },
+                {
+                    "letter": "I",
+                    "frequency": 812619095
+                },
+                {
+                    "letter": "P",
+                    "frequency": 702499946
+                },
+                {
+                    "letter": "M",
+                    "frequency": 667551857
+                },
+                {
+                    "letter": "T",
+                    "frequency": 470429861
+                },
+                {
+                    "letter": "A",
+                    "frequency": 444542870
+                },
+                {
+                    "letter": "L",
+                    "frequency": 416082307
+                },
+                {
+                    "letter": "C",
+                    "frequency": 380670476
+                },
+                {
+                    "letter": "N",
+                    "frequency": 372595315
+                },
+                {
+                    "letter": "R",
+                    "frequency": 219696469
+                },
+                {
+                    "letter": "D",
+                    "frequency": 192245315
+                },
+                {
+                    "letter": "B",
+                    "frequency": 121220723
+                },
+                {
+                    "letter": "W",
+                    "frequency": 95070267
+                },
+                {
+                    "letter": "G",
+                    "frequency": 73102462
+                },
+                {
+                    "letter": "Z",
+                    "frequency": 51097953
+                },
+                {
+                    "letter": "U",
+                    "frequency": 37436235
+                },
+                {
+                    "letter": "F",
+                    "frequency": 21246637
+                },
+                {
+                    "letter": "H",
+                    "frequency": 14682887
+                },
+                {
+                    "letter": "K",
+                    "frequency": 9292584
+                },
+                {
+                    "letter": "V",
+                    "frequency": 5115763
+                },
+                {
+                    "letter": "X",
+                    "frequency": 4211192
+                },
+                {
+                    "letter": "Y",
+                    "frequency": 1993017
+                },
+                {
+                    "letter": "J",
+                    "frequency": 561334
+                },
+                {
+                    "letter": "Q",
+                    "frequency": 384882
+                }
+            ]
+        },
+        {
+            "letter": "B",
+            "frequency": 32978416403,
+            "bigram frequency": [
+                {
+                    "letter": "E",
+                    "frequency": 16249257887
+                },
+                {
+                    "letter": "L",
+                    "frequency": 6581097936
+                },
+                {
+                    "letter": "O",
+                    "frequency": 5509918152
+                },
+                {
+                    "letter": "U",
+                    "frequency": 5214802738
+                },
+                {
+                    "letter": "Y",
+                    "frequency": 4975814759
+                },
+                {
+                    "letter": "A",
+                    "frequency": 4122472992
+                },
+                {
+                    "letter": "R",
+                    "frequency": 3145611704
+                },
+                {
+                    "letter": "I",
+                    "frequency": 3005679357
+                },
+                {
+                    "letter": "S",
+                    "frequency": 1292319275
+                },
+                {
+                    "letter": "J",
+                    "frequency": 654853039
+                },
+                {
+                    "letter": "T",
+                    "frequency": 482272940
+                },
+                {
+                    "letter": "B",
+                    "frequency": 308276690
+                },
+                {
+                    "letter": "V",
+                    "frequency": 108385069
+                },
+                {
+                    "letter": "M",
+                    "frequency": 88228719
+                },
+                {
+                    "letter": "D",
+                    "frequency": 69761165
+                },
+                {
+                    "letter": "N",
+                    "frequency": 59062122
+                },
+                {
+                    "letter": "C",
+                    "frequency": 53278096
+                },
+                {
+                    "letter": "H",
+                    "frequency": 29797934
+                },
+                {
+                    "letter": "P",
+                    "frequency": 15427250
+                },
+                {
+                    "letter": "W",
+                    "frequency": 8319869
+                },
+                {
+                    "letter": "G",
+                    "frequency": 7203255
+                },
+                {
+                    "letter": "F",
+                    "frequency": 4108696
+                },
+                {
+                    "letter": "K",
+                    "frequency": 2639491
+                },
+                {
+                    "letter": "Z",
+                    "frequency": 1007374
+                },
+                {
+                    "letter": "X",
+                    "frequency": 778622
+                },
+                {
+                    "letter": "Q",
+                    "frequency": 346506
+                }
+            ]
+        },
+        {
+            "letter": "V",
+            "frequency": 6129410533,
+            "bigram frequency": [
+                {
+                    "letter": "E",
+                    "frequency": 23270129573
+                },
+                {
+                    "letter": "I",
+                    "frequency": 7600241898
+                },
+                {
+                    "letter": "A",
+                    "frequency": 3946966167
+                },
+                {
+                    "letter": "O",
+                    "frequency": 2004982879
+                },
+                {
+                    "letter": "Y",
+                    "frequency": 138085211
+                },
+                {
+                    "letter": "U",
+                    "frequency": 62384927
+                },
+                {
+                    "letter": "R",
+                    "frequency": 24701238
+                },
+                {
+                    "letter": "S",
+                    "frequency": 16263248
+                },
+                {
+                    "letter": "L",
+                    "frequency": 11621019
+                },
+                {
+                    "letter": "D",
+                    "frequency": 8430332
+                },
+                {
+                    "letter": "C",
+                    "frequency": 6570845
+                },
+                {
+                    "letter": "T",
+                    "frequency": 6181932
+                },
+                {
+                    "letter": "P",
+                    "frequency": 5510046
+                },
+                {
+                    "letter": "N",
+                    "frequency": 4317772
+                },
+                {
+                    "letter": "M",
+                    "frequency": 3178223
+                },
+                {
+                    "letter": "G",
+                    "frequency": 2960268
+                },
+                {
+                    "letter": "H",
+                    "frequency": 2691078
+                },
+                {
+                    "letter": "V",
+                    "frequency": 2622571
+                },
+                {
+                    "letter": "B",
+                    "frequency": 2496014
+                },
+                {
+                    "letter": "F",
+                    "frequency": 1550317
+                },
+                {
+                    "letter": "W",
+                    "frequency": 742188
+                },
+                {
+                    "letter": "J",
+                    "frequency": 724370
+                },
+                {
+                    "letter": "Z",
+                    "frequency": 501189
+                },
+                {
+                    "letter": "X",
+                    "frequency": 449854
+                },
+                {
+                    "letter": "K",
+                    "frequency": 337545
+                },
+                {
+                    "letter": "Q",
+                    "frequency": 212856
+                }
+            ]
+        },
+        {
+            "letter": "K",
+            "frequency": 3390029632,
+            "bigram frequency": [
+                {
+                    "letter": "E",
+                    "frequency": 6027536039
+                },
+                {
+                    "letter": "I",
+                    "frequency": 2759841743
+                },
+                {
+                    "letter": "N",
+                    "frequency": 1450401608
+                },
+                {
+                    "letter": "S",
+                    "frequency": 1339590722
+                },
+                {
+                    "letter": "A",
+                    "frequency": 478095427
+                },
+                {
+                    "letter": "L",
+                    "frequency": 298033281
+                },
+                {
+                    "letter": "O",
+                    "frequency": 171324962
+                },
+                {
+                    "letter": "Y",
+                    "frequency": 167761726
+                },
+                {
+                    "letter": "H",
+                    "frequency": 89811517
+                },
+                {
+                    "letter": "U",
+                    "frequency": 85313841
+                },
+                {
+                    "letter": "R",
+                    "frequency": 76743394
+                },
+                {
+                    "letter": "G",
+                    "frequency": 72267691
+                },
+                {
+                    "letter": "W",
+                    "frequency": 61416538
+                },
+                {
+                    "letter": "M",
+                    "frequency": 50449220
+                },
+                {
+                    "letter": "F",
+                    "frequency": 44759608
+                },
+                {
+                    "letter": "T",
+                    "frequency": 29132180
+                },
+                {
+                    "letter": "B",
+                    "frequency": 25406204
+                },
+                {
+                    "letter": "P",
+                    "frequency": 20492678
+                },
+                {
+                    "letter": "D",
+                    "frequency": 18894758
+                },
+                {
+                    "letter": "K",
+                    "frequency": 12782664
+                },
+                {
+                    "letter": "C",
+                    "frequency": 6326022
+                },
+                {
+                    "letter": "V",
+                    "frequency": 4414960
+                },
+                {
+                    "letter": "J",
+                    "frequency": 3471162
+                },
+                {
+                    "letter": "X",
+                    "frequency": 555422
+                },
+                {
+                    "letter": "Q",
+                    "frequency": 187242
+                },
+                {
+                    "letter": "Z",
+                    "frequency": 150760
+                }
+            ]
+        },
+        {
+            "letter": "X",
+            "frequency": 335403585,
+            "bigram frequency": [
+                {
+                    "letter": "P",
+                    "frequency": 1885334638
+                },
+                {
+                    "letter": "T",
+                    "frequency": 1315669490
+                },
+                {
+                    "letter": "I",
+                    "frequency": 1111463633
+                },
+                {
+                    "letter": "A",
+                    "frequency": 834649781
+                },
+                {
+                    "letter": "C",
+                    "frequency": 746076293
+                },
+                {
+                    "letter": "E",
+                    "frequency": 614533122
+                },
+                {
+                    "letter": "U",
+                    "frequency": 134528161
+                },
+                {
+                    "letter": "H",
+                    "frequency": 117618666
+                },
+                {
+                    "letter": "X",
+                    "frequency": 79068246
+                },
+                {
+                    "letter": "O",
+                    "frequency": 76097183
+                },
+                {
+                    "letter": "Y",
+                    "frequency": 72645837
+                },
+                {
+                    "letter": "V",
+                    "frequency": 55076715
+                },
+                {
+                    "letter": "F",
+                    "frequency": 52374239
+                },
+                {
+                    "letter": "L",
+                    "frequency": 16728256
+                },
+                {
+                    "letter": "Q",
+                    "frequency": 8225536
+                },
+                {
+                    "letter": "M",
+                    "frequency": 6569222
+                },
+                {
+                    "letter": "W",
+                    "frequency": 6292525
+                },
+                {
+                    "letter": "B",
+                    "frequency": 2164724
+                },
+                {
+                    "letter": "S",
+                    "frequency": 1804740
+                },
+                {
+                    "letter": "N",
+                    "frequency": 1613611
+                },
+                {
+                    "letter": "R",
+                    "frequency": 907409
+                },
+                {
+                    "letter": "G",
+                    "frequency": 542548
+                },
+                {
+                    "letter": "J",
+                    "frequency": 511074
+                },
+                {
+                    "letter": "K",
+                    "frequency": 281255
+                },
+                {
+                    "letter": "D",
+                    "frequency": 168263
+                },
+                {
+                    "letter": "Z",
+                    "frequency": 136521
+                }
+            ]
+        },
+        {
+            "letter": "J",
+            "frequency": 3801073430,
+            "bigram frequency": [
+                {
+                    "letter": "U",
+                    "frequency": 1655210582
+                },
+                {
+                    "letter": "O",
+                    "frequency": 1516687319
+                },
+                {
+                    "letter": "E",
+                    "frequency": 1463052212
+                },
+                {
+                    "letter": "A",
+                    "frequency": 729206855
+                },
+                {
+                    "letter": "I",
+                    "frequency": 77899882
+                },
+                {
+                    "letter": "R",
+                    "frequency": 6846578
+                },
+                {
+                    "letter": "P",
+                    "frequency": 6129447
+                },
+                {
+                    "letter": "N",
+                    "frequency": 4150888
+                },
+                {
+                    "letter": "M",
+                    "frequency": 3659540
+                },
+                {
+                    "letter": "H",
+                    "frequency": 3541869
+                },
+                {
+                    "letter": "C",
+                    "frequency": 3447571
+                },
+                {
+                    "letter": "S",
+                    "frequency": 3329038
+                },
+                {
+                    "letter": "L",
+                    "frequency": 3192327
+                },
+                {
+                    "letter": "J",
+                    "frequency": 2979950
+                },
+                {
+                    "letter": "T",
+                    "frequency": 2917850
+                },
+                {
+                    "letter": "D",
+                    "frequency": 2615147
+                },
+                {
+                    "letter": "F",
+                    "frequency": 2421784
+                },
+                {
+                    "letter": "B",
+                    "frequency": 2126115
+                },
+                {
+                    "letter": "K",
+                    "frequency": 1740133
+                },
+                {
+                    "letter": "V",
+                    "frequency": 1719726
+                },
+                {
+                    "letter": "W",
+                    "frequency": 1165914
+                },
+                {
+                    "letter": "Y",
+                    "frequency": 1120221
+                },
+                {
+                    "letter": "G",
+                    "frequency": 1034900
+                },
+                {
+                    "letter": "Z",
+                    "frequency": 220675
+                },
+                {
+                    "letter": "X",
+                    "frequency": 161750
+                }
+            ]
+        },
+        {
+            "letter": "Q",
+            "frequency": 1647734497,
+            "bigram frequency": [
+                {
+                    "letter": "U",
+                    "frequency": 4160167957
+                },
+                {
+                    "letter": "I",
+                    "frequency": 8954617
+                },
+                {
+                    "letter": "L",
+                    "frequency": 6708919
+                },
+                {
+                    "letter": "S",
+                    "frequency": 4448602
+                },
+                {
+                    "letter": "A",
+                    "frequency": 4298294
+                },
+                {
+                    "letter": "N",
+                    "frequency": 1859810
+                },
+                {
+                    "letter": "R",
+                    "frequency": 1744325
+                },
+                {
+                    "letter": "Q",
+                    "frequency": 1712219
+                },
+                {
+                    "letter": "T",
+                    "frequency": 1385505
+                },
+                {
+                    "letter": "O",
+                    "frequency": 1324363
+                },
+                {
+                    "letter": "C",
+                    "frequency": 1127399
+                },
+                {
+                    "letter": "B",
+                    "frequency": 1083443
+                },
+                {
+                    "letter": "M",
+                    "frequency": 989868
+                },
+                {
+                    "letter": "F",
+                    "frequency": 947879
+                },
+                {
+                    "letter": "V",
+                    "frequency": 635514
+                },
+                {
+                    "letter": "E",
+                    "frequency": 572443
+                },
+                {
+                    "letter": "D",
+                    "frequency": 519921
+                },
+                {
+                    "letter": "P",
+                    "frequency": 272180
+                },
+                {
+                    "letter": "H",
+                    "frequency": 263509
+                },
+                {
+                    "letter": "J",
+                    "frequency": 236928
+                },
+                {
+                    "letter": "W",
+                    "frequency": 163292
+                },
+                {
+                    "letter": "X",
+                    "frequency": 159505
+                }
+            ]
+        },
+        {
+            "letter": "Z",
+            "frequency": 336016172,
+            "bigram frequency": [
+                {
+                    "letter": "E",
+                    "frequency": 1402290616
+                },
+                {
+                    "letter": "A",
+                    "frequency": 702199296
+                },
+                {
+                    "letter": "I",
+                    "frequency": 341671190
+                },
+                {
+                    "letter": "O",
+                    "frequency": 202480511
+                },
+                {
+                    "letter": "Z",
+                    "frequency": 75012595
+                },
+                {
+                    "letter": "Y",
+                    "frequency": 66473188
+                },
+                {
+                    "letter": "U",
+                    "frequency": 60692846
+                },
+                {
+                    "letter": "L",
+                    "frequency": 35456851
+                },
+                {
+                    "letter": "H",
+                    "frequency": 18782710
+                },
+                {
+                    "letter": "S",
+                    "frequency": 8395904
+                },
+                {
+                    "letter": "T",
+                    "frequency": 6627349
+                },
+                {
+                    "letter": "W",
+                    "frequency": 6279286
+                },
+                {
+                    "letter": "B",
+                    "frequency": 5858211
+                },
+                {
+                    "letter": "R",
+                    "frequency": 5320518
+                },
+                {
+                    "letter": "G",
+                    "frequency": 4726653
+                },
+                {
+                    "letter": "M",
+                    "frequency": 4713608
+                },
+                {
+                    "letter": "V",
+                    "frequency": 4618705
+                },
+                {
+                    "letter": "N",
+                    "frequency": 4300522
+                },
+                {
+                    "letter": "C",
+                    "frequency": 2100797
+                },
+                {
+                    "letter": "D",
+                    "frequency": 1415016
+                },
+                {
+                    "letter": "P",
+                    "frequency": 1361846
+                },
+                {
+                    "letter": "Q",
+                    "frequency": 913036
+                },
+                {
+                    "letter": "K",
+                    "frequency": 906537
+                },
+                {
+                    "letter": "F",
+                    "frequency": 608389
+                },
+                {
+                    "letter": "J",
+                    "frequency": 309029
+                },
+                {
+                    "letter": "X",
+                    "frequency": 108224
+                }
+            ]
+        }
+    ]
+}
