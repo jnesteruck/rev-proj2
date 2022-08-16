@@ -1,0 +1,18 @@
+import datetime
+import random
+import numpy
+import pandas as pd
+ecom = [
+    'Amazon.com'
+    'Ety.com'
+    'Walmart.com'
+    'yeoldestore.com'
+    'LarpersTrove.com'
+    'Blacksmithery.com'
+    'Hardhat.com'
+]
+columns = ['Order_id', 'Qty_product', 'ecommerece_website'] 
+df= pd.DataFrame(columns= columns)
+for i in range(10):
+    order = random.choice(ecom.keys())
+    qty = random.randint(1, 10)
