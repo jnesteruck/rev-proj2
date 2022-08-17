@@ -21,5 +21,9 @@ def rdt():
     rt= f'{str(hour).zfill(2)}:{str(minute).zfill(2)}:{str(sec).zfill(2)}'
     # print(rt)
     rdt = f'{random_date} {rt}'
+    if random.random() < 0.005:
+        rdt = f'{random_date}{rt}'
+    if random.random() < 0.005:
+        rdt = f'{rt} {random_date}'
     # print(rdt)
     return rdt
