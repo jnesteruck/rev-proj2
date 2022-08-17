@@ -1,65 +1,66 @@
-2022-08-17 11:34:58,292 :: *********************************************************
-2022-08-17 11:34:58,292 :: Database Primed
-2022-08-17 11:35:01,085 :: null error detected.
-2022-08-17 11:35:01,141 :: null error detected.
-2022-08-17 11:35:01,442 :: null error detected.
-2022-08-17 11:35:01,445 :: null error detected.
-2022-08-17 11:35:01,448 :: null error detected.
-2022-08-17 11:35:01,688 :: null error detected.
-2022-08-17 11:35:01,892 :: null error detected.
-2022-08-17 11:35:01,976 :: null error detected.
-2022-08-17 11:35:02,375 :: null error detected.
-2022-08-17 11:35:03,065 :: null error detected.
-2022-08-17 11:35:03,235 :: null error detected.
-2022-08-17 11:35:03,554 :: null error detected.
-2022-08-17 11:35:03,656 :: null error detected.
-2022-08-17 11:35:03,676 :: null error detected.
-2022-08-17 11:35:04,175 :: null error detected.
-2022-08-17 11:35:04,862 :: null error detected.
-2022-08-17 11:35:05,554 :: null error detected.
-2022-08-17 11:35:05,962 :: null error detected.
-2022-08-17 11:35:06,594 :: null error detected.
-2022-08-17 11:35:06,931 :: null error detected.
-2022-08-17 11:35:07,025 :: null error detected.
-2022-08-17 11:35:07,855 :: null error detected.
-2022-08-17 11:35:08,187 :: null error detected.
-2022-08-17 11:35:08,230 :: null error detected.
-2022-08-17 11:35:08,381 :: null error detected.
-2022-08-17 11:35:08,538 :: null error detected.
-2022-08-17 11:35:09,421 :: null error detected.
-2022-08-17 11:35:09,576 :: null error detected.
-2022-08-17 11:35:09,629 :: null error detected.
-2022-08-17 11:35:10,173 :: null error detected.
-2022-08-17 11:35:10,333 :: null error detected.
-2022-08-17 11:35:10,389 :: null error detected.
-2022-08-17 11:35:10,564 :: null error detected.
-2022-08-17 11:35:11,206 :: null error detected.
-2022-08-17 11:35:11,336 :: null error detected.
-2022-08-17 11:35:11,358 :: null error detected.
-2022-08-17 11:35:11,512 :: null error detected.
-2022-08-17 11:35:12,505 :: null error detected.
-2022-08-17 11:35:12,988 :: null error detected.
-2022-08-17 11:35:13,657 :: null error detected.
-2022-08-17 11:35:13,771 :: null error detected.
-2022-08-17 11:35:13,858 :: null error detected.
-2022-08-17 11:35:14,282 :: null error detected.
-2022-08-17 11:35:14,305 :: null error detected.
-2022-08-17 11:35:14,492 :: null error detected.
-2022-08-17 11:35:14,840 :: null error detected.
-2022-08-17 11:35:14,876 :: null error detected.
-2022-08-17 11:35:15,052 :: null error detected.
-2022-08-17 11:35:15,292 :: null error detected.
-2022-08-17 11:35:15,691 :: null error detected.
-2022-08-17 11:35:16,062 :: null error detected.
-2022-08-17 11:35:16,287 :: null error detected.
-2022-08-17 11:35:16,490 :: null error detected.
-2022-08-17 11:35:16,719 :: null error detected.
-2022-08-17 11:35:16,833 :: null error detected.
-2022-08-17 11:35:17,505 :: null error detected.
-2022-08-17 11:35:18,397 :: null error detected.
-2022-08-17 11:35:18,603 :: null error detected.
-2022-08-17 11:35:18,647 :: null error detected.
-2022-08-17 11:35:18,970 :: null error detected.
-2022-08-17 11:35:18,988 :: null error detected.
-2022-08-17 11:35:19,109 :: null error detected.
-2022-08-17 11:35:19,324 :: Product List CSV constructed.
+2022-08-17 13:09:27,746 :: *********************************************************
+2022-08-17 13:09:27,747 :: Database Primed
+2022-08-17 13:09:28,383 :: null error detected at 223.
+2022-08-17 13:09:28,416 :: null error detected at 250.
+2022-08-17 13:09:28,654 :: null error detected at 444.
+2022-08-17 13:09:28,659 :: null error detected at 448.
+2022-08-17 13:09:29,554 :: null error detected at 1098.
+2022-08-17 13:09:29,671 :: null error detected at 1191.
+2022-08-17 13:09:30,072 :: null error detected at 1509.
+2022-08-17 13:09:30,078 :: null error detected at 1513.
+2022-08-17 13:09:30,402 :: null error detected at 1780.
+2022-08-17 13:09:30,450 :: null error detected at 1820.
+2022-08-17 13:09:30,627 :: null error detected at 1967.
+2022-08-17 13:09:30,666 :: null error detected at 2000.
+2022-08-17 13:09:30,740 :: null error detected at 2061.
+2022-08-17 13:09:31,306 :: null error detected at 2516.
+2022-08-17 13:09:31,631 :: null error detected at 2774.
+2022-08-17 13:09:32,084 :: null error detected at 3143.
+2022-08-17 13:09:32,208 :: null error detected at 3247.
+2022-08-17 13:09:32,863 :: null error detected at 3784.
+2022-08-17 13:09:33,313 :: null error detected at 4151.
+2022-08-17 13:09:33,741 :: null error detected at 4495.
+2022-08-17 13:09:33,801 :: null error detected at 4540.
+2022-08-17 13:09:33,901 :: null error detected at 4621.
+2022-08-17 13:09:33,928 :: null error detected at 4643.
+2022-08-17 13:09:34,132 :: null error detected at 4806.
+2022-08-17 13:09:34,198 :: null error detected at 4859.
+2022-08-17 13:09:34,448 :: null error detected at 5052.
+2022-08-17 13:09:35,012 :: null error detected at 5497.
+2022-08-17 13:09:35,570 :: null error detected at 5940.
+2022-08-17 13:09:36,199 :: null error detected at 6446.
+2022-08-17 13:09:36,321 :: null error detected at 6542.
+2022-08-17 13:09:36,337 :: null error detected at 6555.
+2022-08-17 13:09:36,514 :: null error detected at 6699.
+2022-08-17 13:09:36,566 :: null error detected at 6739.
+2022-08-17 13:09:36,775 :: null error detected at 6907.
+2022-08-17 13:09:36,967 :: null error detected at 7057.
+2022-08-17 13:09:37,090 :: null error detected at 7155.
+2022-08-17 13:09:38,174 :: null error detected at 8009.
+2022-08-17 13:09:38,416 :: null error detected at 8199.
+2022-08-17 13:09:38,533 :: null error detected at 8287.
+2022-08-17 13:09:38,614 :: null error detected at 8334.
+2022-08-17 13:09:38,666 :: null error detected at 8369.
+2022-08-17 13:09:38,890 :: null error detected at 8539.
+2022-08-17 13:09:38,913 :: null error detected at 8549.
+2022-08-17 13:09:39,088 :: null error detected at 8654.
+2022-08-17 13:09:39,099 :: null error detected at 8663.
+2022-08-17 13:09:39,300 :: null error detected at 8793.
+2022-08-17 13:09:39,456 :: null error detected at 8907.
+2022-08-17 13:09:39,788 :: null error detected at 9160.
+2022-08-17 13:09:40,181 :: null error detected at 9478.
+2022-08-17 13:09:40,356 :: null error detected at 9620.
+2022-08-17 13:09:41,555 :: null error detected at 10564.
+2022-08-17 13:09:41,933 :: null error detected at 10867.
+2022-08-17 13:09:41,996 :: null error detected at 10919.
+2022-08-17 13:09:42,731 :: null error detected at 11504.
+2022-08-17 13:09:42,982 :: null error detected at 11709.
+2022-08-17 13:09:43,554 :: null error detected at 12170.
+2022-08-17 13:09:44,598 :: null error detected at 12999.
+2022-08-17 13:09:44,635 :: null error detected at 13030.
+2022-08-17 13:09:45,050 :: null error detected at 13357.
+2022-08-17 13:09:45,242 :: null error detected at 13512.
+2022-08-17 13:09:46,596 :: null error detected at 14577.
+2022-08-17 13:09:46,875 :: null error detected at 14786.
+2022-08-17 13:09:47,109 :: null error detected at 14972.
+2022-08-17 13:09:47,177 :: Product List CSV constructed.

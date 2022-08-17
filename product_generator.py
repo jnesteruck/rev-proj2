@@ -25,10 +25,8 @@ def main():
     fname = "product_list.csv"
     with open(fname, "w") as f:
         for entry in database:
-            if type(entry[3]) == type("Hi"):
-                f.write(str(entry[0]) + "," + str(entry[1]) + "," + str(entry[2]) + "," + str(entry[3]) + ',\n')
-            else:
-                f.write(str(entry[0]) + "," + str(entry[1]) + "," + str(entry[2]) + "," + str(entry[3]) + ',\n')
+            f.write(str(entry[0]) + "," + str(entry[1]) + "," + str(entry[2]) + "," + str(entry[3]) + ',\n')
+    
     f.close()
     logging.info("Product List CSV constructed.")
 
@@ -74,18 +72,17 @@ def product_gen(iterations, rng, db):
             rng1 = random.randint(1, rng)
             rng2 = random.randint(1, rng)
             if rng1 == rng2:
-                product_id = random.randint(1, 100)
+                product_id = "null"
                 if rng1 == 1:
                     product_id = "null"
                     product_name = "null"
                     price = "null"
                     category = "null"
-                    logging.info("null error detected.")
+                    logging.info(f"null error detected at {counter}.")
             elif rng1 == 2*rng2:
                 product_name = "null"
             elif rng2 == 2*rng1:
-                price = random.randint(0, 10*rng) * random.random()
-                price = round(price, 2)
+                price = "null"
             # else:
             #     logging.info("No errors.")
 
