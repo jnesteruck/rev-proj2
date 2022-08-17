@@ -1,9 +1,10 @@
 import datetime
 import random 
-"""y= pd.date_range('2022-1-1', '2022-8-16', freq='D''1H', name="list.date")
-for val in y:
-    
-    print(val)"""
+'''
+KEYNON AND MARTIN'S CODE
+
+'''
+
 def rdt():
     start_date = datetime.date(2022, 1, 1)
     end_date = datetime.date(2022, 8, 17)

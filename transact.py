@@ -1,5 +1,10 @@
 import random
 
+'''
+RAY J'S CODE
+
+'''
+
 # def main():
 
     

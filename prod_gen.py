@@ -2,6 +2,11 @@ import logging, os, random
 from pymongo import MongoClient
 clear = lambda: os.system('cls')
 
+'''
+RAY F'S CODE
+
+'''
+
 # Generate 10k-15k random collections of [product_id, product_name, category, price]
 # Probably randomly pick a category with certain leaning to skew certain trends.
 # From there Randomize the product ID, pull name and price from connected values.
