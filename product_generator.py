@@ -19,7 +19,7 @@ def main():
     client = MongoClient()
     db = client.get_database("Project2")
     
-    database = product_gen(100, 15, db)
+    database = product_gen(15000, 15, db)
     # product = [product_id, product_name, category, price]
 
     fname = "product_list.csv"
@@ -76,13 +76,13 @@ def product_gen(iterations, rng, db):
             if rng1 == rng2:
                 product_id = random.randint(1, 100)
                 if rng1 == 1:
-                    product_id = "Null"
-                    product_name = "Null"
-                    price = "Null"
-                    category = "Null"
-                    logging.info("Null error detected.")
+                    product_id = "null"
+                    product_name = "null"
+                    price = "null"
+                    category = "null"
+                    logging.info("null error detected.")
             elif rng1 == 2*rng2:
-                product_name = "Null"
+                product_name = "null"
             elif rng2 == 2*rng1:
                 price = random.randint(0, 10*rng) * random.random()
                 price = round(price, 2)
