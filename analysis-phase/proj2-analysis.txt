@@ -1,0 +1,98 @@
+1) What is the top selling category of items? Per country?
+	- filter out failed transactions, select category and SUM(qty),
+	- General: group by category, order by SUM DESC
+	- Per country: group by category, country, order by SUM DESC
+	- output data to bar graph, map chart
+2) How does the popularity of products change throughout the year? Per country?
+	- select product, SUM(qty), and datetime, group by productid,
+	  time of year
+	- output to line graph
+	- select product, SUM(qty), datetime, and country, group by productid, country
+	- output to bar graph and map chart with color indicators
+3) Which locations see the highest traffic of sales?
+	- filter out failed transactions, select city, country, SUM(price * qty),
+	  group by city or country, order by SUM DESC
+	- output data to map charts
+4) What times have the highest traffic of sales? Per country?
+	- separate time and date, select time, country, SUM(price * qty)
+	- General: group by time, order by SUM DESC
+	- Per country: group by country, time, order by SUM DESC
+	- output data to line graphs/bar graphs, map chart
+
+QUERIES:
+def dataDelimiter(entry):
+	d = entry.split(',')
+	return (int(d[0]), int(d[1]), d[2], int(d[3]), d[4], d[5], d[6], int(d[7]),\
+			int(d[8]), d[9], d[10], d[11], d[12], int(d[13]), d[14], d[15])
+rawdata = sc.textFile("file:/home/jnest/team[n]-data.csv")
+dataRDD = rawdata.map(dataDelimiter)
+dataDF = spark.read.option("header",True).option("inferSchema",True)
+	.csv("file:/home/jnest/team[n]-data.csv")
+dataDF.show()
+dataDF
+dataDF.createOrReplaceTempView("data")
+spark.sql("SELECT * FROM data").show()
+
+# Q1
+df2 = spark.sql("SELECT productCategory, country, SUM(qty) FROM data WHERE txn_success='Y'
+		GROUP BY productCategory ORDER BY SUM(qty) DESC")
+df2.show()
+df2.createOrReplaceTempView("data_cat")
+spark.sql("SELECT productCategory, country, sum FROM data_cat
+		GROUP BY country, HAVING sum = MAX(sum)").show()
+
+# Q2
+def splitDatetime(x):
+	d = x[9].split(' ')[0]
+	if '-' in d:
+		date, time = x[9].split(' ')
+	elif ':' in d:
+		time, date = x[9].split(' ')
+	year, month, day = date.split('-')
+	h, m, s = time.split(':')
+	return x[0], x[1], x[2], x[3], x[4], x[5], x[6], x[7], x[8], year, month, day,
+		h, m, s, x[10], x[11], x[12], x[13], x[14], x[15]
+
+tdSchema = StructType(
+    [
+        StructField("OrderID",IntegerType(),True),
+        StructField("CustomerID",IntegerType(),True),
+        StructField("CustomerName",StringType(),True),
+        StructField("ProductID",IntegerType(),True),
+        StructField("ProductName",StringType(),True),
+        StructField("ProductCategory",StringType(),True),
+        StructField("qty",IntegerType(),True),
+        StructField("price",IntegerType(),True),
+        StructField("datetime",StringType(),True),
+        StructField("ProductName",StringType(),True),
+        StructField("ProductName",StringType(),True),
+        StructField("ProductName",StringType(),True),
+        StructField("ProductName",StringType(),True),
+        StructField("ProductName",StringType(),True),
+        StructField("ProductName",StringType(),True),
+    ]
+)
+
+timeDataRDD = dataRDD.map(splitDateTime)
+timeDataDF =  
+spark.sql("SELECT productID, productName, [month], SUM(qty) FROM data
+		GROUP BY productID, [month]").show()
+spark.sql("SELECT productID, productName, [month], country, SUM(qty) FROM data
+		GROUP BY productID, [month], country ORDER BY SUM(qty) DESC").show()
+
+# Q3
+spark.sql("SELECT city, country, SUM(price * qty) FROM data WHERE txn_success='Y'
+		GROUP BY city ORDER BY SUM(price * qty) DESC").show()
+spark.sql("SELECT country, SUM(price * qty) FROM data WHERE txn_success='Y'
+		GROUP BY country ORDER BY SUM(price * qty) DESC").show()
+
+# Q4
+spark.sql("SELECT transactionID, transactionTime FROM data").show()
+
+
+
+
+
+
+
+
