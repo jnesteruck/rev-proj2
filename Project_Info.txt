@@ -26,12 +26,16 @@ swap data with other teams
 analyze data by listed questions (by 8/24) (all overall and by country)
 	top selling category
 	how does popularity change?
-	which locations sees highest traffic
+	which locations sees highest traffic?
 	what times have highest traffic?
 present 8/26
 
 Team 1
-Keynon Hawkins & Martin Salinas Jr. (qty, datetime, ecommerce_website)
+Keynon Hawkins & Martin Salinas Jr.: (qty, datetime, ecommerce_website)
 Raymond Fillingame: product info (product_id, product_name, category, price)
 Raymond Jaconski: transaction info (payment_type, payment_txn_success, failure_reason)
 Jacob Nesteruck: customer info (customer_id, customer_name, country, city)
+
+
+1, c_00001, Rebecca Lawrence, 421, Sharpie pens, School Items, 1, 1, $2.0, 2021-09-08 16:30:06, Tesco, Tacoma, United States, Cash, 42176, Y, 
+order_id, customer_id, customer_name, product_id, product_name, product_category, backup_id, qty, price, datetime, website, city, country, payment_type, txn_id, txn_success, failure_reason
