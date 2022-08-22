@@ -118,12 +118,13 @@ schoolItemsByDayTotal.write.csv(path + "output/schoolItemsByDayTotal")
 technologyByDayTotal.write.csv(path + "output/technologyByDayTotal")
 '''
 
-# TODO: - QUERY sales by day per country
+# TODO: - --DONE-- QUERY sales by day per country --DONE--
 #       - query sales traffic per country
 #       - query sales traffic per city
 #       - query sales traffic by time
 #       - query sales traffic by time per country
 
+'''
 clothesByDayPerCountry = spark.sql("SELECT Country, ProductID, First(ProductName), SUM(Qty) AS Sales, dayofyear(Datetime) AS day FROM team3data \
                     WHERE ProductCategory='Clothes' GROUP BY Country, day, ProductID ORDER BY day, ProductID, Country")
 furnitureByDayPerCountry = spark.sql("SELECT Country, ProductID, First(ProductName), SUM(Qty) AS Sales, dayofyear(Datetime) AS day FROM team3data \
@@ -163,6 +164,47 @@ furnitureByDayTotalPerCountry.write.csv(path + "output/furnitureByDayTotalPerCou
 schoolItemsByDayTotalPerCountry.write.csv(path + "output/schoolItemsByDayTotalPerCountry")
 technologyByDayTotalPerCountry.write.csv(path + "output/technologyByDayTotalPerCountry")
 
+'''
+
+df1 = spark.sql("SELECT Country, ProductID, First(ProductName), SUM(Qty) AS Sales, dayofyear(Datetime) AS day FROM team3data \
+                    WHERE ProductCategory='Clothes' GROUP BY Country, day, ProductID ORDER BY day, ProductID, Country") # sales traffic per country
+df2 = spark.sql("SELECT Country, ProductID, First(ProductName), SUM(Qty) AS Sales, dayofyear(Datetime) AS day FROM team3data \
+                    WHERE ProductCategory='Furniture' GROUP BY Country, day, ProductID ORDER BY day, ProductID, Country") # sales traffic per city 
+df3 = spark.sql("SELECT Country, ProductID, First(ProductName), SUM(Qty) AS Sales, dayofyear(Datetime) AS day FROM team3data \
+                    WHERE ProductCategory='School Items' GROUP BY Country, day, ProductID ORDER BY day, ProductID, Country") # sales traffic by time
+df4 = spark.sql("SELECT Country, ProductID, First(ProductName), SUM(Qty) AS Sales, dayofyear(Datetime) AS day FROM team3data \
+                    WHERE ProductCategory='Technology' GROUP BY Country, day, ProductID ORDER BY day, ProductID, Country") # sales traffic by time per country
+
+# df1.show(100)
+# df2.show(100)
+# df3.show(100)
+# df4.show(100)
+
+df5 = spark.sql("SELECT Country, SUM(Qty) AS Sales, dayofyear(Datetime) AS day FROM team3data \
+                    WHERE ProductCategory='Clothes' GROUP BY Country, day ORDER BY day, Country") # ItemRevenuePerQuarter
+df6 = spark.sql("SELECT Country, SUM(Qty) AS Sales, dayofyear(Datetime) AS day FROM team3data \
+                    WHERE ProductCategory='Furniture' GROUP BY Country, day ORDER BY day, Country") # ItemSalesPerQuarter
+df7 = spark.sql("SELECT Country, SUM(Qty) AS Sales, dayofyear(Datetime) AS day FROM team3data \
+                    WHERE ProductCategory='School Items' GROUP BY Country, day ORDER BY day, Country") #ItemPopularityPerQuarter
+df8 = spark.sql("SELECT Country, SUM(Qty) AS Sales, dayofyear(Datetime) AS day FROM team3data \
+                    WHERE ProductCategory='Technology' GROUP BY Country, day ORDER BY day, Country") # ?????
+
+# df5.show(100)
+# df6.show(100)
+# df7.show(100)
+# df8.show(100)
+
+'''
+df1.write.csv(path + "output/df1")
+df2.write.csv(path + "output/df2")
+df3.write.csv(path + "output/df3")
+df4.write.csv(path + "output/df4")
+
+df5.write.csv(path + "output/df5")
+df6.write.csv(path + "output/df6")
+df7.write.csv(path + "output/df7")
+df8.write.csv(path + "output/df8")
+'''
 # spark.sql("SELECT ProductID, ProductName, Qty, Price FROM team3data ORDER BY ProductID").show(250)
 
 # spark.sql("SELECT ProductID, ProductName, Qty, Price FROM team3data ORDER BY ProductID").show(250)
