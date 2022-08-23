@@ -1,0 +1,352 @@
+109,TVs,164400.0,1
+107,Computers,98700.0,1
+102,Phones,94200.0,1
+315,Grandfather clock,86500.0,1
+108,Tablets,70800.0,1
+303,Tables,53550.0,1
+112,Smart fridges,47813.0,1
+103,Microwaves,47360.0,1
+100,Laptops,41400.0,1
+301,Couches,41400.0,1
+309,Beds,30500.0,1
+306,Bookcase,27450.0,1
+314,Cradle,23220.0,1
+117,Fridges,18630.0,1
+120,Virtual Assistant,18079.0,1
+101,Hard Drives,17125.0,1
+302,Recliners,16335.0,1
+118,Monitors,15750.0,1
+313,Cupboard,14760.0,1
+111,Earbuds,14040.0,1
+305,Clocks,12800.0,1
+404,Chromebooks,12720.0,1
+307,Dresser,12480.0,1
+105,Electronic Locks,12325.0,1
+304,Cabinets,12000.0,1
+204,Formal Wear,11880.0,1
+104,Headphones,11440.0,1
+113,Mouse,11120.0,1
+308,Chest,10800.0,1
+114,Webcam,9960.0,1
+214,Suits,9840.0,1
+411,Calculators,7740.0,1
+405,Textbooks,7215.0,1
+209,Dresses,6930.0,1
+226,Watch,6600.0,1
+300,Chairs,6000.0,1
+211,Glasses,5841.0,1
+106,Drones,5200.0,1
+212,Sunglasses,5056.0,1
+224,Wallet,4940.0,1
+222,Earrings,4800.0,1
+311,Ottoman,4250.0,1
+116,Cables,4170.0,1
+316,Shelves,4080.0,1
+206,Swimwear,4060.0,1
+310,Ladders,3680.0,1
+202,Shoes,3660.0,1
+213,Tracksuit,3626.0,1
+406,Backpacks,3132.0,1
+110,Remotes,3100.0,1
+208,Gowns,2755.0,1
+312,Stool,2600.0,1
+223,Belts,2520.0,1
+203,Sandals,2010.0,1
+200,Jeans,1885.0,1
+115,USB,1500.0,1
+210,T-shirts,1220.0,1
+217,Ties,1200.0,1
+221,Scarves,1188.0,1
+207,Kahkis,1185.0,1
+412,Uniforms,1180.0,1
+420,Gym Bag,1140.0,1
+225,Cap,860.0,1
+220,Bow-ties,855.0,1
+419,Lunch Bags,833.0,1
+422,Lunchbox,763.0,1
+407,Bags,720.0,1
+216,Coats,700.0,1
+215,Jackets,540.0,1
+218,Briefs,515.0,1
+410,Markers,441.0,1
+417,Pencil Pouch,425.0,1
+205,Socks,370.0,1
+413,Sketchbooks,366.0,1
+219,Boxers,335.0,1
+414,Notepads,330.0,1
+409,Crayons,234.0,1
+201,Underwear,216.0,1
+421,Sharpie pens,180.0,1
+423,Index cards,178.0,1
+415,Pens,150.0,1
+418,Glue Stick,139.0,1
+408,Rulers,134.0,1
+400,Notebooks,99.0,1
+403,Erasers,97.5,1
+416,Folders,86.0,1
+402,Mechanical Pencils,80.5,1
+401,Pencils,46.5,1
+109,TVs,90000.0,2
+315,Grandfather clock,88000.0,2
+309,Beds,78500.0,2
+107,Computers,72800.0,2
+108,Tablets,63600.0,2
+102,Phones,58800.0,2
+303,Tables,57750.0,2
+100,Laptops,38700.0,2
+301,Couches,35700.0,2
+103,Microwaves,31840.0,2
+112,Smart fridges,26175.0,2
+118,Monitors,24000.0,2
+120,Virtual Assistant,22017.0,2
+314,Cradle,21672.0,2
+117,Fridges,18630.0,2
+302,Recliners,17820.0,2
+101,Hard Drives,16750.0,2
+114,Webcam,15840.0,2
+104,Headphones,13650.0,2
+306,Bookcase,13350.0,2
+307,Dresser,13200.0,2
+214,Suits,12840.0,2
+111,Earbuds,12000.0,2
+404,Chromebooks,11880.0,2
+304,Cabinets,11200.0,2
+204,Formal Wear,10680.0,2
+313,Cupboard,10080.0,2
+113,Mouse,9760.0,2
+305,Clocks,9600.0,2
+224,Wallet,9425.0,2
+308,Chest,9280.0,2
+222,Earrings,8400.0,2
+105,Electronic Locks,7310.0,2
+213,Tracksuit,6909.0,2
+212,Sunglasses,6794.0,2
+300,Chairs,6660.0,2
+209,Dresses,6138.0,2
+106,Drones,5450.0,2
+411,Calculators,5160.0,2
+405,Textbooks,4355.0,2
+316,Shelves,4260.0,2
+202,Shoes,4140.0,2
+223,Belts,3780.0,2
+211,Glasses,3776.0,2
+226,Watch,3420.0,2
+310,Ladders,3105.0,2
+206,Swimwear,2813.0,2
+203,Sandals,2790.0,2
+208,Gowns,2639.0,2
+312,Stool,2625.0,2
+216,Coats,2300.0,2
+311,Ottoman,2250.0,2
+406,Backpacks,2233.0,2
+116,Cables,2220.0,2
+215,Jackets,2080.0,2
+110,Remotes,2000.0,2
+225,Cap,1980.0,2
+221,Scarves,1656.0,2
+217,Ties,1575.0,2
+412,Uniforms,1560.0,2
+200,Jeans,1508.0,2
+220,Bow-ties,1140.0,2
+115,USB,1020.0,2
+201,Underwear,873.0,2
+419,Lunch Bags,777.0,2
+420,Gym Bag,708.0,2
+407,Bags,650.0,2
+422,Lunchbox,623.0,2
+207,Kahkis,585.0,2
+210,T-shirts,540.0,2
+205,Socks,520.0,2
+417,Pencil Pouch,440.0,2
+219,Boxers,415.0,2
+218,Briefs,385.0,2
+409,Crayons,306.0,2
+421,Sharpie pens,246.0,2
+410,Markers,234.0,2
+413,Sketchbooks,228.0,2
+403,Erasers,196.5,2
+414,Notepads,156.0,2
+423,Index cards,154.0,2
+408,Rulers,126.0,2
+415,Pens,106.5,2
+400,Notebooks,102.0,2
+418,Glue Stick,67.0,2
+416,Folders,48.0,2
+402,Mechanical Pencils,44.0,2
+401,Pencils,39.0,2
+109,TVs,106800.0,3
+102,Phones,84000.0,3
+107,Computers,84000.0,3
+108,Tablets,78600.0,3
+315,Grandfather clock,68000.0,3
+303,Tables,60200.0,3
+309,Beds,55000.0,3
+112,Smart fridges,46068.0,3
+301,Couches,43500.0,3
+117,Fridges,34020.0,3
+100,Laptops,25650.0,3
+103,Microwaves,25280.0,3
+314,Cradle,23220.0,3
+306,Bookcase,22350.0,3
+302,Recliners,22110.0,3
+120,Virtual Assistant,16826.0,3
+118,Monitors,15450.0,3
+114,Webcam,14400.0,3
+104,Headphones,13130.0,3
+307,Dresser,12840.0,3
+308,Chest,12000.0,3
+404,Chromebooks,11520.0,3
+101,Hard Drives,11500.0,3
+209,Dresses,11088.0,3
+214,Suits,11040.0,3
+305,Clocks,10900.0,3
+105,Electronic Locks,10115.0,3
+313,Cupboard,9990.0,3
+111,Earbuds,9840.0,3
+300,Chairs,9360.0,3
+204,Formal Wear,9240.0,3
+212,Sunglasses,7742.0,3
+224,Wallet,7670.0,3
+405,Textbooks,6435.0,3
+411,Calculators,6360.0,3
+311,Ottoman,6350.0,3
+304,Cabinets,6000.0,3
+222,Earrings,5360.0,3
+226,Watch,5160.0,3
+106,Drones,4850.0,3
+113,Mouse,4720.0,3
+213,Tracksuit,4410.0,3
+223,Belts,3990.0,3
+206,Swimwear,3480.0,3
+202,Shoes,3240.0,3
+312,Stool,2750.0,3
+310,Ladders,2691.0,3
+116,Cables,2670.0,3
+200,Jeans,2349.0,3
+316,Shelves,2280.0,3
+208,Gowns,2262.0,3
+110,Remotes,2100.0,3
+406,Backpacks,2001.0,3
+211,Glasses,1947.0,3
+412,Uniforms,1920.0,3
+216,Coats,1820.0,3
+115,USB,1710.0,3
+203,Sandals,1590.0,3
+221,Scarves,1494.0,3
+420,Gym Bag,1368.0,3
+207,Kahkis,1230.0,3
+220,Bow-ties,1200.0,3
+225,Cap,1160.0,3
+217,Ties,1050.0,3
+215,Jackets,860.0,3
+407,Bags,830.0,3
+422,Lunchbox,665.0,3
+210,T-shirts,660.0,3
+419,Lunch Bags,455.0,3
+219,Boxers,370.0,3
+410,Markers,321.0,3
+413,Sketchbooks,291.0,3
+218,Briefs,290.0,3
+417,Pencil Pouch,265.0,3
+201,Underwear,261.0,3
+409,Crayons,231.0,3
+414,Notepads,231.0,3
+421,Sharpie pens,192.0,3
+408,Rulers,174.0,3
+205,Socks,155.0,3
+403,Erasers,133.5,3
+415,Pens,94.5,3
+416,Folders,81.0,3
+423,Index cards,76.0,3
+418,Glue Stick,60.0,3
+401,Pencils,41.5,3
+400,Notebooks,34.0,3
+402,Mechanical Pencils,26.0,3
+109,TVs,585600.0,4
+309,Beds,273000.0,4
+107,Computers,268100.0,4
+108,Tablets,261000.0,4
+315,Grandfather clock,216500.0,4
+102,Phones,214800.0,4
+100,Laptops,184950.0,4
+301,Couches,177600.0,4
+303,Tables,162400.0,4
+112,Smart fridges,152513.0,4
+103,Microwaves,125120.0,4
+117,Fridges,97740.0,4
+302,Recliners,88275.0,4
+306,Bookcase,78750.0,4
+120,Virtual Assistant,72495.0,4
+104,Headphones,69680.0,4
+307,Dresser,68160.0,4
+314,Cradle,68112.0,4
+101,Hard Drives,64625.0,4
+114,Webcam,62400.0,4
+305,Clocks,56600.0,4
+118,Monitors,55650.0,4
+313,Cupboard,52470.0,4
+111,Earbuds,50880.0,4
+105,Electronic Locks,48110.0,4
+204,Formal Wear,47160.0,4
+404,Chromebooks,40440.0,4
+300,Chairs,37200.0,4
+304,Cabinets,36320.0,4
+209,Dresses,31284.0,4
+113,Mouse,30560.0,4
+214,Suits,30480.0,4
+308,Chest,29120.0,4
+311,Ottoman,27550.0,4
+405,Textbooks,25350.0,4
+106,Drones,23400.0,4
+222,Earrings,22960.0,4
+411,Calculators,20700.0,4
+224,Wallet,20410.0,4
+212,Sunglasses,20066.0,4
+211,Glasses,19352.0,4
+223,Belts,16926.0,4
+226,Watch,16500.0,4
+312,Stool,15475.0,4
+316,Shelves,15300.0,4
+116,Cables,14250.0,4
+406,Backpacks,14036.0,4
+202,Shoes,13920.0,4
+213,Tracksuit,12691.0,4
+310,Ladders,11109.0,4
+203,Sandals,10560.0,4
+208,Gowns,9599.0,4
+200,Jeans,9309.0,4
+110,Remotes,8975.0,4
+206,Swimwear,8845.0,4
+216,Coats,8820.0,4
+412,Uniforms,8280.0,4
+215,Jackets,6620.0,4
+225,Cap,6340.0,4
+115,USB,5220.0,4
+221,Scarves,4824.0,4
+217,Ties,4785.0,4
+207,Kahkis,4710.0,4
+220,Bow-ties,4080.0,4
+420,Gym Bag,3516.0,4
+407,Bags,3210.0,4
+201,Underwear,3132.0,4
+210,T-shirts,2610.0,4
+422,Lunchbox,2499.0,4
+419,Lunch Bags,2345.0,4
+205,Socks,1930.0,4
+218,Briefs,1900.0,4
+417,Pencil Pouch,1890.0,4
+410,Markers,1422.0,4
+219,Boxers,1395.0,4
+413,Sketchbooks,1341.0,4
+409,Crayons,1221.0,4
+414,Notepads,1086.0,4
+421,Sharpie pens,748.0,4
+423,Index cards,686.0,4
+408,Rulers,606.0,4
+415,Pens,589.5,4
+403,Erasers,528.0,4
+400,Notebooks,381.0,4
+416,Folders,374.0,4
+418,Glue Stick,359.0,4
+402,Mechanical Pencils,206.0,4
+401,Pencils,177.0,4

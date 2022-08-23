@@ -1,0 +1,2517 @@
+105,Electronic Locks,3,1
+106,Drones,9,1
+107,Computers,18,1
+113,Mouse,8,1
+102,Phones,20,2
+105,Electronic Locks,10,2
+106,Drones,9,2
+107,Computers,7,2
+110,Remotes,5,2
+104,Headphones,7,3
+107,Computers,4,3
+115,USB,4,3
+117,Fridges,1,3
+103,Microwaves,11,4
+104,Headphones,9,4
+106,Drones,3,4
+107,Computers,4,4
+110,Remotes,12,4
+113,Mouse,1,4
+116,Cables,10,4
+103,Microwaves,15,5
+109,TVs,8,5
+113,Mouse,9,5
+116,Cables,11,5
+120,Virtual Assistant,3,5
+100,Laptops,2,7
+104,Headphones,4,7
+109,TVs,8,7
+111,Earbuds,4,7
+117,Fridges,12,7
+101,Hard Drives,3,8
+101,Hard Drives,12,9
+102,Phones,7,9
+103,Microwaves,8,9
+105,Electronic Locks,2,9
+107,Computers,7,9
+110,Remotes,8,9
+111,Earbuds,12,9
+114,Webcam,10,9
+115,USB,1,9
+118,Monitors,30,9
+105,Electronic Locks,10,10
+108,Tablets,3,10
+111,Earbuds,4,10
+117,Fridges,5,10
+118,Monitors,2,10
+114,Webcam,10,11
+115,USB,5,11
+116,Cables,7,11
+120,Virtual Assistant,6,11
+100,Laptops,7,12
+102,Phones,22,12
+103,Microwaves,29,12
+104,Headphones,4,12
+106,Drones,7,12
+109,TVs,9,12
+111,Earbuds,10,12
+113,Mouse,6,12
+120,Virtual Assistant,1,12
+100,Laptops,2,13
+101,Hard Drives,1,13
+103,Microwaves,5,13
+106,Drones,2,13
+108,Tablets,4,13
+116,Cables,9,13
+118,Monitors,9,13
+120,Virtual Assistant,3,13
+103,Microwaves,12,14
+104,Headphones,3,14
+105,Electronic Locks,4,14
+107,Computers,7,14
+115,USB,10,14
+102,Phones,5,15
+103,Microwaves,9,15
+107,Computers,10,15
+111,Earbuds,9,15
+114,Webcam,10,15
+120,Virtual Assistant,12,15
+104,Headphones,5,16
+107,Computers,8,16
+110,Remotes,15,16
+111,Earbuds,9,16
+120,Virtual Assistant,5,16
+101,Hard Drives,2,17
+103,Microwaves,16,17
+104,Headphones,1,17
+107,Computers,1,17
+110,Remotes,1,17
+113,Mouse,7,17
+101,Hard Drives,8,18
+106,Drones,5,18
+108,Tablets,8,18
+109,TVs,10,18
+112,Smart fridges,15,18
+113,Mouse,4,18
+115,USB,5,18
+101,Hard Drives,3,19
+103,Microwaves,3,19
+104,Headphones,6,19
+105,Electronic Locks,11,19
+106,Drones,10,19
+107,Computers,1,19
+109,TVs,5,19
+118,Monitors,2,19
+120,Virtual Assistant,9,19
+101,Hard Drives,1,20
+105,Electronic Locks,2,20
+109,TVs,17,20
+116,Cables,5,20
+100,Laptops,5,21
+103,Microwaves,7,21
+104,Headphones,3,21
+107,Computers,4,21
+108,Tablets,6,21
+110,Remotes,2,21
+111,Earbuds,9,21
+112,Smart fridges,4,21
+113,Mouse,7,21
+114,Webcam,6,21
+120,Virtual Assistant,10,21
+100,Laptops,10,22
+101,Hard Drives,16,22
+103,Microwaves,10,22
+106,Drones,2,22
+107,Computers,10,22
+102,Phones,6,23
+105,Electronic Locks,7,23
+112,Smart fridges,14,23
+118,Monitors,13,23
+103,Microwaves,1,24
+104,Headphones,8,24
+105,Electronic Locks,3,24
+109,TVs,11,24
+112,Smart fridges,10,24
+114,Webcam,5,24
+115,USB,9,24
+102,Phones,4,25
+103,Microwaves,4,25
+104,Headphones,6,25
+106,Drones,8,25
+107,Computers,5,25
+110,Remotes,7,25
+114,Webcam,4,25
+115,USB,7,25
+118,Monitors,13,25
+103,Microwaves,6,26
+112,Smart fridges,4,26
+113,Mouse,8,26
+102,Phones,2,27
+105,Electronic Locks,1,27
+107,Computers,1,27
+109,TVs,7,27
+115,USB,6,27
+116,Cables,3,27
+107,Computers,7,28
+110,Remotes,2,28
+114,Webcam,6,28
+115,USB,3,28
+103,Microwaves,5,32
+104,Headphones,2,32
+108,Tablets,3,32
+110,Remotes,1,32
+108,Tablets,2,33
+100,Laptops,5,34
+101,Hard Drives,2,34
+107,Computers,5,34
+109,TVs,3,34
+110,Remotes,8,34
+115,USB,3,34
+103,Microwaves,8,35
+111,Earbuds,3,35
+112,Smart fridges,2,35
+113,Mouse,5,35
+120,Virtual Assistant,10,35
+101,Hard Drives,10,36
+102,Phones,2,36
+107,Computers,9,36
+110,Remotes,2,36
+116,Cables,2,36
+102,Phones,9,37
+104,Headphones,5,37
+108,Tablets,10,37
+110,Remotes,8,37
+113,Mouse,5,37
+108,Tablets,8,38
+117,Fridges,10,38
+103,Microwaves,4,39
+109,TVs,15,39
+117,Fridges,16,39
+118,Monitors,6,39
+120,Virtual Assistant,9,39
+101,Hard Drives,15,40
+105,Electronic Locks,7,40
+110,Remotes,6,40
+115,USB,7,40
+118,Monitors,6,40
+114,Webcam,14,41
+107,Computers,9,42
+116,Cables,13,42
+120,Virtual Assistant,9,42
+103,Microwaves,1,43
+112,Smart fridges,6,43
+114,Webcam,5,43
+117,Fridges,5,43
+118,Monitors,8,43
+102,Phones,1,44
+103,Microwaves,10,44
+109,TVs,3,44
+112,Smart fridges,7,44
+116,Cables,4,44
+118,Monitors,8,44
+120,Virtual Assistant,3,44
+101,Hard Drives,10,45
+103,Microwaves,9,45
+107,Computers,4,45
+111,Earbuds,9,45
+114,Webcam,2,45
+103,Microwaves,3,46
+115,USB,2,46
+116,Cables,6,46
+117,Fridges,5,46
+101,Hard Drives,10,47
+103,Microwaves,3,47
+108,Tablets,8,47
+110,Remotes,3,47
+112,Smart fridges,13,47
+116,Cables,9,47
+118,Monitors,1,47
+108,Tablets,8,48
+109,TVs,1,48
+117,Fridges,2,48
+100,Laptops,8,49
+103,Microwaves,3,49
+105,Electronic Locks,7,49
+106,Drones,8,49
+109,TVs,16,49
+111,Earbuds,6,49
+112,Smart fridges,10,49
+114,Webcam,5,49
+116,Cables,2,49
+103,Microwaves,4,50
+106,Drones,6,50
+108,Tablets,9,50
+111,Earbuds,3,50
+112,Smart fridges,8,50
+113,Mouse,16,50
+115,USB,3,50
+116,Cables,5,50
+120,Virtual Assistant,1,50
+103,Microwaves,10,51
+105,Electronic Locks,6,51
+111,Earbuds,2,51
+112,Smart fridges,9,51
+113,Mouse,7,51
+115,USB,6,51
+120,Virtual Assistant,2,51
+100,Laptops,7,52
+102,Phones,10,52
+103,Microwaves,6,52
+105,Electronic Locks,7,52
+111,Earbuds,8,52
+117,Fridges,3,52
+103,Microwaves,4,53
+112,Smart fridges,5,53
+117,Fridges,2,53
+118,Monitors,3,53
+120,Virtual Assistant,7,53
+102,Phones,6,54
+103,Microwaves,15,54
+104,Headphones,13,54
+108,Tablets,10,54
+116,Cables,8,54
+118,Monitors,2,54
+120,Virtual Assistant,1,54
+103,Microwaves,5,55
+104,Headphones,10,55
+106,Drones,8,55
+110,Remotes,6,55
+113,Mouse,7,55
+116,Cables,10,55
+118,Monitors,1,55
+103,Microwaves,6,56
+104,Headphones,3,56
+105,Electronic Locks,2,56
+107,Computers,8,56
+109,TVs,6,56
+115,USB,4,56
+117,Fridges,5,56
+101,Hard Drives,7,57
+102,Phones,10,57
+103,Microwaves,7,57
+105,Electronic Locks,5,57
+106,Drones,5,57
+120,Virtual Assistant,1,57
+103,Microwaves,8,58
+105,Electronic Locks,4,58
+110,Remotes,7,58
+111,Earbuds,8,58
+115,USB,3,58
+101,Hard Drives,7,59
+102,Phones,9,59
+103,Microwaves,1,59
+108,Tablets,7,59
+110,Remotes,9,59
+120,Virtual Assistant,10,59
+102,Phones,10,60
+105,Electronic Locks,8,60
+108,Tablets,19,60
+109,TVs,13,60
+110,Remotes,10,60
+113,Mouse,4,60
+100,Laptops,9,61
+102,Phones,8,61
+106,Drones,9,61
+107,Computers,8,61
+109,TVs,1,61
+110,Remotes,6,61
+111,Earbuds,8,61
+112,Smart fridges,5,61
+114,Webcam,3,61
+115,USB,6,61
+117,Fridges,5,61
+100,Laptops,9,62
+108,Tablets,4,62
+116,Cables,3,62
+118,Monitors,4,62
+120,Virtual Assistant,3,62
+104,Headphones,7,63
+106,Drones,4,63
+108,Tablets,4,63
+111,Earbuds,6,63
+114,Webcam,3,63
+115,USB,9,63
+116,Cables,5,63
+118,Monitors,7,63
+103,Microwaves,22,64
+106,Drones,9,64
+110,Remotes,9,64
+111,Earbuds,10,64
+114,Webcam,6,64
+100,Laptops,2,65
+104,Headphones,8,65
+112,Smart fridges,3,65
+113,Mouse,5,65
+104,Headphones,1,66
+105,Electronic Locks,8,66
+110,Remotes,7,66
+111,Earbuds,2,66
+114,Webcam,8,66
+116,Cables,8,66
+100,Laptops,3,67
+101,Hard Drives,6,67
+106,Drones,2,67
+109,TVs,9,67
+117,Fridges,10,67
+118,Monitors,8,67
+100,Laptops,13,68
+101,Hard Drives,13,68
+102,Phones,7,68
+108,Tablets,5,68
+111,Earbuds,5,68
+112,Smart fridges,7,68
+113,Mouse,5,68
+102,Phones,10,69
+103,Microwaves,16,69
+110,Remotes,2,69
+112,Smart fridges,7,69
+113,Mouse,7,69
+115,USB,2,69
+120,Virtual Assistant,10,69
+103,Microwaves,1,70
+107,Computers,7,70
+112,Smart fridges,5,70
+113,Mouse,9,70
+114,Webcam,13,70
+115,USB,3,70
+117,Fridges,5,70
+118,Monitors,7,70
+120,Virtual Assistant,4,70
+103,Microwaves,16,71
+105,Electronic Locks,10,71
+110,Remotes,2,71
+116,Cables,9,71
+118,Monitors,3,71
+103,Microwaves,5,72
+109,TVs,2,72
+111,Earbuds,5,72
+113,Mouse,16,72
+114,Webcam,6,72
+116,Cables,20,72
+118,Monitors,6,72
+105,Electronic Locks,4,73
+106,Drones,8,73
+107,Computers,6,73
+109,TVs,9,73
+110,Remotes,6,73
+112,Smart fridges,9,73
+113,Mouse,6,73
+115,USB,8,73
+116,Cables,7,73
+103,Microwaves,8,74
+116,Cables,10,74
+104,Headphones,4,75
+109,TVs,8,75
+111,Earbuds,2,75
+115,USB,18,75
+120,Virtual Assistant,7,75
+104,Headphones,7,76
+108,Tablets,3,76
+109,TVs,9,76
+112,Smart fridges,4,76
+113,Mouse,8,76
+101,Hard Drives,13,77
+102,Phones,18,77
+103,Microwaves,5,77
+105,Electronic Locks,3,77
+106,Drones,2,77
+107,Computers,9,77
+113,Mouse,1,77
+118,Monitors,1,77
+101,Hard Drives,6,78
+103,Microwaves,9,78
+104,Headphones,7,78
+105,Electronic Locks,13,78
+108,Tablets,10,78
+110,Remotes,9,78
+116,Cables,5,78
+100,Laptops,1,79
+101,Hard Drives,10,79
+105,Electronic Locks,7,79
+107,Computers,6,79
+108,Tablets,3,79
+109,TVs,10,79
+110,Remotes,9,79
+111,Earbuds,8,79
+112,Smart fridges,5,79
+113,Mouse,4,79
+116,Cables,4,79
+100,Laptops,5,80
+101,Hard Drives,12,80
+103,Microwaves,8,80
+105,Electronic Locks,2,80
+103,Microwaves,7,81
+105,Electronic Locks,7,81
+111,Earbuds,10,81
+113,Mouse,8,81
+114,Webcam,2,81
+115,USB,17,81
+100,Laptops,10,82
+102,Phones,6,82
+103,Microwaves,9,82
+104,Headphones,6,82
+108,Tablets,7,82
+111,Earbuds,4,82
+120,Virtual Assistant,3,82
+102,Phones,1,83
+103,Microwaves,8,83
+105,Electronic Locks,3,83
+108,Tablets,6,83
+109,TVs,6,83
+118,Monitors,4,83
+120,Virtual Assistant,1,83
+103,Microwaves,3,84
+108,Tablets,4,84
+110,Remotes,1,84
+118,Monitors,5,84
+102,Phones,7,85
+105,Electronic Locks,13,85
+108,Tablets,7,85
+109,TVs,5,85
+112,Smart fridges,10,85
+116,Cables,3,85
+120,Virtual Assistant,5,85
+100,Laptops,7,86
+101,Hard Drives,12,86
+104,Headphones,1,86
+105,Electronic Locks,3,86
+106,Drones,4,86
+107,Computers,9,86
+108,Tablets,2,86
+110,Remotes,6,86
+103,Microwaves,6,87
+108,Tablets,6,87
+110,Remotes,3,87
+111,Earbuds,5,87
+112,Smart fridges,7,87
+100,Laptops,10,91
+105,Electronic Locks,2,91
+111,Earbuds,3,91
+118,Monitors,4,91
+108,Tablets,9,92
+117,Fridges,8,92
+118,Monitors,8,92
+102,Phones,1,93
+110,Remotes,9,93
+111,Earbuds,7,93
+113,Mouse,6,93
+103,Microwaves,10,94
+104,Headphones,10,94
+105,Electronic Locks,10,94
+108,Tablets,5,94
+117,Fridges,9,94
+100,Laptops,4,95
+110,Remotes,4,95
+111,Earbuds,8,95
+113,Mouse,6,95
+114,Webcam,7,95
+116,Cables,2,95
+102,Phones,1,96
+113,Mouse,4,96
+120,Virtual Assistant,2,96
+101,Hard Drives,1,97
+103,Microwaves,17,97
+107,Computers,2,97
+109,TVs,2,97
+110,Remotes,2,97
+100,Laptops,11,98
+103,Microwaves,4,98
+112,Smart fridges,8,98
+103,Microwaves,8,99
+118,Monitors,8,99
+100,Laptops,2,100
+102,Phones,1,100
+104,Headphones,7,100
+112,Smart fridges,7,100
+115,USB,8,100
+118,Monitors,8,100
+102,Phones,3,101
+106,Drones,3,101
+107,Computers,10,101
+108,Tablets,6,101
+113,Mouse,4,101
+117,Fridges,9,101
+100,Laptops,9,102
+103,Microwaves,1,102
+114,Webcam,7,102
+116,Cables,5,102
+100,Laptops,9,103
+102,Phones,7,103
+106,Drones,8,103
+117,Fridges,5,103
+105,Electronic Locks,1,104
+101,Hard Drives,7,105
+102,Phones,7,105
+103,Microwaves,5,105
+109,TVs,2,105
+110,Remotes,2,105
+111,Earbuds,1,105
+113,Mouse,9,105
+114,Webcam,2,105
+116,Cables,13,105
+106,Drones,10,106
+118,Monitors,2,106
+108,Tablets,3,107
+120,Virtual Assistant,8,107
+102,Phones,5,108
+103,Microwaves,2,108
+106,Drones,4,108
+109,TVs,6,108
+110,Remotes,5,108
+111,Earbuds,1,108
+120,Virtual Assistant,9,108
+101,Hard Drives,9,109
+105,Electronic Locks,3,109
+107,Computers,6,109
+113,Mouse,11,109
+101,Hard Drives,4,110
+103,Microwaves,5,110
+110,Remotes,5,110
+114,Webcam,5,110
+120,Virtual Assistant,9,110
+103,Microwaves,2,111
+105,Electronic Locks,1,111
+108,Tablets,1,111
+110,Remotes,4,111
+103,Microwaves,3,112
+104,Headphones,5,112
+107,Computers,8,112
+109,TVs,1,112
+101,Hard Drives,7,113
+102,Phones,3,113
+105,Electronic Locks,6,113
+106,Drones,9,113
+110,Remotes,3,113
+118,Monitors,8,113
+103,Microwaves,9,114
+101,Hard Drives,8,115
+103,Microwaves,7,115
+104,Headphones,4,115
+107,Computers,8,115
+109,TVs,3,115
+114,Webcam,4,115
+118,Monitors,8,115
+120,Virtual Assistant,3,115
+103,Microwaves,7,116
+106,Drones,3,116
+109,TVs,4,116
+115,USB,9,116
+108,Tablets,5,117
+109,TVs,7,117
+111,Earbuds,9,117
+112,Smart fridges,5,117
+113,Mouse,10,118
+116,Cables,10,118
+100,Laptops,3,121
+110,Remotes,3,121
+111,Earbuds,7,121
+112,Smart fridges,5,121
+117,Fridges,10,121
+115,USB,5,122
+106,Drones,4,123
+108,Tablets,13,123
+113,Mouse,1,123
+104,Headphones,10,124
+108,Tablets,2,124
+107,Computers,5,125
+108,Tablets,7,125
+111,Earbuds,5,126
+113,Mouse,3,126
+114,Webcam,6,126
+118,Monitors,8,126
+103,Microwaves,8,127
+105,Electronic Locks,3,127
+117,Fridges,10,127
+104,Headphones,7,128
+116,Cables,8,128
+118,Monitors,9,128
+120,Virtual Assistant,2,128
+104,Headphones,10,129
+105,Electronic Locks,4,129
+110,Remotes,5,129
+101,Hard Drives,3,130
+102,Phones,4,130
+103,Microwaves,2,130
+114,Webcam,4,130
+101,Hard Drives,2,131
+103,Microwaves,2,131
+106,Drones,2,131
+111,Earbuds,4,131
+112,Smart fridges,4,131
+104,Headphones,3,133
+111,Earbuds,5,133
+118,Monitors,6,133
+120,Virtual Assistant,5,133
+104,Headphones,8,134
+110,Remotes,10,134
+114,Webcam,8,134
+101,Hard Drives,2,135
+103,Microwaves,2,135
+112,Smart fridges,5,135
+114,Webcam,8,135
+115,USB,8,135
+102,Phones,5,136
+111,Earbuds,9,136
+113,Mouse,8,136
+120,Virtual Assistant,6,136
+108,Tablets,5,137
+116,Cables,6,137
+118,Monitors,10,137
+120,Virtual Assistant,7,137
+102,Phones,10,138
+107,Computers,2,138
+115,USB,5,138
+117,Fridges,4,138
+103,Microwaves,6,139
+111,Earbuds,3,139
+113,Mouse,10,140
+114,Webcam,4,140
+116,Cables,2,141
+101,Hard Drives,8,142
+103,Microwaves,8,142
+113,Mouse,10,142
+114,Webcam,1,142
+115,USB,8,142
+120,Virtual Assistant,8,142
+100,Laptops,8,143
+101,Hard Drives,8,143
+103,Microwaves,3,143
+111,Earbuds,6,143
+114,Webcam,10,143
+111,Earbuds,5,144
+120,Virtual Assistant,8,144
+106,Drones,10,145
+108,Tablets,10,145
+109,TVs,2,145
+112,Smart fridges,8,145
+120,Virtual Assistant,10,145
+110,Remotes,10,146
+103,Microwaves,6,147
+106,Drones,4,147
+107,Computers,3,147
+114,Webcam,5,147
+100,Laptops,6,148
+104,Headphones,8,148
+105,Electronic Locks,1,148
+108,Tablets,3,148
+113,Mouse,9,148
+116,Cables,1,148
+101,Hard Drives,9,152
+103,Microwaves,1,152
+112,Smart fridges,2,152
+113,Mouse,2,152
+115,USB,7,152
+120,Virtual Assistant,12,152
+107,Computers,7,153
+108,Tablets,7,153
+115,USB,8,153
+117,Fridges,10,153
+105,Electronic Locks,15,154
+109,TVs,6,154
+110,Remotes,15,154
+112,Smart fridges,3,154
+113,Mouse,9,154
+114,Webcam,7,154
+118,Monitors,9,154
+102,Phones,6,155
+106,Drones,6,155
+108,Tablets,5,155
+112,Smart fridges,8,155
+114,Webcam,3,155
+118,Monitors,5,155
+101,Hard Drives,15,156
+102,Phones,6,156
+103,Microwaves,4,156
+108,Tablets,1,156
+111,Earbuds,2,156
+112,Smart fridges,3,156
+116,Cables,8,156
+117,Fridges,3,156
+118,Monitors,9,156
+103,Microwaves,11,157
+104,Headphones,1,157
+105,Electronic Locks,8,157
+107,Computers,12,157
+108,Tablets,2,157
+109,TVs,7,157
+114,Webcam,2,157
+116,Cables,2,157
+117,Fridges,2,157
+120,Virtual Assistant,9,157
+101,Hard Drives,8,158
+102,Phones,5,158
+105,Electronic Locks,3,158
+106,Drones,10,158
+107,Computers,3,158
+109,TVs,3,158
+110,Remotes,6,158
+111,Earbuds,13,158
+114,Webcam,3,158
+115,USB,10,158
+117,Fridges,12,158
+120,Virtual Assistant,8,158
+101,Hard Drives,3,159
+102,Phones,19,159
+103,Microwaves,9,159
+104,Headphones,2,159
+105,Electronic Locks,10,159
+112,Smart fridges,5,159
+102,Phones,5,160
+103,Microwaves,6,160
+105,Electronic Locks,1,160
+106,Drones,5,160
+109,TVs,11,160
+111,Earbuds,5,160
+112,Smart fridges,3,160
+114,Webcam,4,160
+116,Cables,9,160
+100,Laptops,5,161
+104,Headphones,7,161
+109,TVs,17,161
+111,Earbuds,9,161
+114,Webcam,3,161
+115,USB,2,161
+104,Headphones,9,162
+106,Drones,7,162
+109,TVs,14,162
+110,Remotes,4,162
+111,Earbuds,9,162
+114,Webcam,7,162
+116,Cables,10,162
+117,Fridges,5,162
+120,Virtual Assistant,4,162
+101,Hard Drives,2,163
+102,Phones,8,163
+103,Microwaves,5,163
+104,Headphones,4,163
+106,Drones,7,163
+107,Computers,8,163
+109,TVs,1,163
+111,Earbuds,5,163
+113,Mouse,8,163
+115,USB,4,163
+100,Laptops,9,164
+103,Microwaves,9,164
+106,Drones,3,164
+107,Computers,1,164
+109,TVs,28,164
+110,Remotes,8,164
+113,Mouse,8,164
+120,Virtual Assistant,6,164
+101,Hard Drives,10,165
+102,Phones,2,165
+103,Microwaves,7,165
+105,Electronic Locks,1,165
+112,Smart fridges,8,165
+114,Webcam,8,165
+116,Cables,4,165
+101,Hard Drives,6,166
+103,Microwaves,10,166
+105,Electronic Locks,26,166
+110,Remotes,8,166
+114,Webcam,10,166
+116,Cables,3,166
+117,Fridges,6,166
+100,Laptops,6,167
+103,Microwaves,10,167
+105,Electronic Locks,9,167
+107,Computers,9,167
+110,Remotes,8,167
+111,Earbuds,3,167
+114,Webcam,16,167
+117,Fridges,2,167
+118,Monitors,7,167
+100,Laptops,27,168
+102,Phones,8,168
+103,Microwaves,8,168
+104,Headphones,7,168
+105,Electronic Locks,3,168
+106,Drones,13,168
+107,Computers,7,168
+108,Tablets,23,168
+109,TVs,9,168
+113,Mouse,5,168
+114,Webcam,6,168
+117,Fridges,9,168
+118,Monitors,10,168
+102,Phones,4,169
+105,Electronic Locks,7,169
+107,Computers,8,169
+109,TVs,5,169
+111,Earbuds,8,169
+113,Mouse,5,169
+116,Cables,8,169
+120,Virtual Assistant,2,169
+100,Laptops,19,170
+101,Hard Drives,5,170
+105,Electronic Locks,6,170
+113,Mouse,9,170
+116,Cables,5,170
+117,Fridges,5,170
+118,Monitors,17,170
+101,Hard Drives,5,171
+105,Electronic Locks,7,171
+106,Drones,20,171
+109,TVs,10,171
+111,Earbuds,4,171
+112,Smart fridges,10,171
+114,Webcam,1,171
+115,USB,9,171
+116,Cables,8,171
+102,Phones,2,172
+104,Headphones,5,172
+105,Electronic Locks,1,172
+106,Drones,3,172
+107,Computers,12,172
+108,Tablets,10,172
+109,TVs,5,172
+111,Earbuds,1,172
+112,Smart fridges,5,172
+114,Webcam,11,172
+120,Virtual Assistant,8,172
+103,Microwaves,8,173
+104,Headphones,4,173
+107,Computers,1,173
+108,Tablets,5,173
+110,Remotes,4,173
+112,Smart fridges,6,173
+117,Fridges,1,173
+118,Monitors,8,173
+101,Hard Drives,8,174
+102,Phones,10,174
+103,Microwaves,4,174
+104,Headphones,4,174
+106,Drones,7,174
+107,Computers,10,174
+109,TVs,2,174
+110,Remotes,3,174
+111,Earbuds,1,174
+112,Smart fridges,6,174
+113,Mouse,8,174
+114,Webcam,10,174
+116,Cables,1,174
+118,Monitors,8,174
+103,Microwaves,7,175
+111,Earbuds,7,175
+101,Hard Drives,13,176
+102,Phones,4,176
+103,Microwaves,3,176
+104,Headphones,3,176
+112,Smart fridges,14,176
+118,Monitors,9,176
+120,Virtual Assistant,12,176
+106,Drones,3,177
+109,TVs,3,177
+113,Mouse,13,177
+116,Cables,2,177
+117,Fridges,10,177
+101,Hard Drives,6,178
+103,Microwaves,8,178
+104,Headphones,15,178
+107,Computers,9,178
+108,Tablets,5,178
+113,Mouse,1,178
+115,USB,1,178
+117,Fridges,17,178
+118,Monitors,3,178
+120,Virtual Assistant,2,178
+100,Laptops,6,179
+103,Microwaves,10,179
+105,Electronic Locks,10,179
+107,Computers,10,179
+108,Tablets,2,179
+110,Remotes,7,179
+118,Monitors,6,179
+120,Virtual Assistant,18,179
+106,Drones,20,182
+108,Tablets,7,182
+109,TVs,5,182
+110,Remotes,8,182
+111,Earbuds,4,182
+112,Smart fridges,3,182
+113,Mouse,9,182
+115,USB,9,182
+117,Fridges,3,182
+101,Hard Drives,1,183
+104,Headphones,1,183
+109,TVs,3,183
+110,Remotes,3,183
+113,Mouse,6,183
+117,Fridges,6,183
+102,Phones,7,184
+103,Microwaves,22,184
+104,Headphones,9,184
+105,Electronic Locks,9,184
+106,Drones,20,184
+108,Tablets,3,184
+115,USB,9,184
+103,Microwaves,9,185
+105,Electronic Locks,7,185
+107,Computers,6,185
+108,Tablets,7,185
+110,Remotes,1,185
+112,Smart fridges,1,185
+113,Mouse,6,185
+116,Cables,4,185
+117,Fridges,9,185
+101,Hard Drives,3,186
+102,Phones,4,186
+103,Microwaves,3,186
+107,Computers,4,186
+108,Tablets,4,186
+109,TVs,5,186
+112,Smart fridges,7,186
+113,Mouse,13,186
+116,Cables,1,186
+117,Fridges,2,186
+100,Laptops,2,187
+103,Microwaves,3,187
+106,Drones,2,187
+110,Remotes,14,187
+115,USB,3,187
+117,Fridges,9,187
+118,Monitors,8,187
+120,Virtual Assistant,5,187
+100,Laptops,10,188
+103,Microwaves,9,188
+104,Headphones,5,188
+115,USB,10,188
+116,Cables,6,188
+117,Fridges,7,188
+105,Electronic Locks,1,189
+114,Webcam,5,189
+120,Virtual Assistant,4,189
+102,Phones,3,190
+103,Microwaves,3,190
+110,Remotes,6,190
+114,Webcam,4,190
+116,Cables,9,190
+120,Virtual Assistant,10,190
+101,Hard Drives,19,191
+103,Microwaves,1,191
+105,Electronic Locks,8,191
+107,Computers,1,191
+108,Tablets,7,191
+110,Remotes,2,191
+112,Smart fridges,5,191
+113,Mouse,9,191
+116,Cables,9,191
+102,Phones,8,192
+108,Tablets,8,192
+113,Mouse,11,192
+115,USB,7,192
+118,Monitors,8,192
+102,Phones,3,193
+104,Headphones,2,193
+105,Electronic Locks,6,193
+106,Drones,2,193
+107,Computers,2,193
+109,TVs,2,193
+110,Remotes,10,193
+112,Smart fridges,2,193
+115,USB,9,193
+118,Monitors,8,193
+120,Virtual Assistant,3,193
+103,Microwaves,6,194
+105,Electronic Locks,13,194
+107,Computers,6,194
+109,TVs,8,194
+112,Smart fridges,7,194
+115,USB,6,194
+117,Fridges,4,194
+120,Virtual Assistant,8,194
+104,Headphones,6,195
+108,Tablets,2,195
+117,Fridges,5,195
+118,Monitors,9,195
+120,Virtual Assistant,4,195
+102,Phones,7,196
+106,Drones,2,196
+110,Remotes,5,196
+111,Earbuds,5,196
+116,Cables,1,196
+117,Fridges,7,196
+101,Hard Drives,1,197
+102,Phones,3,197
+103,Microwaves,5,197
+105,Electronic Locks,12,197
+107,Computers,10,197
+112,Smart fridges,10,197
+113,Mouse,3,197
+115,USB,1,197
+117,Fridges,7,197
+102,Phones,6,198
+103,Microwaves,3,198
+108,Tablets,12,198
+109,TVs,10,198
+112,Smart fridges,13,198
+115,USB,1,198
+116,Cables,3,198
+117,Fridges,5,198
+101,Hard Drives,3,199
+102,Phones,4,199
+104,Headphones,8,199
+105,Electronic Locks,4,199
+107,Computers,5,199
+108,Tablets,3,199
+111,Earbuds,9,199
+115,USB,8,199
+116,Cables,6,199
+120,Virtual Assistant,10,199
+104,Headphones,10,200
+108,Tablets,10,200
+110,Remotes,10,200
+111,Earbuds,8,200
+112,Smart fridges,2,200
+116,Cables,7,200
+105,Electronic Locks,7,201
+106,Drones,9,201
+110,Remotes,4,201
+112,Smart fridges,2,201
+114,Webcam,10,201
+118,Monitors,9,201
+103,Microwaves,4,202
+104,Headphones,4,202
+108,Tablets,9,202
+116,Cables,6,202
+117,Fridges,4,202
+118,Monitors,6,202
+120,Virtual Assistant,7,202
+100,Laptops,9,203
+101,Hard Drives,10,203
+103,Microwaves,2,203
+108,Tablets,3,203
+109,TVs,1,203
+112,Smart fridges,15,203
+115,USB,7,203
+117,Fridges,14,203
+104,Headphones,12,204
+105,Electronic Locks,5,204
+107,Computers,6,204
+113,Mouse,5,204
+118,Monitors,1,204
+100,Laptops,9,205
+102,Phones,1,205
+104,Headphones,5,205
+105,Electronic Locks,9,205
+106,Drones,8,205
+107,Computers,6,205
+108,Tablets,4,205
+109,TVs,1,205
+112,Smart fridges,4,205
+114,Webcam,14,205
+115,USB,5,205
+117,Fridges,4,205
+103,Microwaves,9,206
+104,Headphones,5,206
+109,TVs,15,206
+114,Webcam,10,206
+115,USB,4,206
+116,Cables,7,206
+118,Monitors,2,206
+100,Laptops,5,207
+101,Hard Drives,4,207
+102,Phones,10,207
+105,Electronic Locks,1,207
+107,Computers,8,207
+109,TVs,8,207
+110,Remotes,13,207
+112,Smart fridges,5,207
+118,Monitors,1,207
+100,Laptops,10,208
+102,Phones,15,208
+103,Microwaves,9,208
+106,Drones,6,208
+108,Tablets,7,208
+109,TVs,14,208
+111,Earbuds,7,208
+113,Mouse,3,208
+114,Webcam,14,208
+115,USB,10,208
+120,Virtual Assistant,5,208
+101,Hard Drives,3,209
+102,Phones,9,209
+103,Microwaves,3,209
+106,Drones,6,209
+108,Tablets,13,209
+112,Smart fridges,12,209
+114,Webcam,13,209
+116,Cables,12,209
+117,Fridges,7,209
+118,Monitors,3,209
+120,Virtual Assistant,7,209
+103,Microwaves,5,213
+104,Headphones,3,213
+107,Computers,5,213
+120,Virtual Assistant,1,213
+101,Hard Drives,10,214
+103,Microwaves,14,214
+107,Computers,5,214
+116,Cables,9,214
+117,Fridges,10,214
+105,Electronic Locks,6,215
+109,TVs,6,215
+115,USB,4,215
+100,Laptops,17,216
+102,Phones,7,216
+112,Smart fridges,2,216
+113,Mouse,5,216
+116,Cables,9,216
+118,Monitors,7,216
+100,Laptops,3,217
+102,Phones,2,217
+105,Electronic Locks,3,217
+108,Tablets,7,217
+103,Microwaves,7,218
+111,Earbuds,10,218
+114,Webcam,2,218
+115,USB,6,218
+120,Virtual Assistant,9,218
+102,Phones,7,219
+105,Electronic Locks,4,219
+117,Fridges,2,219
+120,Virtual Assistant,2,219
+107,Computers,1,220
+111,Earbuds,9,220
+115,USB,8,220
+120,Virtual Assistant,4,220
+104,Headphones,4,221
+105,Electronic Locks,2,221
+113,Mouse,2,221
+114,Webcam,5,221
+116,Cables,5,221
+117,Fridges,2,221
+120,Virtual Assistant,4,221
+100,Laptops,3,222
+103,Microwaves,10,222
+120,Virtual Assistant,9,222
+103,Microwaves,11,223
+108,Tablets,7,223
+109,TVs,8,223
+110,Remotes,6,223
+115,USB,6,223
+104,Headphones,3,224
+107,Computers,3,224
+112,Smart fridges,4,224
+113,Mouse,10,224
+117,Fridges,5,224
+104,Headphones,6,225
+105,Electronic Locks,8,225
+112,Smart fridges,9,225
+101,Hard Drives,9,226
+103,Microwaves,7,226
+105,Electronic Locks,4,226
+106,Drones,5,226
+107,Computers,10,226
+113,Mouse,6,226
+114,Webcam,4,226
+102,Phones,8,227
+103,Microwaves,10,227
+108,Tablets,16,227
+112,Smart fridges,9,227
+114,Webcam,5,227
+118,Monitors,9,227
+102,Phones,5,228
+116,Cables,9,228
+102,Phones,4,229
+103,Microwaves,1,229
+104,Headphones,1,229
+106,Drones,10,229
+112,Smart fridges,5,229
+113,Mouse,2,229
+115,USB,7,229
+117,Fridges,13,229
+118,Monitors,8,229
+120,Virtual Assistant,1,229
+103,Microwaves,7,230
+104,Headphones,9,230
+113,Mouse,8,230
+115,USB,4,230
+103,Microwaves,3,231
+107,Computers,3,231
+108,Tablets,1,231
+112,Smart fridges,2,231
+120,Virtual Assistant,6,231
+101,Hard Drives,3,232
+103,Microwaves,1,232
+107,Computers,8,232
+114,Webcam,2,232
+116,Cables,2,232
+108,Tablets,9,233
+110,Remotes,5,233
+100,Laptops,5,234
+109,TVs,5,234
+111,Earbuds,9,234
+115,USB,1,234
+117,Fridges,7,234
+118,Monitors,8,234
+120,Virtual Assistant,7,234
+101,Hard Drives,7,235
+103,Microwaves,10,235
+107,Computers,7,235
+108,Tablets,7,235
+110,Remotes,5,235
+113,Mouse,4,235
+114,Webcam,4,235
+101,Hard Drives,9,236
+114,Webcam,9,236
+120,Virtual Assistant,1,236
+102,Phones,10,237
+103,Microwaves,8,237
+105,Electronic Locks,16,237
+109,TVs,1,237
+111,Earbuds,3,237
+113,Mouse,4,237
+118,Monitors,4,237
+104,Headphones,3,238
+110,Remotes,6,238
+103,Microwaves,7,239
+111,Earbuds,4,239
+101,Hard Drives,10,240
+107,Computers,4,240
+108,Tablets,10,240
+115,USB,3,240
+100,Laptops,8,244
+107,Computers,6,244
+114,Webcam,11,244
+118,Monitors,10,244
+120,Virtual Assistant,4,244
+100,Laptops,4,245
+112,Smart fridges,7,245
+120,Virtual Assistant,5,245
+100,Laptops,5,246
+104,Headphones,9,246
+107,Computers,1,246
+113,Mouse,8,247
+116,Cables,5,247
+117,Fridges,6,247
+100,Laptops,4,248
+102,Phones,5,248
+104,Headphones,8,248
+109,TVs,18,248
+115,USB,7,248
+117,Fridges,8,248
+120,Virtual Assistant,8,248
+101,Hard Drives,6,249
+102,Phones,8,249
+108,Tablets,7,249
+111,Earbuds,7,249
+101,Hard Drives,5,250
+104,Headphones,1,250
+107,Computers,10,250
+110,Remotes,3,250
+114,Webcam,2,250
+117,Fridges,4,250
+102,Phones,6,251
+107,Computers,5,251
+108,Tablets,3,251
+107,Computers,8,252
+115,USB,7,252
+107,Computers,10,253
+109,TVs,6,253
+111,Earbuds,1,253
+109,TVs,6,254
+111,Earbuds,5,254
+118,Monitors,6,254
+101,Hard Drives,4,255
+112,Smart fridges,1,255
+114,Webcam,1,255
+115,USB,4,255
+117,Fridges,8,255
+118,Monitors,4,255
+102,Phones,5,256
+107,Computers,3,256
+103,Microwaves,1,257
+112,Smart fridges,8,257
+105,Electronic Locks,6,258
+108,Tablets,6,258
+111,Earbuds,11,258
+116,Cables,7,258
+100,Laptops,2,259
+103,Microwaves,7,259
+106,Drones,1,259
+107,Computers,8,259
+108,Tablets,4,259
+111,Earbuds,3,259
+115,USB,7,259
+117,Fridges,1,259
+118,Monitors,9,259
+112,Smart fridges,8,260
+113,Mouse,7,260
+117,Fridges,7,260
+104,Headphones,5,261
+111,Earbuds,10,261
+113,Mouse,2,261
+117,Fridges,8,261
+106,Drones,7,262
+120,Virtual Assistant,3,262
+100,Laptops,5,263
+101,Hard Drives,10,263
+103,Microwaves,4,263
+115,USB,6,263
+117,Fridges,6,263
+102,Phones,7,264
+103,Microwaves,7,264
+104,Headphones,6,264
+105,Electronic Locks,5,264
+110,Remotes,5,264
+112,Smart fridges,17,264
+102,Phones,4,265
+103,Microwaves,3,265
+106,Drones,9,265
+108,Tablets,2,265
+114,Webcam,4,265
+116,Cables,3,265
+101,Hard Drives,10,266
+106,Drones,7,266
+105,Electronic Locks,13,267
+103,Microwaves,2,268
+105,Electronic Locks,7,268
+115,USB,13,268
+100,Laptops,5,269
+105,Electronic Locks,2,269
+109,TVs,5,269
+110,Remotes,9,269
+102,Phones,8,270
+107,Computers,8,270
+118,Monitors,4,270
+120,Virtual Assistant,9,270
+100,Laptops,1,271
+110,Remotes,6,271
+114,Webcam,9,271
+120,Virtual Assistant,1,271
+103,Microwaves,14,274
+104,Headphones,4,274
+105,Electronic Locks,4,274
+106,Drones,5,274
+107,Computers,24,274
+110,Remotes,5,274
+112,Smart fridges,1,274
+113,Mouse,12,274
+115,USB,9,274
+118,Monitors,7,274
+120,Virtual Assistant,9,274
+101,Hard Drives,14,275
+103,Microwaves,8,275
+104,Headphones,7,275
+106,Drones,5,275
+109,TVs,9,275
+111,Earbuds,10,275
+114,Webcam,6,275
+115,USB,3,275
+117,Fridges,3,275
+118,Monitors,4,275
+101,Hard Drives,7,276
+103,Microwaves,10,276
+106,Drones,9,276
+107,Computers,13,276
+108,Tablets,5,276
+111,Earbuds,3,276
+117,Fridges,5,276
+100,Laptops,5,277
+102,Phones,11,277
+105,Electronic Locks,20,277
+106,Drones,28,277
+108,Tablets,2,277
+109,TVs,5,277
+112,Smart fridges,2,277
+113,Mouse,2,277
+116,Cables,9,277
+117,Fridges,1,277
+101,Hard Drives,8,278
+102,Phones,8,278
+105,Electronic Locks,10,278
+106,Drones,10,278
+109,TVs,10,278
+116,Cables,3,278
+103,Microwaves,4,279
+109,TVs,15,279
+111,Earbuds,6,279
+112,Smart fridges,8,279
+115,USB,4,279
+118,Monitors,7,279
+102,Phones,3,280
+103,Microwaves,15,280
+105,Electronic Locks,3,280
+107,Computers,7,280
+110,Remotes,4,280
+112,Smart fridges,7,280
+114,Webcam,13,280
+115,USB,5,280
+103,Microwaves,6,281
+106,Drones,6,281
+107,Computers,7,281
+109,TVs,8,281
+114,Webcam,6,281
+117,Fridges,7,281
+118,Monitors,3,281
+120,Virtual Assistant,6,281
+102,Phones,3,282
+104,Headphones,8,282
+105,Electronic Locks,6,282
+109,TVs,16,282
+111,Earbuds,2,282
+113,Mouse,13,282
+115,USB,1,282
+101,Hard Drives,3,283
+102,Phones,5,283
+103,Microwaves,9,283
+104,Headphones,9,283
+105,Electronic Locks,8,283
+107,Computers,6,283
+108,Tablets,9,283
+110,Remotes,21,283
+112,Smart fridges,14,283
+114,Webcam,8,283
+102,Phones,8,284
+103,Microwaves,9,284
+107,Computers,6,284
+110,Remotes,10,284
+111,Earbuds,3,284
+112,Smart fridges,4,284
+115,USB,9,284
+116,Cables,11,284
+120,Virtual Assistant,23,284
+100,Laptops,1,285
+102,Phones,2,285
+103,Microwaves,2,285
+104,Headphones,8,285
+107,Computers,10,285
+108,Tablets,14,285
+110,Remotes,6,285
+111,Earbuds,3,285
+113,Mouse,3,285
+117,Fridges,12,285
+118,Monitors,1,285
+100,Laptops,5,286
+101,Hard Drives,19,286
+104,Headphones,9,286
+105,Electronic Locks,4,286
+106,Drones,2,286
+107,Computers,6,286
+112,Smart fridges,8,286
+117,Fridges,12,286
+120,Virtual Assistant,14,286
+100,Laptops,19,287
+103,Microwaves,1,287
+104,Headphones,17,287
+105,Electronic Locks,12,287
+108,Tablets,11,287
+110,Remotes,4,287
+111,Earbuds,8,287
+113,Mouse,12,287
+114,Webcam,10,287
+117,Fridges,10,287
+118,Monitors,7,287
+120,Virtual Assistant,10,287
+101,Hard Drives,18,288
+102,Phones,6,288
+103,Microwaves,16,288
+105,Electronic Locks,9,288
+108,Tablets,4,288
+110,Remotes,10,288
+114,Webcam,10,288
+117,Fridges,3,288
+118,Monitors,3,288
+102,Phones,16,289
+103,Microwaves,8,289
+107,Computers,3,289
+110,Remotes,8,289
+113,Mouse,5,289
+115,USB,6,289
+116,Cables,5,289
+117,Fridges,3,289
+118,Monitors,10,289
+120,Virtual Assistant,10,289
+100,Laptops,9,290
+102,Phones,9,290
+103,Microwaves,6,290
+104,Headphones,8,290
+106,Drones,9,290
+107,Computers,7,290
+112,Smart fridges,7,290
+116,Cables,4,290
+117,Fridges,7,290
+101,Hard Drives,7,291
+102,Phones,8,291
+103,Microwaves,8,291
+109,TVs,6,291
+110,Remotes,6,291
+112,Smart fridges,12,291
+113,Mouse,8,291
+114,Webcam,7,291
+116,Cables,2,291
+117,Fridges,9,291
+100,Laptops,10,292
+101,Hard Drives,6,292
+103,Microwaves,8,292
+104,Headphones,17,292
+105,Electronic Locks,5,292
+106,Drones,7,292
+108,Tablets,10,292
+109,TVs,3,292
+112,Smart fridges,8,292
+114,Webcam,9,292
+116,Cables,9,292
+117,Fridges,5,292
+101,Hard Drives,11,293
+102,Phones,2,293
+106,Drones,9,293
+107,Computers,16,293
+108,Tablets,4,293
+110,Remotes,5,293
+111,Earbuds,10,293
+114,Webcam,2,293
+115,USB,2,293
+116,Cables,7,293
+118,Monitors,5,293
+101,Hard Drives,4,294
+103,Microwaves,30,294
+104,Headphones,17,294
+105,Electronic Locks,3,294
+106,Drones,9,294
+108,Tablets,7,294
+111,Earbuds,2,294
+112,Smart fridges,10,294
+114,Webcam,26,294
+115,USB,8,294
+117,Fridges,4,294
+118,Monitors,4,294
+101,Hard Drives,9,295
+102,Phones,5,295
+104,Headphones,13,295
+106,Drones,1,295
+108,Tablets,5,295
+110,Remotes,2,295
+111,Earbuds,11,295
+114,Webcam,6,295
+101,Hard Drives,9,296
+105,Electronic Locks,8,296
+111,Earbuds,10,296
+112,Smart fridges,8,296
+114,Webcam,16,296
+115,USB,9,296
+116,Cables,1,296
+100,Laptops,4,297
+101,Hard Drives,8,297
+103,Microwaves,2,297
+105,Electronic Locks,15,297
+107,Computers,10,297
+109,TVs,6,297
+110,Remotes,2,297
+115,USB,2,297
+116,Cables,10,297
+117,Fridges,4,297
+120,Virtual Assistant,10,297
+101,Hard Drives,2,298
+103,Microwaves,21,298
+104,Headphones,3,298
+106,Drones,9,298
+107,Computers,6,298
+108,Tablets,5,298
+109,TVs,1,298
+113,Mouse,2,298
+115,USB,1,298
+116,Cables,15,298
+102,Phones,7,299
+103,Microwaves,4,299
+105,Electronic Locks,6,299
+106,Drones,1,299
+107,Computers,6,299
+113,Mouse,4,299
+114,Webcam,5,299
+117,Fridges,10,299
+100,Laptops,3,300
+101,Hard Drives,10,300
+102,Phones,10,300
+104,Headphones,7,300
+105,Electronic Locks,19,300
+106,Drones,10,300
+108,Tablets,12,300
+109,TVs,11,300
+110,Remotes,9,300
+113,Mouse,18,300
+114,Webcam,2,300
+118,Monitors,7,300
+120,Virtual Assistant,9,300
+100,Laptops,9,301
+102,Phones,4,301
+103,Microwaves,15,301
+104,Headphones,15,301
+109,TVs,5,301
+110,Remotes,16,301
+112,Smart fridges,6,301
+113,Mouse,2,301
+114,Webcam,1,301
+100,Laptops,20,305
+101,Hard Drives,2,305
+102,Phones,4,305
+103,Microwaves,14,305
+104,Headphones,12,305
+105,Electronic Locks,20,305
+106,Drones,3,305
+107,Computers,4,305
+108,Tablets,9,305
+109,TVs,16,305
+112,Smart fridges,9,305
+113,Mouse,18,305
+114,Webcam,28,305
+115,USB,5,305
+116,Cables,5,305
+118,Monitors,8,305
+120,Virtual Assistant,9,305
+100,Laptops,4,306
+102,Phones,11,306
+103,Microwaves,35,306
+104,Headphones,5,306
+105,Electronic Locks,6,306
+107,Computers,1,306
+108,Tablets,20,306
+109,TVs,23,306
+110,Remotes,14,306
+111,Earbuds,2,306
+112,Smart fridges,4,306
+113,Mouse,6,306
+115,USB,1,306
+116,Cables,10,306
+117,Fridges,4,306
+118,Monitors,6,306
+120,Virtual Assistant,19,306
+100,Laptops,2,307
+102,Phones,2,307
+103,Microwaves,6,307
+105,Electronic Locks,7,307
+106,Drones,14,307
+107,Computers,6,307
+108,Tablets,11,307
+110,Remotes,5,307
+114,Webcam,6,307
+115,USB,8,307
+116,Cables,6,307
+120,Virtual Assistant,8,307
+100,Laptops,5,308
+101,Hard Drives,10,308
+103,Microwaves,14,308
+108,Tablets,5,308
+110,Remotes,2,308
+112,Smart fridges,12,308
+114,Webcam,11,308
+115,USB,2,308
+116,Cables,12,308
+117,Fridges,34,308
+100,Laptops,10,309
+101,Hard Drives,28,309
+103,Microwaves,24,309
+105,Electronic Locks,7,309
+106,Drones,2,309
+107,Computers,7,309
+108,Tablets,9,309
+110,Remotes,8,309
+111,Earbuds,13,309
+112,Smart fridges,10,309
+113,Mouse,9,309
+114,Webcam,12,309
+115,USB,8,309
+117,Fridges,17,309
+118,Monitors,3,309
+120,Virtual Assistant,9,309
+101,Hard Drives,31,310
+105,Electronic Locks,6,310
+106,Drones,4,310
+107,Computers,2,310
+108,Tablets,9,310
+109,TVs,10,310
+111,Earbuds,10,310
+113,Mouse,11,310
+114,Webcam,19,310
+116,Cables,15,310
+118,Monitors,3,310
+120,Virtual Assistant,4,310
+100,Laptops,8,311
+101,Hard Drives,21,311
+102,Phones,4,311
+103,Microwaves,22,311
+104,Headphones,24,311
+105,Electronic Locks,13,311
+108,Tablets,8,311
+110,Remotes,8,311
+111,Earbuds,12,311
+112,Smart fridges,7,311
+113,Mouse,14,311
+115,USB,14,311
+116,Cables,1,311
+118,Monitors,5,311
+101,Hard Drives,10,312
+103,Microwaves,10,312
+104,Headphones,5,312
+106,Drones,3,312
+108,Tablets,9,312
+109,TVs,29,312
+111,Earbuds,12,312
+112,Smart fridges,8,312
+113,Mouse,13,312
+114,Webcam,8,312
+116,Cables,16,312
+118,Monitors,16,312
+120,Virtual Assistant,5,312
+101,Hard Drives,9,313
+102,Phones,5,313
+103,Microwaves,48,313
+105,Electronic Locks,13,313
+106,Drones,16,313
+107,Computers,5,313
+108,Tablets,4,313
+110,Remotes,9,313
+111,Earbuds,23,313
+112,Smart fridges,9,313
+114,Webcam,1,313
+115,USB,8,313
+116,Cables,9,313
+117,Fridges,3,313
+118,Monitors,13,313
+120,Virtual Assistant,19,313
+100,Laptops,8,314
+101,Hard Drives,4,314
+103,Microwaves,19,314
+104,Headphones,7,314
+105,Electronic Locks,5,314
+106,Drones,10,314
+107,Computers,2,314
+108,Tablets,15,314
+109,TVs,16,314
+110,Remotes,4,314
+111,Earbuds,3,314
+113,Mouse,8,314
+115,USB,12,314
+116,Cables,4,314
+118,Monitors,9,314
+100,Laptops,12,315
+101,Hard Drives,8,315
+103,Microwaves,11,315
+104,Headphones,29,315
+105,Electronic Locks,5,315
+106,Drones,1,315
+107,Computers,3,315
+109,TVs,12,315
+110,Remotes,8,315
+111,Earbuds,3,315
+113,Mouse,7,315
+116,Cables,15,315
+118,Monitors,10,315
+120,Virtual Assistant,8,315
+100,Laptops,1,316
+102,Phones,22,316
+103,Microwaves,27,316
+104,Headphones,12,316
+105,Electronic Locks,17,316
+106,Drones,3,316
+107,Computers,9,316
+108,Tablets,9,316
+109,TVs,4,316
+110,Remotes,14,316
+111,Earbuds,5,316
+112,Smart fridges,11,316
+114,Webcam,10,316
+115,USB,11,316
+116,Cables,31,316
+117,Fridges,6,316
+118,Monitors,8,316
+120,Virtual Assistant,2,316
+100,Laptops,8,317
+103,Microwaves,15,317
+105,Electronic Locks,15,317
+107,Computers,1,317
+108,Tablets,12,317
+109,TVs,4,317
+110,Remotes,7,317
+112,Smart fridges,2,317
+114,Webcam,4,317
+115,USB,10,317
+116,Cables,15,317
+120,Virtual Assistant,13,317
+100,Laptops,4,318
+101,Hard Drives,15,318
+102,Phones,10,318
+104,Headphones,15,318
+105,Electronic Locks,4,318
+106,Drones,14,318
+107,Computers,13,318
+110,Remotes,3,318
+112,Smart fridges,6,318
+113,Mouse,9,318
+115,USB,14,318
+116,Cables,2,318
+118,Monitors,10,318
+120,Virtual Assistant,9,318
+100,Laptops,24,319
+102,Phones,2,319
+103,Microwaves,23,319
+104,Headphones,8,319
+105,Electronic Locks,19,319
+108,Tablets,3,319
+109,TVs,15,319
+113,Mouse,8,319
+114,Webcam,10,319
+117,Fridges,17,319
+100,Laptops,14,320
+102,Phones,8,320
+103,Microwaves,10,320
+104,Headphones,12,320
+106,Drones,13,320
+109,TVs,5,320
+110,Remotes,16,320
+112,Smart fridges,8,320
+113,Mouse,10,320
+115,USB,9,320
+116,Cables,1,320
+117,Fridges,24,320
+118,Monitors,7,320
+100,Laptops,12,321
+103,Microwaves,7,321
+104,Headphones,9,321
+105,Electronic Locks,9,321
+106,Drones,17,321
+107,Computers,3,321
+108,Tablets,15,321
+109,TVs,10,321
+110,Remotes,7,321
+112,Smart fridges,10,321
+113,Mouse,14,321
+114,Webcam,1,321
+115,USB,10,321
+117,Fridges,3,321
+102,Phones,5,322
+103,Microwaves,2,322
+104,Headphones,1,322
+105,Electronic Locks,2,322
+106,Drones,10,322
+107,Computers,6,322
+108,Tablets,1,322
+109,TVs,15,322
+111,Earbuds,8,322
+112,Smart fridges,1,322
+113,Mouse,3,322
+115,USB,6,322
+116,Cables,18,322
+120,Virtual Assistant,10,322
+101,Hard Drives,22,323
+102,Phones,5,323
+103,Microwaves,14,323
+104,Headphones,10,323
+105,Electronic Locks,13,323
+106,Drones,3,323
+107,Computers,5,323
+109,TVs,8,323
+110,Remotes,3,323
+111,Earbuds,19,323
+112,Smart fridges,7,323
+116,Cables,12,323
+117,Fridges,9,323
+118,Monitors,13,323
+100,Laptops,10,324
+101,Hard Drives,5,324
+102,Phones,23,324
+103,Microwaves,15,324
+104,Headphones,15,324
+105,Electronic Locks,14,324
+106,Drones,10,324
+110,Remotes,7,324
+112,Smart fridges,4,324
+113,Mouse,6,324
+115,USB,6,324
+118,Monitors,21,324
+100,Laptops,9,325
+101,Hard Drives,1,325
+103,Microwaves,15,325
+104,Headphones,10,325
+105,Electronic Locks,33,325
+107,Computers,15,325
+108,Tablets,2,325
+109,TVs,9,325
+110,Remotes,16,325
+111,Earbuds,3,325
+113,Mouse,14,325
+114,Webcam,10,325
+115,USB,8,325
+117,Fridges,18,325
+118,Monitors,8,325
+101,Hard Drives,31,326
+102,Phones,6,326
+103,Microwaves,12,326
+105,Electronic Locks,4,326
+106,Drones,1,326
+107,Computers,1,326
+108,Tablets,6,326
+109,TVs,4,326
+110,Remotes,2,326
+114,Webcam,10,326
+115,USB,11,326
+117,Fridges,1,326
+120,Virtual Assistant,11,326
+101,Hard Drives,4,327
+103,Microwaves,8,327
+104,Headphones,5,327
+107,Computers,15,327
+109,TVs,10,327
+110,Remotes,8,327
+111,Earbuds,9,327
+112,Smart fridges,7,327
+113,Mouse,18,327
+115,USB,11,327
+116,Cables,19,327
+117,Fridges,8,327
+100,Laptops,7,328
+101,Hard Drives,5,328
+103,Microwaves,9,328
+104,Headphones,20,328
+105,Electronic Locks,9,328
+106,Drones,23,328
+107,Computers,4,328
+108,Tablets,7,328
+109,TVs,8,328
+110,Remotes,8,328
+112,Smart fridges,7,328
+114,Webcam,4,328
+115,USB,10,328
+116,Cables,7,328
+117,Fridges,12,328
+118,Monitors,10,328
+120,Virtual Assistant,12,328
+100,Laptops,6,329
+102,Phones,5,329
+103,Microwaves,2,329
+104,Headphones,2,329
+109,TVs,32,329
+110,Remotes,2,329
+112,Smart fridges,9,329
+114,Webcam,9,329
+116,Cables,7,329
+118,Monitors,2,329
+120,Virtual Assistant,17,329
+100,Laptops,1,330
+101,Hard Drives,2,330
+102,Phones,1,330
+103,Microwaves,14,330
+104,Headphones,2,330
+105,Electronic Locks,18,330
+106,Drones,18,330
+107,Computers,10,330
+108,Tablets,10,330
+110,Remotes,8,330
+111,Earbuds,8,330
+112,Smart fridges,9,330
+113,Mouse,11,330
+114,Webcam,7,330
+115,USB,1,330
+116,Cables,9,330
+120,Virtual Assistant,3,330
+100,Laptops,12,331
+103,Microwaves,6,331
+104,Headphones,14,331
+109,TVs,14,331
+111,Earbuds,21,331
+113,Mouse,10,331
+114,Webcam,2,331
+116,Cables,11,331
+117,Fridges,15,331
+118,Monitors,10,331
+120,Virtual Assistant,1,331
+100,Laptops,9,332
+101,Hard Drives,12,332
+103,Microwaves,13,332
+104,Headphones,10,332
+105,Electronic Locks,6,332
+107,Computers,18,332
+108,Tablets,10,332
+109,TVs,8,332
+111,Earbuds,7,332
+112,Smart fridges,12,332
+113,Mouse,3,332
+116,Cables,10,332
+120,Virtual Assistant,8,332
+100,Laptops,14,335
+101,Hard Drives,27,335
+102,Phones,1,335
+103,Microwaves,9,335
+104,Headphones,37,335
+105,Electronic Locks,26,335
+106,Drones,26,335
+107,Computers,34,335
+108,Tablets,21,335
+109,TVs,31,335
+110,Remotes,3,335
+111,Earbuds,1,335
+112,Smart fridges,25,335
+113,Mouse,45,335
+114,Webcam,9,335
+116,Cables,2,335
+117,Fridges,9,335
+118,Monitors,22,335
+120,Virtual Assistant,12,335
+100,Laptops,11,336
+101,Hard Drives,24,336
+102,Phones,18,336
+103,Microwaves,2,336
+104,Headphones,11,336
+105,Electronic Locks,16,336
+106,Drones,14,336
+107,Computers,1,336
+108,Tablets,16,336
+109,TVs,3,336
+110,Remotes,7,336
+111,Earbuds,18,336
+112,Smart fridges,17,336
+113,Mouse,3,336
+114,Webcam,9,336
+115,USB,8,336
+116,Cables,11,336
+117,Fridges,6,336
+118,Monitors,12,336
+120,Virtual Assistant,28,336
+101,Hard Drives,22,337
+103,Microwaves,18,337
+106,Drones,12,337
+107,Computers,7,337
+108,Tablets,10,337
+109,TVs,7,337
+111,Earbuds,15,337
+112,Smart fridges,12,337
+113,Mouse,12,337
+114,Webcam,6,337
+115,USB,5,337
+116,Cables,10,337
+117,Fridges,19,337
+118,Monitors,24,337
+120,Virtual Assistant,16,337
+100,Laptops,8,338
+101,Hard Drives,9,338
+102,Phones,4,338
+103,Microwaves,14,338
+104,Headphones,10,338
+105,Electronic Locks,1,338
+106,Drones,5,338
+107,Computers,9,338
+108,Tablets,20,338
+110,Remotes,6,338
+112,Smart fridges,27,338
+114,Webcam,12,338
+115,USB,22,338
+116,Cables,17,338
+117,Fridges,24,338
+118,Monitors,5,338
+120,Virtual Assistant,12,338
+100,Laptops,22,339
+101,Hard Drives,19,339
+102,Phones,19,339
+103,Microwaves,37,339
+104,Headphones,18,339
+105,Electronic Locks,13,339
+106,Drones,13,339
+107,Computers,9,339
+108,Tablets,1,339
+109,TVs,6,339
+110,Remotes,6,339
+111,Earbuds,17,339
+112,Smart fridges,18,339
+113,Mouse,18,339
+114,Webcam,9,339
+115,USB,5,339
+116,Cables,6,339
+117,Fridges,13,339
+118,Monitors,13,339
+120,Virtual Assistant,21,339
+100,Laptops,5,340
+101,Hard Drives,24,340
+102,Phones,14,340
+103,Microwaves,20,340
+104,Headphones,10,340
+105,Electronic Locks,10,340
+106,Drones,21,340
+107,Computers,3,340
+108,Tablets,18,340
+110,Remotes,14,340
+111,Earbuds,25,340
+112,Smart fridges,17,340
+114,Webcam,8,340
+115,USB,7,340
+116,Cables,18,340
+117,Fridges,10,340
+118,Monitors,10,340
+120,Virtual Assistant,9,340
+100,Laptops,14,341
+101,Hard Drives,9,341
+102,Phones,23,341
+103,Microwaves,18,341
+104,Headphones,12,341
+105,Electronic Locks,6,341
+107,Computers,3,341
+108,Tablets,43,341
+109,TVs,11,341
+110,Remotes,9,341
+111,Earbuds,12,341
+112,Smart fridges,7,341
+113,Mouse,9,341
+114,Webcam,10,341
+115,USB,9,341
+116,Cables,14,341
+117,Fridges,6,341
+120,Virtual Assistant,22,341
+101,Hard Drives,13,342
+102,Phones,17,342
+103,Microwaves,30,342
+104,Headphones,1,342
+105,Electronic Locks,26,342
+107,Computers,11,342
+108,Tablets,17,342
+109,TVs,4,342
+110,Remotes,37,342
+111,Earbuds,30,342
+112,Smart fridges,10,342
+113,Mouse,13,342
+114,Webcam,6,342
+115,USB,20,342
+118,Monitors,18,342
+120,Virtual Assistant,18,342
+100,Laptops,15,343
+101,Hard Drives,5,343
+102,Phones,22,343
+103,Microwaves,16,343
+104,Headphones,10,343
+105,Electronic Locks,5,343
+106,Drones,16,343
+108,Tablets,12,343
+109,TVs,22,343
+110,Remotes,9,343
+111,Earbuds,6,343
+112,Smart fridges,3,343
+114,Webcam,31,343
+116,Cables,7,343
+117,Fridges,17,343
+118,Monitors,22,343
+120,Virtual Assistant,8,343
+100,Laptops,14,344
+101,Hard Drives,8,344
+102,Phones,4,344
+103,Microwaves,15,344
+104,Headphones,16,344
+105,Electronic Locks,22,344
+106,Drones,20,344
+107,Computers,3,344
+108,Tablets,9,344
+109,TVs,9,344
+110,Remotes,11,344
+111,Earbuds,7,344
+112,Smart fridges,5,344
+114,Webcam,18,344
+115,USB,9,344
+116,Cables,24,344
+117,Fridges,5,344
+118,Monitors,3,344
+120,Virtual Assistant,5,344
+100,Laptops,4,345
+101,Hard Drives,15,345
+103,Microwaves,27,345
+104,Headphones,18,345
+105,Electronic Locks,9,345
+106,Drones,33,345
+108,Tablets,12,345
+109,TVs,9,345
+110,Remotes,10,345
+111,Earbuds,4,345
+112,Smart fridges,16,345
+113,Mouse,18,345
+114,Webcam,34,345
+115,USB,10,345
+116,Cables,3,345
+117,Fridges,6,345
+120,Virtual Assistant,10,345
+100,Laptops,6,346
+101,Hard Drives,31,346
+102,Phones,29,346
+103,Microwaves,28,346
+104,Headphones,10,346
+105,Electronic Locks,12,346
+106,Drones,25,346
+108,Tablets,23,346
+109,TVs,8,346
+110,Remotes,10,346
+112,Smart fridges,7,346
+113,Mouse,12,346
+115,USB,11,346
+116,Cables,15,346
+117,Fridges,6,346
+118,Monitors,10,346
+120,Virtual Assistant,13,346
+100,Laptops,12,347
+102,Phones,4,347
+103,Microwaves,21,347
+104,Headphones,17,347
+105,Electronic Locks,7,347
+106,Drones,11,347
+108,Tablets,7,347
+109,TVs,26,347
+110,Remotes,6,347
+111,Earbuds,8,347
+112,Smart fridges,16,347
+113,Mouse,1,347
+114,Webcam,19,347
+115,USB,9,347
+116,Cables,7,347
+117,Fridges,25,347
+118,Monitors,14,347
+120,Virtual Assistant,9,347
+100,Laptops,17,348
+101,Hard Drives,16,348
+102,Phones,17,348
+103,Microwaves,12,348
+104,Headphones,5,348
+105,Electronic Locks,32,348
+107,Computers,27,348
+109,TVs,16,348
+110,Remotes,9,348
+111,Earbuds,14,348
+112,Smart fridges,16,348
+115,USB,11,348
+117,Fridges,2,348
+118,Monitors,3,348
+120,Virtual Assistant,5,348
+100,Laptops,21,349
+101,Hard Drives,6,349
+102,Phones,12,349
+103,Microwaves,31,349
+105,Electronic Locks,15,349
+108,Tablets,23,349
+109,TVs,23,349
+111,Earbuds,13,349
+112,Smart fridges,19,349
+113,Mouse,7,349
+114,Webcam,8,349
+115,USB,17,349
+116,Cables,17,349
+117,Fridges,10,349
+118,Monitors,10,349
+120,Virtual Assistant,5,349
+100,Laptops,4,350
+103,Microwaves,21,350
+105,Electronic Locks,7,350
+106,Drones,12,350
+107,Computers,15,350
+108,Tablets,8,350
+110,Remotes,2,350
+111,Earbuds,19,350
+112,Smart fridges,20,350
+114,Webcam,18,350
+115,USB,6,350
+116,Cables,9,350
+117,Fridges,8,350
+118,Monitors,8,350
+102,Phones,5,351
+103,Microwaves,6,351
+104,Headphones,11,351
+105,Electronic Locks,10,351
+106,Drones,10,351
+109,TVs,13,351
+110,Remotes,3,351
+111,Earbuds,28,351
+112,Smart fridges,1,351
+113,Mouse,1,351
+114,Webcam,3,351
+116,Cables,4,351
+117,Fridges,7,351
+118,Monitors,11,351
+100,Laptops,13,352
+101,Hard Drives,6,352
+102,Phones,2,352
+103,Microwaves,4,352
+104,Headphones,13,352
+105,Electronic Locks,3,352
+106,Drones,15,352
+107,Computers,10,352
+108,Tablets,6,352
+109,TVs,14,352
+110,Remotes,12,352
+111,Earbuds,8,352
+112,Smart fridges,23,352
+113,Mouse,5,352
+114,Webcam,1,352
+115,USB,9,352
+116,Cables,7,352
+117,Fridges,3,352
+118,Monitors,19,352
+120,Virtual Assistant,9,352
+100,Laptops,12,353
+101,Hard Drives,1,353
+102,Phones,13,353
+103,Microwaves,14,353
+104,Headphones,13,353
+105,Electronic Locks,8,353
+106,Drones,15,353
+107,Computers,3,353
+108,Tablets,19,353
+109,TVs,5,353
+110,Remotes,3,353
+111,Earbuds,13,353
+112,Smart fridges,14,353
+113,Mouse,15,353
+114,Webcam,28,353
+116,Cables,14,353
+117,Fridges,11,353
+118,Monitors,8,353
+120,Virtual Assistant,2,353
+100,Laptops,6,354
+101,Hard Drives,13,354
+102,Phones,10,354
+103,Microwaves,16,354
+104,Headphones,3,354
+105,Electronic Locks,24,354
+106,Drones,6,354
+107,Computers,4,354
+108,Tablets,2,354
+109,TVs,14,354
+111,Earbuds,15,354
+112,Smart fridges,25,354
+113,Mouse,4,354
+114,Webcam,16,354
+115,USB,10,354
+116,Cables,20,354
+117,Fridges,5,354
+118,Monitors,14,354
+120,Virtual Assistant,5,354
+100,Laptops,8,355
+101,Hard Drives,19,355
+103,Microwaves,8,355
+104,Headphones,8,355
+105,Electronic Locks,12,355
+107,Computers,10,355
+109,TVs,21,355
+110,Remotes,15,355
+111,Earbuds,10,355
+114,Webcam,11,355
+115,USB,17,355
+116,Cables,7,355
+117,Fridges,2,355
+118,Monitors,6,355
+120,Virtual Assistant,14,355
+100,Laptops,30,356
+101,Hard Drives,3,356
+102,Phones,7,356
+103,Microwaves,20,356
+104,Headphones,9,356
+105,Electronic Locks,6,356
+106,Drones,26,356
+107,Computers,20,356
+108,Tablets,9,356
+111,Earbuds,11,356
+112,Smart fridges,26,356
+113,Mouse,18,356
+114,Webcam,18,356
+115,USB,20,356
+116,Cables,14,356
+117,Fridges,9,356
+118,Monitors,19,356
+120,Virtual Assistant,5,356
+100,Laptops,31,357
+101,Hard Drives,16,357
+102,Phones,16,357
+103,Microwaves,16,357
+104,Headphones,4,357
+105,Electronic Locks,6,357
+106,Drones,12,357
+107,Computers,11,357
+109,TVs,3,357
+110,Remotes,7,357
+111,Earbuds,23,357
+112,Smart fridges,5,357
+113,Mouse,31,357
+114,Webcam,21,357
+118,Monitors,8,357
+120,Virtual Assistant,13,357
+100,Laptops,18,358
+101,Hard Drives,1,358
+102,Phones,10,358
+103,Microwaves,21,358
+104,Headphones,6,358
+105,Electronic Locks,8,358
+106,Drones,4,358
+108,Tablets,4,358
+109,TVs,14,358
+110,Remotes,10,358
+111,Earbuds,13,358
+113,Mouse,17,358
+114,Webcam,2,358
+115,USB,16,358
+116,Cables,2,358
+117,Fridges,2,358
+118,Monitors,2,358
+120,Virtual Assistant,6,358
+100,Laptops,20,359
+101,Hard Drives,18,359
+102,Phones,10,359
+103,Microwaves,19,359
+104,Headphones,24,359
+105,Electronic Locks,14,359
+106,Drones,11,359
+107,Computers,16,359
+108,Tablets,2,359
+109,TVs,5,359
+110,Remotes,9,359
+111,Earbuds,3,359
+112,Smart fridges,14,359
+114,Webcam,15,359
+115,USB,13,359
+116,Cables,28,359
+117,Fridges,12,359
+118,Monitors,14,359
+120,Virtual Assistant,3,359
+101,Hard Drives,10,360
+103,Microwaves,19,360
+105,Electronic Locks,11,360
+106,Drones,9,360
+107,Computers,19,360
+108,Tablets,17,360
+109,TVs,4,360
+110,Remotes,3,360
+111,Earbuds,3,360
+112,Smart fridges,14,360
+115,USB,15,360
+116,Cables,9,360
+117,Fridges,7,360
+118,Monitors,9,360
+120,Virtual Assistant,1,360
+100,Laptops,18,361
+102,Phones,5,361
+103,Microwaves,26,361
+104,Headphones,18,361
+105,Electronic Locks,25,361
+106,Drones,29,361
+107,Computers,6,361
+108,Tablets,4,361
+109,TVs,1,361
+110,Remotes,27,361
+112,Smart fridges,8,361
+113,Mouse,10,361
+114,Webcam,19,361
+115,USB,15,361
+116,Cables,13,361
+117,Fridges,16,361
+118,Monitors,4,361
+120,Virtual Assistant,9,361
+100,Laptops,11,362
+102,Phones,9,362
+103,Microwaves,20,362
+104,Headphones,35,362
+105,Electronic Locks,2,362
+106,Drones,14,362
+107,Computers,10,362
+108,Tablets,7,362
+109,TVs,20,362
+110,Remotes,3,362
+111,Earbuds,8,362
+112,Smart fridges,14,362
+113,Mouse,19,362
+114,Webcam,11,362
+115,USB,8,362
+116,Cables,6,362
+117,Fridges,5,362
+118,Monitors,26,362
+120,Virtual Assistant,10,362
