@@ -1,0 +1,1056 @@
+100,Laptops,26,1
+101,Hard Drives,46,1
+102,Phones,66,1
+103,Microwaves,136,1
+104,Headphones,56,1
+105,Electronic Locks,53,1
+106,Drones,55,1
+107,Computers,94,1
+108,Tablets,21,1
+109,TVs,75,1
+110,Remotes,52,1
+111,Earbuds,57,1
+112,Smart fridges,47,1
+113,Mouse,50,1
+114,Webcam,51,1
+115,USB,50,1
+116,Cables,45,1
+117,Fridges,18,1
+118,Monitors,69,1
+120,Virtual Assistant,49,1
+200,Jeans,49,1
+201,Underwear,17,1
+202,Shoes,27,1
+203,Sandals,35,1
+204,Formal Wear,49,1
+205,Socks,44,1
+206,Swimwear,71,1
+207,Kahkis,30,1
+208,Gowns,46,1
+209,Dresses,21,1
+210,T-shirts,44,1
+211,Glasses,40,1
+212,Sunglasses,8,1
+213,Tracksuit,35,1
+214,Suits,47,1
+215,Jackets,24,1
+216,Coats,19,1
+217,Ties,48,1
+218,Briefs,36,1
+219,Boxers,17,1
+220,Bow-ties,5,1
+221,Scarves,14,1
+222,Earrings,32,1
+223,Belts,17,1
+224,Wallet,49,1
+225,Cap,52,1
+226,Watch,22,1
+300,Chairs,42,1
+301,Couches,93,1
+302,Recliners,58,1
+303,Tables,55,1
+304,Cabinets,49,1
+305,Clocks,86,1
+306,Bookcase,43,1
+307,Dresser,39,1
+308,Chest,57,1
+309,Beds,56,1
+310,Ladders,95,1
+311,Ottoman,47,1
+312,Stool,61,1
+313,Cupboard,87,1
+314,Cradle,46,1
+315,Grandfather clock,65,1
+316,Shelves,81,1
+400,Notebooks,39,1
+401,Pencils,42,1
+402,Mechanical Pencils,44,1
+403,Erasers,64,1
+404,Chromebooks,30,1
+405,Textbooks,76,1
+406,Backpacks,43,1
+407,Bags,44,1
+408,Rulers,29,1
+409,Crayons,26,1
+410,Markers,85,1
+411,Calculators,45,1
+412,Uniforms,30,1
+413,Sketchbooks,52,1
+414,Notepads,57,1
+415,Pens,14,1
+416,Folders,38,1
+417,Pencil Pouch,12,1
+418,Glue Stick,52,1
+419,Lunch Bags,40,1
+420,Gym Bag,33,1
+421,Sharpie pens,46,1
+422,Lunchbox,45,1
+423,Index cards,28,1
+100,Laptops,20,2
+101,Hard Drives,61,2
+102,Phones,47,2
+103,Microwaves,112,2
+104,Headphones,33,2
+105,Electronic Locks,38,2
+106,Drones,27,2
+107,Computers,35,2
+108,Tablets,65,2
+109,TVs,44,2
+110,Remotes,50,2
+111,Earbuds,39,2
+112,Smart fridges,60,2
+113,Mouse,40,2
+114,Webcam,26,2
+115,USB,28,2
+116,Cables,59,2
+117,Fridges,48,2
+118,Monitors,35,2
+120,Virtual Assistant,53,2
+200,Jeans,8,2
+201,Underwear,23,2
+202,Shoes,26,2
+203,Sandals,35,2
+204,Formal Wear,40,2
+205,Socks,47,2
+206,Swimwear,72,2
+207,Kahkis,46,2
+208,Gowns,47,2
+209,Dresses,37,2
+210,T-shirts,51,2
+211,Glasses,52,2
+212,Sunglasses,40,2
+213,Tracksuit,25,2
+214,Suits,23,2
+215,Jackets,3,2
+216,Coats,8,2
+217,Ties,25,2
+218,Briefs,31,2
+219,Boxers,58,2
+220,Bow-ties,32,2
+221,Scarves,23,2
+222,Earrings,27,2
+223,Belts,31,2
+224,Wallet,18,2
+225,Cap,17,2
+226,Watch,28,2
+300,Chairs,46,2
+301,Couches,60,2
+302,Recliners,55,2
+303,Tables,80,2
+304,Cabinets,41,2
+305,Clocks,40,2
+306,Bookcase,99,2
+307,Dresser,50,2
+308,Chest,64,2
+309,Beds,28,2
+310,Ladders,46,2
+311,Ottoman,21,2
+312,Stool,58,2
+313,Cupboard,26,2
+314,Cradle,49,2
+315,Grandfather clock,48,2
+316,Shelves,58,2
+400,Notebooks,25,2
+401,Pencils,30,2
+402,Mechanical Pencils,53,2
+403,Erasers,18,2
+404,Chromebooks,48,2
+405,Textbooks,18,2
+406,Backpacks,65,2
+407,Bags,17,2
+408,Rulers,43,2
+409,Crayons,31,2
+410,Markers,48,2
+411,Calculators,38,2
+412,Uniforms,19,2
+413,Sketchbooks,17,2
+414,Notepads,62,2
+415,Pens,62,2
+416,Folders,28,2
+417,Pencil Pouch,54,2
+418,Glue Stick,46,2
+419,Lunch Bags,47,2
+420,Gym Bag,51,2
+421,Sharpie pens,37,2
+422,Lunchbox,23,2
+423,Index cards,40,2
+100,Laptops,59,3
+101,Hard Drives,72,3
+102,Phones,67,3
+103,Microwaves,123,3
+104,Headphones,41,3
+105,Electronic Locks,81,3
+106,Drones,38,3
+107,Computers,45,3
+108,Tablets,80,3
+109,TVs,72,3
+110,Remotes,70,3
+111,Earbuds,65,3
+112,Smart fridges,62,3
+113,Mouse,73,3
+114,Webcam,41,3
+115,USB,63,3
+116,Cables,74,3
+117,Fridges,20,3
+118,Monitors,45,3
+120,Virtual Assistant,33,3
+200,Jeans,26,3
+201,Underwear,40,3
+202,Shoes,50,3
+203,Sandals,24,3
+204,Formal Wear,54,3
+205,Socks,20,3
+206,Swimwear,57,3
+207,Kahkis,29,3
+208,Gowns,39,3
+209,Dresses,35,3
+210,T-shirts,59,3
+211,Glasses,40,3
+212,Sunglasses,53,3
+213,Tracksuit,48,3
+214,Suits,29,3
+215,Jackets,20,3
+216,Coats,25,3
+217,Ties,51,3
+218,Briefs,76,3
+219,Boxers,32,3
+220,Bow-ties,53,3
+221,Scarves,35,3
+222,Earrings,21,3
+223,Belts,36,3
+224,Wallet,38,3
+225,Cap,16,3
+226,Watch,73,3
+300,Chairs,69,3
+301,Couches,42,3
+302,Recliners,52,3
+303,Tables,61,3
+304,Cabinets,94,3
+305,Clocks,58,3
+306,Bookcase,68,3
+307,Dresser,66,3
+308,Chest,63,3
+309,Beds,26,3
+310,Ladders,91,3
+311,Ottoman,69,3
+312,Stool,51,3
+313,Cupboard,104,3
+314,Cradle,120,3
+315,Grandfather clock,109,3
+316,Shelves,50,3
+400,Notebooks,42,3
+401,Pencils,35,3
+402,Mechanical Pencils,119,3
+403,Erasers,37,3
+404,Chromebooks,56,3
+405,Textbooks,94,3
+406,Backpacks,35,3
+407,Bags,42,3
+408,Rulers,36,3
+409,Crayons,38,3
+410,Markers,68,3
+411,Calculators,78,3
+412,Uniforms,35,3
+413,Sketchbooks,85,3
+414,Notepads,59,3
+415,Pens,47,3
+416,Folders,59,3
+417,Pencil Pouch,44,3
+418,Glue Stick,76,3
+419,Lunch Bags,50,3
+420,Gym Bag,30,3
+421,Sharpie pens,28,3
+422,Lunchbox,60,3
+423,Index cards,47,3
+100,Laptops,45,4
+101,Hard Drives,36,4
+102,Phones,28,4
+103,Microwaves,80,4
+104,Headphones,26,4
+105,Electronic Locks,23,4
+106,Drones,37,4
+107,Computers,34,4
+108,Tablets,29,4
+109,TVs,25,4
+110,Remotes,34,4
+111,Earbuds,29,4
+112,Smart fridges,20,4
+113,Mouse,50,4
+114,Webcam,25,4
+115,USB,17,4
+116,Cables,30,4
+117,Fridges,31,4
+118,Monitors,46,4
+120,Virtual Assistant,31,4
+200,Jeans,36,4
+201,Underwear,31,4
+202,Shoes,2,4
+203,Sandals,26,4
+204,Formal Wear,25,4
+205,Socks,40,4
+206,Swimwear,50,4
+207,Kahkis,5,4
+208,Gowns,21,4
+209,Dresses,18,4
+210,T-shirts,13,4
+211,Glasses,33,4
+212,Sunglasses,25,4
+213,Tracksuit,33,4
+214,Suits,38,4
+215,Jackets,27,4
+216,Coats,30,4
+217,Ties,51,4
+218,Briefs,10,4
+219,Boxers,19,4
+220,Bow-ties,23,4
+221,Scarves,18,4
+222,Earrings,24,4
+223,Belts,52,4
+224,Wallet,76,4
+225,Cap,42,4
+226,Watch,6,4
+300,Chairs,55,4
+301,Couches,43,4
+302,Recliners,51,4
+303,Tables,46,4
+304,Cabinets,43,4
+305,Clocks,72,4
+306,Bookcase,37,4
+307,Dresser,37,4
+308,Chest,30,4
+309,Beds,45,4
+310,Ladders,50,4
+311,Ottoman,20,4
+312,Stool,78,4
+313,Cupboard,53,4
+314,Cradle,50,4
+315,Grandfather clock,44,4
+316,Shelves,67,4
+400,Notebooks,24,4
+401,Pencils,24,4
+402,Mechanical Pencils,25,4
+403,Erasers,35,4
+404,Chromebooks,32,4
+405,Textbooks,27,4
+406,Backpacks,22,4
+407,Bags,10,4
+408,Rulers,16,4
+409,Crayons,33,4
+410,Markers,47,4
+411,Calculators,28,4
+412,Uniforms,19,4
+413,Sketchbooks,31,4
+414,Notepads,27,4
+415,Pens,31,4
+416,Folders,20,4
+417,Pencil Pouch,31,4
+418,Glue Stick,25,4
+419,Lunch Bags,52,4
+420,Gym Bag,16,4
+421,Sharpie pens,31,4
+422,Lunchbox,20,4
+423,Index cards,48,4
+100,Laptops,17,5
+101,Hard Drives,23,5
+102,Phones,19,5
+103,Microwaves,37,5
+104,Headphones,46,5
+105,Electronic Locks,8,5
+106,Drones,20,5
+107,Computers,10,5
+108,Tablets,40,5
+109,TVs,2,5
+110,Remotes,28,5
+111,Earbuds,44,5
+112,Smart fridges,22,5
+113,Mouse,41,5
+114,Webcam,46,5
+115,USB,26,5
+116,Cables,17,5
+117,Fridges,24,5
+118,Monitors,33,5
+120,Virtual Assistant,46,5
+200,Jeans,32,5
+201,Underwear,22,5
+202,Shoes,54,5
+203,Sandals,27,5
+204,Formal Wear,38,5
+205,Socks,41,5
+206,Swimwear,16,5
+207,Kahkis,8,5
+208,Gowns,2,5
+209,Dresses,31,5
+210,T-shirts,28,5
+211,Glasses,38,5
+212,Sunglasses,28,5
+213,Tracksuit,49,5
+214,Suits,26,5
+215,Jackets,12,5
+216,Coats,35,5
+217,Ties,1,5
+218,Briefs,19,5
+219,Boxers,28,5
+220,Bow-ties,25,5
+221,Scarves,25,5
+222,Earrings,19,5
+223,Belts,24,5
+224,Wallet,32,5
+225,Cap,18,5
+226,Watch,25,5
+300,Chairs,16,5
+301,Couches,24,5
+302,Recliners,32,5
+303,Tables,34,5
+304,Cabinets,24,5
+305,Clocks,9,5
+306,Bookcase,25,5
+307,Dresser,38,5
+308,Chest,14,5
+309,Beds,17,5
+310,Ladders,36,5
+311,Ottoman,13,5
+312,Stool,47,5
+313,Cupboard,38,5
+314,Cradle,57,5
+315,Grandfather clock,25,5
+316,Shelves,26,5
+400,Notebooks,30,5
+401,Pencils,30,5
+402,Mechanical Pencils,15,5
+403,Erasers,38,5
+404,Chromebooks,47,5
+405,Textbooks,11,5
+406,Backpacks,26,5
+407,Bags,12,5
+408,Rulers,9,5
+409,Crayons,30,5
+410,Markers,13,5
+411,Calculators,17,5
+412,Uniforms,22,5
+413,Sketchbooks,22,5
+414,Notepads,23,5
+415,Pens,15,5
+416,Folders,14,5
+417,Pencil Pouch,18,5
+418,Glue Stick,21,5
+419,Lunch Bags,5,5
+420,Gym Bag,13,5
+421,Sharpie pens,25,5
+422,Lunchbox,19,5
+423,Index cards,12,5
+100,Laptops,72,6
+101,Hard Drives,90,6
+102,Phones,79,6
+103,Microwaves,120,6
+104,Headphones,61,6
+105,Electronic Locks,107,6
+106,Drones,84,6
+107,Computers,97,6
+108,Tablets,60,6
+109,TVs,121,6
+110,Remotes,63,6
+111,Earbuds,67,6
+112,Smart fridges,73,6
+113,Mouse,68,6
+114,Webcam,91,6
+115,USB,41,6
+116,Cables,60,6
+117,Fridges,82,6
+118,Monitors,91,6
+120,Virtual Assistant,81,6
+200,Jeans,29,6
+201,Underwear,63,6
+202,Shoes,35,6
+203,Sandals,66,6
+204,Formal Wear,70,6
+205,Socks,68,6
+206,Swimwear,56,6
+207,Kahkis,39,6
+208,Gowns,87,6
+209,Dresses,36,6
+210,T-shirts,56,6
+211,Glasses,21,6
+212,Sunglasses,92,6
+213,Tracksuit,136,6
+214,Suits,66,6
+215,Jackets,83,6
+216,Coats,77,6
+217,Ties,68,6
+218,Briefs,79,6
+219,Boxers,77,6
+220,Bow-ties,46,6
+221,Scarves,86,6
+222,Earrings,78,6
+223,Belts,46,6
+224,Wallet,71,6
+225,Cap,57,6
+226,Watch,58,6
+300,Chairs,86,6
+301,Couches,129,6
+302,Recliners,81,6
+303,Tables,132,6
+304,Cabinets,121,6
+305,Clocks,51,6
+306,Bookcase,55,6
+307,Dresser,87,6
+308,Chest,116,6
+309,Beds,126,6
+310,Ladders,108,6
+311,Ottoman,44,6
+312,Stool,80,6
+313,Cupboard,74,6
+314,Cradle,94,6
+315,Grandfather clock,140,6
+316,Shelves,103,6
+400,Notebooks,87,6
+401,Pencils,58,6
+402,Mechanical Pencils,78,6
+403,Erasers,74,6
+404,Chromebooks,64,6
+405,Textbooks,41,6
+406,Backpacks,51,6
+407,Bags,70,6
+408,Rulers,54,6
+409,Crayons,63,6
+410,Markers,68,6
+411,Calculators,69,6
+412,Uniforms,70,6
+413,Sketchbooks,76,6
+414,Notepads,37,6
+415,Pens,44,6
+416,Folders,26,6
+417,Pencil Pouch,47,6
+418,Glue Stick,59,6
+419,Lunch Bags,68,6
+420,Gym Bag,56,6
+421,Sharpie pens,95,6
+422,Lunchbox,67,6
+423,Index cards,55,6
+100,Laptops,45,7
+101,Hard Drives,44,7
+102,Phones,80,7
+103,Microwaves,91,7
+104,Headphones,67,7
+105,Electronic Locks,82,7
+106,Drones,75,7
+107,Computers,54,7
+108,Tablets,99,7
+109,TVs,72,7
+110,Remotes,76,7
+111,Earbuds,33,7
+112,Smart fridges,88,7
+113,Mouse,65,7
+114,Webcam,70,7
+115,USB,89,7
+116,Cables,71,7
+117,Fridges,93,7
+118,Monitors,55,7
+120,Virtual Assistant,63,7
+200,Jeans,47,7
+201,Underwear,24,7
+202,Shoes,74,7
+203,Sandals,33,7
+204,Formal Wear,36,7
+205,Socks,12,7
+206,Swimwear,42,7
+207,Kahkis,90,7
+208,Gowns,58,7
+209,Dresses,50,7
+210,T-shirts,47,7
+211,Glasses,36,7
+212,Sunglasses,75,7
+213,Tracksuit,47,7
+214,Suits,50,7
+215,Jackets,30,7
+216,Coats,40,7
+217,Ties,59,7
+218,Briefs,25,7
+219,Boxers,67,7
+220,Bow-ties,33,7
+221,Scarves,39,7
+222,Earrings,63,7
+223,Belts,44,7
+224,Wallet,23,7
+225,Cap,38,7
+226,Watch,79,7
+300,Chairs,93,7
+301,Couches,102,7
+302,Recliners,106,7
+303,Tables,102,7
+304,Cabinets,76,7
+305,Clocks,43,7
+306,Bookcase,123,7
+307,Dresser,75,7
+308,Chest,103,7
+309,Beds,89,7
+310,Ladders,61,7
+311,Ottoman,98,7
+312,Stool,42,7
+313,Cupboard,92,7
+314,Cradle,141,7
+315,Grandfather clock,123,7
+316,Shelves,40,7
+400,Notebooks,34,7
+401,Pencils,62,7
+402,Mechanical Pencils,46,7
+403,Erasers,69,7
+404,Chromebooks,63,7
+405,Textbooks,55,7
+406,Backpacks,63,7
+407,Bags,41,7
+408,Rulers,47,7
+409,Crayons,31,7
+410,Markers,71,7
+411,Calculators,102,7
+412,Uniforms,56,7
+413,Sketchbooks,82,7
+414,Notepads,56,7
+415,Pens,47,7
+416,Folders,72,7
+417,Pencil Pouch,29,7
+418,Glue Stick,59,7
+419,Lunch Bags,33,7
+420,Gym Bag,40,7
+421,Sharpie pens,60,7
+422,Lunchbox,57,7
+423,Index cards,29,7
+100,Laptops,28,8
+101,Hard Drives,48,8
+102,Phones,43,8
+103,Microwaves,101,8
+104,Headphones,29,8
+105,Electronic Locks,43,8
+106,Drones,15,8
+107,Computers,46,8
+108,Tablets,57,8
+109,TVs,20,8
+110,Remotes,22,8
+111,Earbuds,35,8
+112,Smart fridges,31,8
+113,Mouse,41,8
+114,Webcam,31,8
+115,USB,39,8
+116,Cables,34,8
+117,Fridges,39,8
+118,Monitors,36,8
+120,Virtual Assistant,44,8
+200,Jeans,35,8
+201,Underwear,22,8
+202,Shoes,11,8
+203,Sandals,21,8
+204,Formal Wear,41,8
+205,Socks,25,8
+206,Swimwear,69,8
+207,Kahkis,5,8
+208,Gowns,15,8
+209,Dresses,45,8
+210,T-shirts,10,8
+211,Glasses,9,8
+212,Sunglasses,21,8
+213,Tracksuit,21,8
+214,Suits,41,8
+215,Jackets,10,8
+216,Coats,45,8
+217,Ties,9,8
+218,Briefs,8,8
+219,Boxers,43,8
+220,Bow-ties,38,8
+221,Scarves,44,8
+222,Earrings,43,8
+223,Belts,47,8
+224,Wallet,23,8
+225,Cap,15,8
+226,Watch,11,8
+300,Chairs,72,8
+301,Couches,54,8
+302,Recliners,33,8
+303,Tables,37,8
+304,Cabinets,21,8
+305,Clocks,43,8
+306,Bookcase,28,8
+307,Dresser,20,8
+308,Chest,31,8
+309,Beds,36,8
+310,Ladders,22,8
+311,Ottoman,47,8
+312,Stool,41,8
+313,Cupboard,30,8
+314,Cradle,35,8
+315,Grandfather clock,27,8
+316,Shelves,16,8
+400,Notebooks,1,8
+401,Pencils,16,8
+402,Mechanical Pencils,13,8
+403,Erasers,24,8
+404,Chromebooks,71,8
+405,Textbooks,33,8
+406,Backpacks,36,8
+407,Bags,13,8
+408,Rulers,27,8
+409,Crayons,38,8
+410,Markers,23,8
+411,Calculators,29,8
+412,Uniforms,33,8
+413,Sketchbooks,20,8
+414,Notepads,10,8
+415,Pens,42,8
+416,Folders,18,8
+417,Pencil Pouch,30,8
+418,Glue Stick,35,8
+419,Lunch Bags,34,8
+420,Gym Bag,39,8
+421,Sharpie pens,53,8
+422,Lunchbox,34,8
+423,Index cards,33,8
+100,Laptops,34,9
+101,Hard Drives,35,9
+102,Phones,43,9
+103,Microwaves,24,9
+104,Headphones,29,9
+105,Electronic Locks,33,9
+106,Drones,24,9
+107,Computers,59,9
+108,Tablets,22,9
+109,TVs,35,9
+110,Remotes,23,9
+111,Earbuds,37,9
+112,Smart fridges,41,9
+113,Mouse,17,9
+114,Webcam,27,9
+115,USB,44,9
+116,Cables,15,9
+117,Fridges,48,9
+118,Monitors,33,9
+120,Virtual Assistant,30,9
+200,Jeans,18,9
+201,Underwear,10,9
+202,Shoes,25,9
+203,Sandals,27,9
+204,Formal Wear,14,9
+205,Socks,13,9
+206,Swimwear,23,9
+207,Kahkis,17,9
+208,Gowns,38,9
+209,Dresses,48,9
+210,T-shirts,24,9
+211,Glasses,4,9
+212,Sunglasses,15,9
+213,Tracksuit,38,9
+214,Suits,38,9
+215,Jackets,26,9
+216,Coats,32,9
+217,Ties,40,9
+218,Briefs,31,9
+219,Boxers,14,9
+220,Bow-ties,23,9
+221,Scarves,19,9
+222,Earrings,6,9
+223,Belts,22,9
+224,Wallet,110,9
+225,Cap,24,9
+226,Watch,23,9
+300,Chairs,26,9
+301,Couches,42,9
+302,Recliners,59,9
+303,Tables,65,9
+304,Cabinets,18,9
+305,Clocks,57,9
+306,Bookcase,64,9
+307,Dresser,55,9
+308,Chest,42,9
+309,Beds,38,9
+310,Ladders,57,9
+311,Ottoman,28,9
+312,Stool,56,9
+313,Cupboard,25,9
+314,Cradle,45,9
+315,Grandfather clock,17,9
+316,Shelves,47,9
+400,Notebooks,6,9
+401,Pencils,29,9
+402,Mechanical Pencils,13,9
+403,Erasers,39,9
+404,Chromebooks,1,9
+405,Textbooks,34,9
+406,Backpacks,13,9
+407,Bags,36,9
+408,Rulers,34,9
+409,Crayons,55,9
+410,Markers,34,9
+411,Calculators,4,9
+412,Uniforms,23,9
+413,Sketchbooks,32,9
+414,Notepads,35,9
+415,Pens,22,9
+416,Folders,8,9
+417,Pencil Pouch,15,9
+418,Glue Stick,11,9
+419,Lunch Bags,31,9
+420,Gym Bag,43,9
+421,Sharpie pens,16,9
+422,Lunchbox,28,9
+423,Index cards,27,9
+100,Laptops,65,10
+101,Hard Drives,135,10
+102,Phones,107,10
+103,Microwaves,196,10
+104,Headphones,142,10
+105,Electronic Locks,132,10
+106,Drones,120,10
+107,Computers,127,10
+108,Tablets,88,10
+109,TVs,95,10
+110,Remotes,108,10
+111,Earbuds,68,10
+112,Smart fridges,95,10
+113,Mouse,81,10
+114,Webcam,127,10
+115,USB,59,10
+116,Cables,76,10
+117,Fridges,95,10
+118,Monitors,58,10
+120,Virtual Assistant,91,10
+200,Jeans,96,10
+201,Underwear,56,10
+202,Shoes,48,10
+203,Sandals,87,10
+204,Formal Wear,132,10
+205,Socks,84,10
+206,Swimwear,72,10
+207,Kahkis,70,10
+208,Gowns,66,10
+209,Dresses,72,10
+210,T-shirts,83,10
+211,Glasses,48,10
+212,Sunglasses,70,10
+213,Tracksuit,77,10
+214,Suits,30,10
+215,Jackets,67,10
+216,Coats,110,10
+217,Ties,99,10
+218,Briefs,92,10
+219,Boxers,44,10
+220,Bow-ties,30,10
+221,Scarves,25,10
+222,Earrings,81,10
+223,Belts,73,10
+224,Wallet,80,10
+225,Cap,84,10
+226,Watch,59,10
+300,Chairs,166,10
+301,Couches,83,10
+302,Recliners,82,10
+303,Tables,109,10
+304,Cabinets,119,10
+305,Clocks,159,10
+306,Bookcase,155,10
+307,Dresser,100,10
+308,Chest,43,10
+309,Beds,106,10
+310,Ladders,113,10
+311,Ottoman,173,10
+312,Stool,153,10
+313,Cupboard,153,10
+314,Cradle,103,10
+315,Grandfather clock,153,10
+316,Shelves,213,10
+400,Notebooks,103,10
+401,Pencils,37,10
+402,Mechanical Pencils,106,10
+403,Erasers,78,10
+404,Chromebooks,86,10
+405,Textbooks,99,10
+406,Backpacks,56,10
+407,Bags,82,10
+408,Rulers,40,10
+409,Crayons,94,10
+410,Markers,124,10
+411,Calculators,84,10
+412,Uniforms,61,10
+413,Sketchbooks,122,10
+414,Notepads,70,10
+415,Pens,60,10
+416,Folders,80,10
+417,Pencil Pouch,67,10
+418,Glue Stick,71,10
+419,Lunch Bags,53,10
+420,Gym Bag,67,10
+421,Sharpie pens,115,10
+422,Lunchbox,121,10
+423,Index cards,94,10
+100,Laptops,186,11
+101,Hard Drives,220,11
+102,Phones,113,11
+103,Microwaves,395,11
+104,Headphones,227,11
+105,Electronic Locks,245,11
+106,Drones,165,11
+107,Computers,130,11
+108,Tablets,174,11
+109,TVs,252,11
+110,Remotes,159,11
+111,Earbuds,158,11
+112,Smart fridges,152,11
+113,Mouse,192,11
+114,Webcam,152,11
+115,USB,165,11
+116,Cables,235,11
+117,Fridges,171,11
+118,Monitors,162,11
+120,Virtual Assistant,167,11
+200,Jeans,98,11
+201,Underwear,162,11
+202,Shoes,92,11
+203,Sandals,174,11
+204,Formal Wear,187,11
+205,Socks,169,11
+206,Swimwear,177,11
+207,Kahkis,117,11
+208,Gowns,130,11
+209,Dresses,131,11
+210,T-shirts,131,11
+211,Glasses,155,11
+212,Sunglasses,121,11
+213,Tracksuit,106,11
+214,Suits,105,11
+215,Jackets,196,11
+216,Coats,145,11
+217,Ties,117,11
+218,Briefs,170,11
+219,Boxers,136,11
+220,Bow-ties,123,11
+221,Scarves,155,11
+222,Earrings,109,11
+223,Belts,179,11
+224,Wallet,129,11
+225,Cap,130,11
+226,Watch,78,11
+300,Chairs,234,11
+301,Couches,253,11
+302,Recliners,238,11
+303,Tables,216,11
+304,Cabinets,242,11
+305,Clocks,225,11
+306,Bookcase,180,11
+307,Dresser,251,11
+308,Chest,186,11
+309,Beds,283,11
+310,Ladders,215,11
+311,Ottoman,220,11
+312,Stool,259,11
+313,Cupboard,244,11
+314,Cradle,233,11
+315,Grandfather clock,179,11
+316,Shelves,175,11
+400,Notebooks,125,11
+401,Pencils,161,11
+402,Mechanical Pencils,149,11
+403,Erasers,171,11
+404,Chromebooks,175,11
+405,Textbooks,185,11
+406,Backpacks,254,11
+407,Bags,156,11
+408,Rulers,153,11
+409,Crayons,162,11
+410,Markers,171,11
+411,Calculators,220,11
+412,Uniforms,210,11
+413,Sketchbooks,199,11
+414,Notepads,174,11
+415,Pens,153,11
+416,Folders,97,11
+417,Pencil Pouch,231,11
+418,Glue Stick,164,11
+419,Lunch Bags,158,11
+420,Gym Bag,164,11
+421,Sharpie pens,162,11
+422,Lunchbox,129,11
+423,Index cards,133,11
+100,Laptops,334,12
+101,Hard Drives,315,12
+102,Phones,271,12
+103,Microwaves,508,12
+104,Headphones,319,12
+105,Electronic Locks,336,12
+106,Drones,359,12
+107,Computers,231,12
+108,Tablets,310,12
+109,TVs,289,12
+110,Remotes,231,12
+111,Earbuds,324,12
+112,Smart fridges,379,12
+113,Mouse,258,12
+114,Webcam,342,12
+115,USB,272,12
+116,Cables,284,12
+117,Fridges,245,12
+118,Monitors,314,12
+120,Virtual Assistant,270,12
+200,Jeans,244,12
+201,Underwear,250,12
+202,Shoes,205,12
+203,Sandals,196,12
+204,Formal Wear,211,12
+205,Socks,236,12
+206,Swimwear,138,12
+207,Kahkis,230,12
+208,Gowns,257,12
+209,Dresses,255,12
+210,T-shirts,153,12
+211,Glasses,243,12
+212,Sunglasses,184,12
+213,Tracksuit,181,12
+214,Suits,217,12
+215,Jackets,175,12
+216,Coats,325,12
+217,Ties,228,12
+218,Briefs,269,12
+219,Boxers,233,12
+220,Bow-ties,239,12
+221,Scarves,171,12
+222,Earrings,210,12
+223,Belts,264,12
+224,Wallet,218,12
+225,Cap,235,12
+226,Watch,223,12
+300,Chairs,415,12
+301,Couches,464,12
+302,Recliners,407,12
+303,Tables,310,12
+304,Cabinets,333,12
+305,Clocks,332,12
+306,Bookcase,396,12
+307,Dresser,421,12
+308,Chest,257,12
+309,Beds,412,12
+310,Ladders,342,12
+311,Ottoman,310,12
+312,Stool,442,12
+313,Cupboard,351,12
+314,Cradle,372,12
+315,Grandfather clock,327,12
+316,Shelves,381,12
+400,Notebooks,284,12
+401,Pencils,280,12
+402,Mechanical Pencils,282,12
+403,Erasers,232,12
+404,Chromebooks,194,12
+405,Textbooks,267,12
+406,Backpacks,295,12
+407,Bags,197,12
+408,Rulers,271,12
+409,Crayons,264,12
+410,Markers,279,12
+411,Calculators,180,12
+412,Uniforms,267,12
+413,Sketchbooks,256,12
+414,Notepads,220,12
+415,Pens,317,12
+416,Folders,282,12
+417,Pencil Pouch,236,12
+418,Glue Stick,286,12
+419,Lunch Bags,239,12
+420,Gym Bag,175,12
+421,Sharpie pens,273,12
+422,Lunchbox,291,12
+423,Index cards,210,12
