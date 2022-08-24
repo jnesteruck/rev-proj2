@@ -1,0 +1,916 @@
+Australia,300,Chairs,10,1
+Australia,301,Couches,16,1
+Australia,302,Recliners,10,1
+Australia,303,Tables,36,1
+Australia,304,Cabinets,7,1
+Australia,305,Clocks,3,1
+Australia,306,Bookcase,21,1
+Australia,307,Dresser,9,1
+Australia,308,Chest,20,1
+Australia,309,Beds,4,1
+Australia,310,Ladders,19,1
+Australia,311,Ottoman,9,1
+Australia,312,Stool,10,1
+Australia,313,Cupboard,6,1
+Australia,314,Cradle,29,1
+Australia,315,Grandfather clock,21,1
+Australia,316,Shelves,13,1
+Brazil,300,Chairs,10,1
+Brazil,301,Couches,17,1
+Brazil,302,Recliners,3,1
+Brazil,303,Tables,27,1
+Brazil,304,Cabinets,6,1
+Brazil,305,Clocks,26,1
+Brazil,306,Bookcase,16,1
+Brazil,307,Dresser,9,1
+Brazil,309,Beds,6,1
+Brazil,310,Ladders,6,1
+Brazil,311,Ottoman,1,1
+Brazil,312,Stool,7,1
+Brazil,313,Cupboard,15,1
+Brazil,314,Cradle,5,1
+Brazil,315,Grandfather clock,9,1
+Brazil,316,Shelves,9,1
+China,301,Couches,7,1
+China,302,Recliners,8,1
+China,304,Cabinets,11,1
+China,306,Bookcase,17,1
+China,307,Dresser,3,1
+China,310,Ladders,17,1
+China,311,Ottoman,18,1
+China,312,Stool,13,1
+China,313,Cupboard,16,1
+China,314,Cradle,9,1
+China,315,Grandfather clock,18,1
+China,316,Shelves,19,1
+France,300,Chairs,4,1
+France,301,Couches,18,1
+France,302,Recliners,23,1
+France,303,Tables,6,1
+France,304,Cabinets,18,1
+France,305,Clocks,12,1
+France,306,Bookcase,9,1
+France,307,Dresser,8,1
+France,309,Beds,5,1
+France,310,Ladders,24,1
+France,311,Ottoman,10,1
+France,312,Stool,5,1
+France,313,Cupboard,20,1
+France,314,Cradle,11,1
+France,315,Grandfather clock,36,1
+France,316,Shelves,17,1
+Germany,300,Chairs,6,1
+Germany,301,Couches,9,1
+Germany,302,Recliners,28,1
+Germany,303,Tables,6,1
+Germany,304,Cabinets,5,1
+Germany,305,Clocks,22,1
+Germany,306,Bookcase,28,1
+Germany,307,Dresser,9,1
+Germany,308,Chest,17,1
+Germany,309,Beds,11,1
+Germany,310,Ladders,2,1
+Germany,312,Stool,6,1
+Germany,313,Cupboard,22,1
+Germany,314,Cradle,15,1
+Germany,315,Grandfather clock,18,1
+Germany,316,Shelves,21,1
+Great Britain,300,Chairs,7,1
+Great Britain,301,Couches,12,1
+Great Britain,303,Tables,29,1
+Great Britain,304,Cabinets,9,1
+Great Britain,305,Clocks,11,1
+Great Britain,306,Bookcase,12,1
+Great Britain,307,Dresser,9,1
+Great Britain,308,Chest,13,1
+Great Britain,309,Beds,9,1
+Great Britain,310,Ladders,5,1
+Great Britain,311,Ottoman,14,1
+Great Britain,312,Stool,25,1
+Great Britain,313,Cupboard,27,1
+Great Britain,314,Cradle,15,1
+Great Britain,315,Grandfather clock,4,1
+India,300,Chairs,14,1
+India,301,Couches,21,1
+India,302,Recliners,21,1
+India,303,Tables,2,1
+India,304,Cabinets,25,1
+India,305,Clocks,4,1
+India,306,Bookcase,26,1
+India,307,Dresser,32,1
+India,308,Chest,13,1
+India,309,Beds,12,1
+India,310,Ladders,15,1
+India,311,Ottoman,5,1
+India,312,Stool,18,1
+India,313,Cupboard,5,1
+India,314,Cradle,8,1
+India,315,Grandfather clock,13,1
+India,316,Shelves,20,1
+Iran,300,Chairs,13,1
+Iran,301,Couches,8,1
+Iran,302,Recliners,3,1
+Iran,303,Tables,15,1
+Iran,304,Cabinets,12,1
+Iran,305,Clocks,16,1
+Iran,306,Bookcase,32,1
+Iran,307,Dresser,9,1
+Iran,308,Chest,4,1
+Iran,310,Ladders,16,1
+Iran,312,Stool,14,1
+Iran,313,Cupboard,2,1
+Iran,314,Cradle,15,1
+Iran,315,Grandfather clock,22,1
+Iran,316,Shelves,9,1
+Ireland,300,Chairs,17,1
+Ireland,301,Couches,10,1
+Ireland,302,Recliners,7,1
+Ireland,303,Tables,18,1
+Ireland,305,Clocks,2,1
+Ireland,307,Dresser,2,1
+Ireland,308,Chest,15,1
+Ireland,309,Beds,1,1
+Ireland,310,Ladders,12,1
+Ireland,311,Ottoman,9,1
+Ireland,312,Stool,20,1
+Ireland,313,Cupboard,17,1
+Ireland,314,Cradle,30,1
+Ireland,315,Grandfather clock,9,1
+Ireland,316,Shelves,3,1
+Japan,300,Chairs,41,1
+Japan,301,Couches,27,1
+Japan,302,Recliners,19,1
+Japan,303,Tables,11,1
+Japan,304,Cabinets,11,1
+Japan,305,Clocks,5,1
+Japan,306,Bookcase,8,1
+Japan,307,Dresser,11,1
+Japan,308,Chest,2,1
+Japan,309,Beds,5,1
+Japan,310,Ladders,24,1
+Japan,311,Ottoman,11,1
+Japan,312,Stool,16,1
+Japan,313,Cupboard,12,1
+Japan,314,Cradle,11,1
+Japan,315,Grandfather clock,8,1
+Japan,316,Shelves,18,1
+Korea,300,Chairs,15,1
+Korea,302,Recliners,9,1
+Korea,303,Tables,10,1
+Korea,304,Cabinets,23,1
+Korea,305,Clocks,9,1
+Korea,307,Dresser,5,1
+Korea,308,Chest,20,1
+Korea,309,Beds,10,1
+Korea,310,Ladders,20,1
+Korea,311,Ottoman,9,1
+Korea,312,Stool,2,1
+Korea,313,Cupboard,9,1
+Korea,314,Cradle,31,1
+Korea,315,Grandfather clock,22,1
+Korea,316,Shelves,9,1
+Mexico,300,Chairs,6,1
+Mexico,301,Couches,15,1
+Mexico,302,Recliners,2,1
+Mexico,304,Cabinets,26,1
+Mexico,305,Clocks,25,1
+Mexico,306,Bookcase,17,1
+Mexico,307,Dresser,11,1
+Mexico,308,Chest,8,1
+Mexico,309,Beds,9,1
+Mexico,310,Ladders,24,1
+Mexico,311,Ottoman,8,1
+Mexico,313,Cupboard,20,1
+Mexico,314,Cradle,8,1
+Mexico,315,Grandfather clock,10,1
+Mexico,316,Shelves,4,1
+Russia,300,Chairs,7,1
+Russia,302,Recliners,10,1
+Russia,303,Tables,25,1
+Russia,304,Cabinets,24,1
+Russia,305,Clocks,9,1
+Russia,306,Bookcase,13,1
+Russia,307,Dresser,18,1
+Russia,308,Chest,37,1
+Russia,309,Beds,6,1
+Russia,310,Ladders,14,1
+Russia,311,Ottoman,21,1
+Russia,312,Stool,8,1
+Russia,313,Cupboard,19,1
+Russia,314,Cradle,13,1
+Russia,315,Grandfather clock,15,1
+Russia,316,Shelves,18,1
+Ukraine,300,Chairs,7,1
+Ukraine,301,Couches,18,1
+Ukraine,302,Recliners,10,1
+Ukraine,303,Tables,6,1
+Ukraine,306,Bookcase,11,1
+Ukraine,307,Dresser,9,1
+Ukraine,308,Chest,14,1
+Ukraine,309,Beds,29,1
+Ukraine,310,Ladders,20,1
+Ukraine,311,Ottoman,1,1
+Ukraine,312,Stool,21,1
+Ukraine,313,Cupboard,20,1
+Ukraine,314,Cradle,8,1
+Ukraine,315,Grandfather clock,3,1
+Ukraine,316,Shelves,10,1
+United States,301,Couches,17,1
+United States,302,Recliners,12,1
+United States,303,Tables,5,1
+United States,304,Cabinets,7,1
+United States,305,Clocks,40,1
+United States,307,Dresser,11,1
+United States,308,Chest,21,1
+United States,309,Beds,3,1
+United States,310,Ladders,14,1
+United States,311,Ottoman,21,1
+United States,312,Stool,5,1
+United States,313,Cupboard,7,1
+United States,314,Cradle,7,1
+United States,315,Grandfather clock,14,1
+United States,316,Shelves,19,1
+Australia,300,Chairs,20,2
+Australia,302,Recliners,12,2
+Australia,303,Tables,14,2
+Australia,304,Cabinets,7,2
+Australia,305,Clocks,7,2
+Australia,307,Dresser,21,2
+Australia,308,Chest,18,2
+Australia,309,Beds,7,2
+Australia,312,Stool,7,2
+Australia,313,Cupboard,29,2
+Australia,314,Cradle,14,2
+Australia,315,Grandfather clock,24,2
+Australia,316,Shelves,13,2
+Brazil,301,Couches,19,2
+Brazil,303,Tables,9,2
+Brazil,304,Cabinets,9,2
+Brazil,305,Clocks,19,2
+Brazil,306,Bookcase,20,2
+Brazil,307,Dresser,8,2
+Brazil,308,Chest,24,2
+Brazil,309,Beds,16,2
+Brazil,310,Ladders,19,2
+Brazil,312,Stool,25,2
+Brazil,313,Cupboard,6,2
+Brazil,314,Cradle,7,2
+Brazil,315,Grandfather clock,4,2
+Brazil,316,Shelves,11,2
+China,300,Chairs,8,2
+China,301,Couches,26,2
+China,302,Recliners,18,2
+China,303,Tables,1,2
+China,304,Cabinets,27,2
+China,305,Clocks,9,2
+China,306,Bookcase,10,2
+China,307,Dresser,5,2
+China,308,Chest,2,2
+China,309,Beds,17,2
+China,310,Ladders,10,2
+China,311,Ottoman,1,2
+China,313,Cupboard,3,2
+China,314,Cradle,1,2
+China,315,Grandfather clock,11,2
+China,316,Shelves,26,2
+France,300,Chairs,15,2
+France,301,Couches,19,2
+France,302,Recliners,15,2
+France,303,Tables,18,2
+France,304,Cabinets,5,2
+France,305,Clocks,2,2
+France,306,Bookcase,5,2
+France,307,Dresser,15,2
+France,308,Chest,18,2
+France,310,Ladders,18,2
+France,312,Stool,33,2
+France,313,Cupboard,13,2
+France,314,Cradle,18,2
+France,315,Grandfather clock,16,2
+France,316,Shelves,7,2
+Germany,300,Chairs,1,2
+Germany,301,Couches,8,2
+Germany,302,Recliners,5,2
+Germany,303,Tables,33,2
+Germany,306,Bookcase,10,2
+Germany,308,Chest,18,2
+Germany,309,Beds,40,2
+Germany,310,Ladders,25,2
+Germany,312,Stool,10,2
+Germany,313,Cupboard,10,2
+Germany,314,Cradle,12,2
+Germany,315,Grandfather clock,7,2
+Germany,316,Shelves,8,2
+Great Britain,300,Chairs,9,2
+Great Britain,301,Couches,16,2
+Great Britain,302,Recliners,5,2
+Great Britain,303,Tables,10,2
+Great Britain,304,Cabinets,29,2
+Great Britain,305,Clocks,3,2
+Great Britain,306,Bookcase,21,2
+Great Britain,307,Dresser,12,2
+Great Britain,309,Beds,20,2
+Great Britain,310,Ladders,8,2
+Great Britain,311,Ottoman,7,2
+Great Britain,312,Stool,6,2
+Great Britain,313,Cupboard,5,2
+Great Britain,314,Cradle,10,2
+Great Britain,315,Grandfather clock,11,2
+Great Britain,316,Shelves,20,2
+India,300,Chairs,20,2
+India,301,Couches,5,2
+India,302,Recliners,12,2
+India,303,Tables,12,2
+India,304,Cabinets,12,2
+India,305,Clocks,9,2
+India,306,Bookcase,2,2
+India,309,Beds,12,2
+India,310,Ladders,8,2
+India,311,Ottoman,4,2
+India,312,Stool,36,2
+India,313,Cupboard,37,2
+India,314,Cradle,31,2
+India,315,Grandfather clock,9,2
+India,316,Shelves,9,2
+Iran,300,Chairs,9,2
+Iran,301,Couches,1,2
+Iran,302,Recliners,11,2
+Iran,303,Tables,25,2
+Iran,304,Cabinets,13,2
+Iran,305,Clocks,19,2
+Iran,306,Bookcase,1,2
+Iran,307,Dresser,29,2
+Iran,308,Chest,4,2
+Iran,309,Beds,6,2
+Iran,310,Ladders,15,2
+Iran,311,Ottoman,9,2
+Iran,312,Stool,19,2
+Iran,313,Cupboard,14,2
+Iran,314,Cradle,31,2
+Iran,315,Grandfather clock,15,2
+Iran,316,Shelves,6,2
+Ireland,300,Chairs,16,2
+Ireland,301,Couches,16,2
+Ireland,302,Recliners,10,2
+Ireland,303,Tables,8,2
+Ireland,304,Cabinets,22,2
+Ireland,305,Clocks,6,2
+Ireland,307,Dresser,4,2
+Ireland,308,Chest,14,2
+Ireland,309,Beds,14,2
+Ireland,310,Ladders,20,2
+Ireland,311,Ottoman,8,2
+Ireland,312,Stool,25,2
+Ireland,313,Cupboard,7,2
+Ireland,315,Grandfather clock,7,2
+Ireland,316,Shelves,49,2
+Japan,301,Couches,8,2
+Japan,302,Recliners,14,2
+Japan,303,Tables,32,2
+Japan,304,Cabinets,17,2
+Japan,305,Clocks,3,2
+Japan,306,Bookcase,5,2
+Japan,307,Dresser,6,2
+Japan,308,Chest,10,2
+Japan,309,Beds,11,2
+Japan,311,Ottoman,20,2
+Japan,312,Stool,3,2
+Japan,313,Cupboard,18,2
+Japan,314,Cradle,25,2
+Japan,315,Grandfather clock,18,2
+Korea,300,Chairs,15,2
+Korea,301,Couches,23,2
+Korea,302,Recliners,2,2
+Korea,303,Tables,18,2
+Korea,305,Clocks,14,2
+Korea,306,Bookcase,27,2
+Korea,308,Chest,15,2
+Korea,309,Beds,31,2
+Korea,310,Ladders,6,2
+Korea,314,Cradle,2,2
+Korea,315,Grandfather clock,5,2
+Korea,316,Shelves,4,2
+Mexico,301,Couches,22,2
+Mexico,302,Recliners,19,2
+Mexico,304,Cabinets,9,2
+Mexico,305,Clocks,18,2
+Mexico,306,Bookcase,4,2
+Mexico,308,Chest,11,2
+Mexico,309,Beds,6,2
+Mexico,310,Ladders,8,2
+Mexico,311,Ottoman,5,2
+Mexico,312,Stool,4,2
+Mexico,314,Cradle,24,2
+Mexico,315,Grandfather clock,9,2
+Russia,300,Chairs,21,2
+Russia,301,Couches,17,2
+Russia,302,Recliners,13,2
+Russia,303,Tables,6,2
+Russia,304,Cabinets,25,2
+Russia,305,Clocks,5,2
+Russia,306,Bookcase,7,2
+Russia,307,Dresser,13,2
+Russia,308,Chest,5,2
+Russia,309,Beds,8,2
+Russia,310,Ladders,7,2
+Russia,311,Ottoman,7,2
+Russia,312,Stool,11,2
+Russia,313,Cupboard,19,2
+Russia,314,Cradle,1,2
+Russia,315,Grandfather clock,17,2
+Russia,316,Shelves,18,2
+Ukraine,300,Chairs,15,2
+Ukraine,301,Couches,3,2
+Ukraine,302,Recliners,10,2
+Ukraine,304,Cabinets,2,2
+Ukraine,307,Dresser,46,2
+Ukraine,310,Ladders,27,2
+Ukraine,311,Ottoman,6,2
+Ukraine,312,Stool,21,2
+Ukraine,313,Cupboard,4,2
+Ukraine,314,Cradle,11,2
+Ukraine,315,Grandfather clock,20,2
+United States,300,Chairs,8,2
+United States,301,Couches,13,2
+United States,302,Recliners,18,2
+United States,303,Tables,26,2
+United States,304,Cabinets,11,2
+United States,305,Clocks,18,2
+United States,306,Bookcase,5,2
+United States,307,Dresser,3,2
+United States,308,Chest,21,2
+United States,310,Ladders,23,2
+United States,311,Ottoman,10,2
+United States,312,Stool,5,2
+United States,314,Cradle,14,2
+United States,315,Grandfather clock,36,2
+United States,316,Shelves,25,2
+Australia,300,Chairs,12,3
+Australia,301,Couches,20,3
+Australia,302,Recliners,10,3
+Australia,303,Tables,16,3
+Australia,305,Clocks,15,3
+Australia,306,Bookcase,28,3
+Australia,307,Dresser,31,3
+Australia,309,Beds,4,3
+Australia,310,Ladders,3,3
+Australia,311,Ottoman,16,3
+Australia,312,Stool,6,3
+Australia,314,Cradle,16,3
+Australia,315,Grandfather clock,16,3
+Australia,316,Shelves,28,3
+Brazil,300,Chairs,20,3
+Brazil,301,Couches,15,3
+Brazil,302,Recliners,2,3
+Brazil,303,Tables,12,3
+Brazil,304,Cabinets,6,3
+Brazil,305,Clocks,16,3
+Brazil,306,Bookcase,8,3
+Brazil,310,Ladders,17,3
+Brazil,311,Ottoman,18,3
+Brazil,312,Stool,13,3
+Brazil,313,Cupboard,3,3
+Brazil,314,Cradle,13,3
+Brazil,315,Grandfather clock,6,3
+Brazil,316,Shelves,12,3
+China,300,Chairs,7,3
+China,301,Couches,26,3
+China,302,Recliners,16,3
+China,303,Tables,11,3
+China,304,Cabinets,8,3
+China,305,Clocks,7,3
+China,306,Bookcase,12,3
+China,307,Dresser,5,3
+China,308,Chest,9,3
+China,309,Beds,2,3
+China,310,Ladders,4,3
+China,311,Ottoman,21,3
+China,312,Stool,1,3
+China,313,Cupboard,4,3
+China,314,Cradle,9,3
+China,315,Grandfather clock,14,3
+France,300,Chairs,4,3
+France,301,Couches,23,3
+France,302,Recliners,5,3
+France,303,Tables,10,3
+France,304,Cabinets,11,3
+France,305,Clocks,25,3
+France,307,Dresser,12,3
+France,308,Chest,1,3
+France,309,Beds,13,3
+France,310,Ladders,10,3
+France,311,Ottoman,9,3
+France,312,Stool,24,3
+France,313,Cupboard,8,3
+France,314,Cradle,9,3
+France,315,Grandfather clock,22,3
+France,316,Shelves,17,3
+Germany,300,Chairs,5,3
+Germany,301,Couches,22,3
+Germany,303,Tables,13,3
+Germany,304,Cabinets,4,3
+Germany,305,Clocks,3,3
+Germany,306,Bookcase,12,3
+Germany,307,Dresser,2,3
+Germany,308,Chest,12,3
+Germany,309,Beds,31,3
+Germany,310,Ladders,5,3
+Germany,311,Ottoman,1,3
+Germany,313,Cupboard,11,3
+Germany,314,Cradle,6,3
+Germany,315,Grandfather clock,7,3
+Great Britain,300,Chairs,9,3
+Great Britain,301,Couches,3,3
+Great Britain,302,Recliners,9,3
+Great Britain,303,Tables,10,3
+Great Britain,304,Cabinets,15,3
+Great Britain,305,Clocks,10,3
+Great Britain,306,Bookcase,22,3
+Great Britain,307,Dresser,10,3
+Great Britain,308,Chest,8,3
+Great Britain,310,Ladders,14,3
+Great Britain,312,Stool,6,3
+Great Britain,313,Cupboard,12,3
+Great Britain,314,Cradle,35,3
+Great Britain,315,Grandfather clock,8,3
+India,300,Chairs,12,3
+India,301,Couches,28,3
+India,302,Recliners,17,3
+India,303,Tables,19,3
+India,304,Cabinets,6,3
+India,305,Clocks,9,3
+India,306,Bookcase,19,3
+India,307,Dresser,20,3
+India,308,Chest,12,3
+India,309,Beds,7,3
+India,310,Ladders,12,3
+India,311,Ottoman,4,3
+India,312,Stool,15,3
+India,314,Cradle,11,3
+Iran,302,Recliners,11,3
+Iran,303,Tables,20,3
+Iran,304,Cabinets,12,3
+Iran,305,Clocks,25,3
+Iran,306,Bookcase,15,3
+Iran,307,Dresser,10,3
+Iran,308,Chest,21,3
+Iran,309,Beds,10,3
+Iran,310,Ladders,18,3
+Iran,311,Ottoman,40,3
+Iran,312,Stool,2,3
+Iran,313,Cupboard,9,3
+Iran,314,Cradle,9,3
+Iran,315,Grandfather clock,7,3
+Ireland,300,Chairs,3,3
+Ireland,301,Couches,4,3
+Ireland,302,Recliners,22,3
+Ireland,303,Tables,19,3
+Ireland,305,Clocks,18,3
+Ireland,306,Bookcase,17,3
+Ireland,307,Dresser,6,3
+Ireland,308,Chest,30,3
+Ireland,309,Beds,4,3
+Ireland,310,Ladders,19,3
+Ireland,311,Ottoman,7,3
+Ireland,313,Cupboard,14,3
+Ireland,314,Cradle,3,3
+Ireland,315,Grandfather clock,9,3
+Ireland,316,Shelves,7,3
+Japan,302,Recliners,29,3
+Japan,303,Tables,3,3
+Japan,304,Cabinets,15,3
+Japan,306,Bookcase,22,3
+Japan,308,Chest,6,3
+Japan,309,Beds,33,3
+Japan,310,Ladders,8,3
+Japan,311,Ottoman,9,3
+Japan,312,Stool,12,3
+Japan,313,Cupboard,15,3
+Japan,314,Cradle,10,3
+Japan,315,Grandfather clock,16,3
+Japan,316,Shelves,10,3
+Korea,300,Chairs,37,3
+Korea,301,Couches,6,3
+Korea,302,Recliners,37,3
+Korea,303,Tables,3,3
+Korea,304,Cabinets,14,3
+Korea,305,Clocks,2,3
+Korea,307,Dresser,14,3
+Korea,308,Chest,17,3
+Korea,309,Beds,6,3
+Korea,311,Ottoman,6,3
+Korea,312,Stool,16,3
+Korea,313,Cupboard,18,3
+Korea,314,Cradle,13,3
+Korea,315,Grandfather clock,18,3
+Korea,316,Shelves,1,3
+Mexico,300,Chairs,25,3
+Mexico,301,Couches,16,3
+Mexico,303,Tables,15,3
+Mexico,304,Cabinets,2,3
+Mexico,305,Clocks,3,3
+Mexico,306,Bookcase,21,3
+Mexico,307,Dresser,3,3
+Mexico,308,Chest,20,3
+Mexico,309,Beds,31,3
+Mexico,310,Ladders,4,3
+Mexico,311,Ottoman,16,3
+Mexico,312,Stool,8,3
+Mexico,313,Cupboard,21,3
+Mexico,314,Cradle,31,3
+Mexico,315,Grandfather clock,24,3
+Mexico,316,Shelves,8,3
+Russia,300,Chairs,9,3
+Russia,301,Couches,5,3
+Russia,302,Recliners,22,3
+Russia,303,Tables,25,3
+Russia,307,Dresser,22,3
+Russia,308,Chest,1,3
+Russia,309,Beds,17,3
+Russia,310,Ladders,16,3
+Russia,311,Ottoman,14,3
+Russia,312,Stool,10,3
+Russia,313,Cupboard,17,3
+Russia,314,Cradle,10,3
+Russia,316,Shelves,9,3
+Ukraine,300,Chairs,28,3
+Ukraine,301,Couches,8,3
+Ukraine,303,Tables,10,3
+Ukraine,304,Cabinets,19,3
+Ukraine,306,Bookcase,7,3
+Ukraine,308,Chest,21,3
+Ukraine,310,Ladders,10,3
+Ukraine,311,Ottoman,12,3
+Ukraine,312,Stool,12,3
+Ukraine,313,Cupboard,1,3
+Ukraine,314,Cradle,13,3
+Ukraine,315,Grandfather clock,20,3
+Ukraine,316,Shelves,2,3
+United States,300,Chairs,20,3
+United States,301,Couches,22,3
+United States,302,Recliners,18,3
+United States,303,Tables,18,3
+United States,304,Cabinets,3,3
+United States,305,Clocks,10,3
+United States,306,Bookcase,32,3
+United States,307,Dresser,15,3
+United States,308,Chest,18,3
+United States,309,Beds,5,3
+United States,312,Stool,14,3
+United States,313,Cupboard,14,3
+United States,314,Cradle,33,3
+United States,316,Shelves,9,3
+Australia,300,Chairs,45,4
+Australia,301,Couches,32,4
+Australia,302,Recliners,52,4
+Australia,303,Tables,31,4
+Australia,304,Cabinets,69,4
+Australia,305,Clocks,38,4
+Australia,306,Bookcase,37,4
+Australia,307,Dresser,27,4
+Australia,308,Chest,23,4
+Australia,309,Beds,20,4
+Australia,310,Ladders,32,4
+Australia,311,Ottoman,69,4
+Australia,312,Stool,34,4
+Australia,313,Cupboard,77,4
+Australia,314,Cradle,21,4
+Australia,315,Grandfather clock,46,4
+Australia,316,Shelves,32,4
+Brazil,300,Chairs,59,4
+Brazil,301,Couches,66,4
+Brazil,302,Recliners,25,4
+Brazil,303,Tables,51,4
+Brazil,304,Cabinets,49,4
+Brazil,305,Clocks,38,4
+Brazil,306,Bookcase,45,4
+Brazil,307,Dresser,103,4
+Brazil,308,Chest,22,4
+Brazil,309,Beds,44,4
+Brazil,310,Ladders,59,4
+Brazil,311,Ottoman,35,4
+Brazil,312,Stool,42,4
+Brazil,313,Cupboard,57,4
+Brazil,314,Cradle,43,4
+Brazil,315,Grandfather clock,36,4
+Brazil,316,Shelves,69,4
+China,300,Chairs,69,4
+China,301,Couches,65,4
+China,302,Recliners,39,4
+China,303,Tables,59,4
+China,304,Cabinets,79,4
+China,305,Clocks,41,4
+China,306,Bookcase,70,4
+China,307,Dresser,31,4
+China,308,Chest,30,4
+China,309,Beds,63,4
+China,310,Ladders,81,4
+China,311,Ottoman,44,4
+China,312,Stool,56,4
+China,313,Cupboard,60,4
+China,314,Cradle,33,4
+China,315,Grandfather clock,57,4
+China,316,Shelves,43,4
+France,300,Chairs,60,4
+France,301,Couches,77,4
+France,302,Recliners,42,4
+France,303,Tables,49,4
+France,304,Cabinets,46,4
+France,305,Clocks,29,4
+France,306,Bookcase,67,4
+France,307,Dresser,61,4
+France,308,Chest,64,4
+France,309,Beds,73,4
+France,310,Ladders,24,4
+France,311,Ottoman,37,4
+France,312,Stool,57,4
+France,313,Cupboard,14,4
+France,314,Cradle,33,4
+France,315,Grandfather clock,28,4
+France,316,Shelves,64,4
+Germany,300,Chairs,40,4
+Germany,301,Couches,69,4
+Germany,302,Recliners,56,4
+Germany,303,Tables,49,4
+Germany,304,Cabinets,25,4
+Germany,305,Clocks,60,4
+Germany,306,Bookcase,71,4
+Germany,307,Dresser,49,4
+Germany,308,Chest,21,4
+Germany,309,Beds,54,4
+Germany,310,Ladders,22,4
+Germany,311,Ottoman,45,4
+Germany,312,Stool,98,4
+Germany,313,Cupboard,49,4
+Germany,314,Cradle,62,4
+Germany,315,Grandfather clock,76,4
+Germany,316,Shelves,9,4
+Great Britain,300,Chairs,43,4
+Great Britain,301,Couches,61,4
+Great Britain,302,Recliners,20,4
+Great Britain,303,Tables,57,4
+Great Britain,304,Cabinets,46,4
+Great Britain,305,Clocks,72,4
+Great Britain,306,Bookcase,8,4
+Great Britain,307,Dresser,21,4
+Great Britain,308,Chest,37,4
+Great Britain,309,Beds,61,4
+Great Britain,310,Ladders,25,4
+Great Britain,311,Ottoman,54,4
+Great Britain,312,Stool,51,4
+Great Britain,313,Cupboard,65,4
+Great Britain,314,Cradle,34,4
+Great Britain,315,Grandfather clock,22,4
+Great Britain,316,Shelves,79,4
+India,300,Chairs,80,4
+India,301,Couches,30,4
+India,302,Recliners,41,4
+India,303,Tables,23,4
+India,304,Cabinets,58,4
+India,305,Clocks,23,4
+India,306,Bookcase,21,4
+India,307,Dresser,64,4
+India,309,Beds,28,4
+India,310,Ladders,55,4
+India,311,Ottoman,82,4
+India,312,Stool,53,4
+India,313,Cupboard,36,4
+India,314,Cradle,62,4
+India,315,Grandfather clock,45,4
+India,316,Shelves,59,4
+Iran,300,Chairs,66,4
+Iran,301,Couches,22,4
+Iran,302,Recliners,40,4
+Iran,303,Tables,66,4
+Iran,304,Cabinets,34,4
+Iran,305,Clocks,55,4
+Iran,306,Bookcase,24,4
+Iran,307,Dresser,47,4
+Iran,308,Chest,23,4
+Iran,309,Beds,81,4
+Iran,310,Ladders,31,4
+Iran,311,Ottoman,46,4
+Iran,312,Stool,64,4
+Iran,313,Cupboard,41,4
+Iran,314,Cradle,60,4
+Iran,315,Grandfather clock,46,4
+Iran,316,Shelves,66,4
+Ireland,300,Chairs,24,4
+Ireland,301,Couches,50,4
+Ireland,302,Recliners,61,4
+Ireland,303,Tables,36,4
+Ireland,304,Cabinets,21,4
+Ireland,305,Clocks,53,4
+Ireland,306,Bookcase,51,4
+Ireland,307,Dresser,65,4
+Ireland,308,Chest,48,4
+Ireland,309,Beds,63,4
+Ireland,310,Ladders,44,4
+Ireland,311,Ottoman,13,4
+Ireland,312,Stool,96,4
+Ireland,313,Cupboard,92,4
+Ireland,314,Cradle,60,4
+Ireland,315,Grandfather clock,38,4
+Ireland,316,Shelves,84,4
+Japan,300,Chairs,43,4
+Japan,301,Couches,75,4
+Japan,302,Recliners,65,4
+Japan,303,Tables,35,4
+Japan,304,Cabinets,15,4
+Japan,305,Clocks,56,4
+Japan,306,Bookcase,51,4
+Japan,307,Dresser,43,4
+Japan,308,Chest,65,4
+Japan,309,Beds,37,4
+Japan,310,Ladders,33,4
+Japan,311,Ottoman,32,4
+Japan,312,Stool,54,4
+Japan,313,Cupboard,40,4
+Japan,314,Cradle,42,4
+Japan,315,Grandfather clock,46,4
+Japan,316,Shelves,47,4
+Korea,300,Chairs,49,4
+Korea,301,Couches,74,4
+Korea,302,Recliners,87,4
+Korea,303,Tables,63,4
+Korea,304,Cabinets,33,4
+Korea,305,Clocks,60,4
+Korea,306,Bookcase,75,4
+Korea,307,Dresser,79,4
+Korea,308,Chest,32,4
+Korea,309,Beds,39,4
+Korea,310,Ladders,62,4
+Korea,311,Ottoman,65,4
+Korea,312,Stool,40,4
+Korea,313,Cupboard,18,4
+Korea,314,Cradle,36,4
+Korea,315,Grandfather clock,53,4
+Korea,316,Shelves,23,4
+Mexico,300,Chairs,45,4
+Mexico,301,Couches,32,4
+Mexico,302,Recliners,11,4
+Mexico,303,Tables,32,4
+Mexico,304,Cabinets,27,4
+Mexico,305,Clocks,36,4
+Mexico,306,Bookcase,21,4
+Mexico,307,Dresser,28,4
+Mexico,308,Chest,28,4
+Mexico,309,Beds,86,4
+Mexico,310,Ladders,22,4
+Mexico,311,Ottoman,43,4
+Mexico,312,Stool,53,4
+Mexico,313,Cupboard,49,4
+Mexico,314,Cradle,73,4
+Mexico,315,Grandfather clock,37,4
+Mexico,316,Shelves,48,4
+Russia,300,Chairs,51,4
+Russia,301,Couches,50,4
+Russia,302,Recliners,68,4
+Russia,303,Tables,31,4
+Russia,304,Cabinets,62,4
+Russia,305,Clocks,65,4
+Russia,306,Bookcase,45,4
+Russia,307,Dresser,45,4
+Russia,308,Chest,40,4
+Russia,309,Beds,52,4
+Russia,310,Ladders,86,4
+Russia,311,Ottoman,38,4
+Russia,312,Stool,34,4
+Russia,313,Cupboard,49,4
+Russia,314,Cradle,50,4
+Russia,315,Grandfather clock,40,4
+Russia,316,Shelves,30,4
+Ukraine,300,Chairs,57,4
+Ukraine,301,Couches,50,4
+Ukraine,302,Recliners,73,4
+Ukraine,303,Tables,34,4
+Ukraine,304,Cabinets,67,4
+Ukraine,305,Clocks,25,4
+Ukraine,306,Bookcase,59,4
+Ukraine,307,Dresser,50,4
+Ukraine,308,Chest,32,4
+Ukraine,309,Beds,38,4
+Ukraine,310,Ladders,42,4
+Ukraine,311,Ottoman,50,4
+Ukraine,312,Stool,50,4
+Ukraine,313,Cupboard,47,4
+Ukraine,314,Cradle,52,4
+Ukraine,315,Grandfather clock,63,4
+Ukraine,316,Shelves,67,4
+United States,300,Chairs,84,4
+United States,301,Couches,47,4
+United States,302,Recliners,47,4
+United States,303,Tables,19,4
+United States,304,Cabinets,63,4
+United States,305,Clocks,65,4
+United States,306,Bookcase,86,4
+United States,307,Dresser,59,4
+United States,308,Chest,21,4
+United States,309,Beds,62,4
+United States,310,Ladders,52,4
+United States,311,Ottoman,50,4
+United States,312,Stool,72,4
+United States,313,Cupboard,54,4
+United States,314,Cradle,47,4
+United States,315,Grandfather clock,26,4
+United States,316,Shelves,49,4
