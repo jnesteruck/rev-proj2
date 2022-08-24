@@ -1,0 +1,1266 @@
+Australia,200,Jeans,10,1
+Australia,201,Underwear,23,1
+Australia,202,Shoes,3,1
+Australia,204,Formal Wear,7,1
+Australia,206,Swimwear,11,1
+Australia,208,Gowns,9,1
+Australia,209,Dresses,5,1
+Australia,210,T-shirts,3,1
+Australia,211,Glasses,7,1
+Australia,215,Jackets,4,1
+Australia,217,Ties,8,1
+Australia,218,Briefs,4,1
+Australia,221,Scarves,7,1
+Australia,222,Earrings,4,1
+Australia,223,Belts,7,1
+Australia,224,Wallet,3,1
+Australia,225,Cap,19,1
+Australia,226,Watch,16,1
+Brazil,201,Underwear,7,1
+Brazil,202,Shoes,8,1
+Brazil,204,Formal Wear,1,1
+Brazil,205,Socks,3,1
+Brazil,206,Swimwear,12,1
+Brazil,209,Dresses,15,1
+Brazil,210,T-shirts,21,1
+Brazil,211,Glasses,5,1
+Brazil,212,Sunglasses,6,1
+Brazil,213,Tracksuit,19,1
+Brazil,215,Jackets,12,1
+Brazil,216,Coats,4,1
+Brazil,218,Briefs,9,1
+Brazil,220,Bow-ties,7,1
+Brazil,221,Scarves,13,1
+Brazil,222,Earrings,7,1
+Brazil,223,Belts,3,1
+Brazil,224,Wallet,13,1
+Brazil,225,Cap,6,1
+Brazil,226,Watch,16,1
+China,200,Jeans,18,1
+China,202,Shoes,10,1
+China,203,Sandals,23,1
+China,204,Formal Wear,2,1
+China,205,Socks,17,1
+China,206,Swimwear,18,1
+China,207,Kahkis,2,1
+China,208,Gowns,6,1
+China,209,Dresses,4,1
+China,210,T-shirts,8,1
+China,212,Sunglasses,7,1
+China,213,Tracksuit,9,1
+China,214,Suits,1,1
+China,216,Coats,3,1
+China,217,Ties,5,1
+China,218,Briefs,10,1
+China,221,Scarves,2,1
+China,223,Belts,14,1
+China,224,Wallet,6,1
+China,225,Cap,1,1
+China,226,Watch,7,1
+France,200,Jeans,15,1
+France,202,Shoes,7,1
+France,203,Sandals,5,1
+France,204,Formal Wear,14,1
+France,205,Socks,6,1
+France,208,Gowns,17,1
+France,209,Dresses,11,1
+France,210,T-shirts,16,1
+France,211,Glasses,18,1
+France,213,Tracksuit,3,1
+France,216,Coats,4,1
+France,217,Ties,4,1
+France,218,Briefs,1,1
+France,219,Boxers,14,1
+France,220,Bow-ties,3,1
+France,221,Scarves,9,1
+France,223,Belts,7,1
+France,225,Cap,11,1
+France,226,Watch,3,1
+Germany,201,Underwear,10,1
+Germany,202,Shoes,8,1
+Germany,203,Sandals,8,1
+Germany,205,Socks,1,1
+Germany,206,Swimwear,5,1
+Germany,207,Kahkis,10,1
+Germany,210,T-shirts,10,1
+Germany,211,Glasses,11,1
+Germany,212,Sunglasses,5,1
+Germany,214,Suits,10,1
+Germany,215,Jackets,10,1
+Germany,218,Briefs,25,1
+Germany,219,Boxers,19,1
+Germany,220,Bow-ties,3,1
+Germany,223,Belts,8,1
+Germany,224,Wallet,6,1
+Germany,225,Cap,17,1
+Germany,226,Watch,18,1
+Great Britain,200,Jeans,3,1
+Great Britain,202,Shoes,9,1
+Great Britain,204,Formal Wear,38,1
+Great Britain,206,Swimwear,17,1
+Great Britain,209,Dresses,10,1
+Great Britain,210,T-shirts,7,1
+Great Britain,211,Glasses,20,1
+Great Britain,212,Sunglasses,11,1
+Great Britain,213,Tracksuit,14,1
+Great Britain,214,Suits,14,1
+Great Britain,216,Coats,8,1
+Great Britain,217,Ties,10,1
+Great Britain,218,Briefs,17,1
+Great Britain,220,Bow-ties,13,1
+Great Britain,223,Belts,8,1
+Great Britain,224,Wallet,15,1
+Great Britain,225,Cap,6,1
+Great Britain,226,Watch,3,1
+India,201,Underwear,4,1
+India,202,Shoes,7,1
+India,203,Sandals,6,1
+India,204,Formal Wear,16,1
+India,206,Swimwear,11,1
+India,207,Kahkis,15,1
+India,208,Gowns,3,1
+India,210,T-shirts,10,1
+India,211,Glasses,4,1
+India,212,Sunglasses,14,1
+India,214,Suits,19,1
+India,215,Jackets,4,1
+India,220,Bow-ties,1,1
+India,221,Scarves,7,1
+India,223,Belts,8,1
+India,224,Wallet,2,1
+India,225,Cap,10,1
+Iran,200,Jeans,3,1
+Iran,201,Underwear,5,1
+Iran,203,Sandals,8,1
+Iran,204,Formal Wear,10,1
+Iran,206,Swimwear,24,1
+Iran,207,Kahkis,1,1
+Iran,208,Gowns,21,1
+Iran,209,Dresses,11,1
+Iran,210,T-shirts,22,1
+Iran,211,Glasses,7,1
+Iran,212,Sunglasses,11,1
+Iran,213,Tracksuit,12,1
+Iran,214,Suits,16,1
+Iran,218,Briefs,6,1
+Iran,219,Boxers,7,1
+Iran,220,Bow-ties,17,1
+Iran,222,Earrings,15,1
+Iran,223,Belts,5,1
+Iran,224,Wallet,10,1
+Iran,226,Watch,8,1
+Ireland,201,Underwear,7,1
+Ireland,202,Shoes,10,1
+Ireland,203,Sandals,8,1
+Ireland,204,Formal Wear,10,1
+Ireland,205,Socks,20,1
+Ireland,206,Swimwear,20,1
+Ireland,207,Kahkis,25,1
+Ireland,208,Gowns,3,1
+Ireland,210,T-shirts,11,1
+Ireland,211,Glasses,4,1
+Ireland,213,Tracksuit,5,1
+Ireland,214,Suits,17,1
+Ireland,215,Jackets,6,1
+Ireland,216,Coats,9,1
+Ireland,217,Ties,12,1
+Ireland,219,Boxers,13,1
+Ireland,221,Scarves,11,1
+Ireland,222,Earrings,14,1
+Ireland,224,Wallet,6,1
+Ireland,226,Watch,10,1
+Japan,200,Jeans,10,1
+Japan,201,Underwear,6,1
+Japan,204,Formal Wear,9,1
+Japan,205,Socks,8,1
+Japan,206,Swimwear,14,1
+Japan,207,Kahkis,19,1
+Japan,208,Gowns,16,1
+Japan,209,Dresses,5,1
+Japan,210,T-shirts,7,1
+Japan,211,Glasses,2,1
+Japan,212,Sunglasses,9,1
+Japan,213,Tracksuit,6,1
+Japan,216,Coats,10,1
+Japan,217,Ties,3,1
+Japan,218,Briefs,10,1
+Japan,219,Boxers,18,1
+Japan,220,Bow-ties,3,1
+Japan,221,Scarves,7,1
+Japan,222,Earrings,5,1
+Japan,224,Wallet,1,1
+Japan,226,Watch,3,1
+Korea,200,Jeans,8,1
+Korea,201,Underwear,11,1
+Korea,202,Shoes,15,1
+Korea,203,Sandals,4,1
+Korea,204,Formal Wear,13,1
+Korea,205,Socks,10,1
+Korea,206,Swimwear,12,1
+Korea,207,Kahkis,2,1
+Korea,209,Dresses,15,1
+Korea,210,T-shirts,8,1
+Korea,211,Glasses,4,1
+Korea,212,Sunglasses,9,1
+Korea,213,Tracksuit,17,1
+Korea,214,Suits,2,1
+Korea,217,Ties,13,1
+Korea,218,Briefs,7,1
+Korea,219,Boxers,10,1
+Korea,220,Bow-ties,1,1
+Korea,221,Scarves,11,1
+Korea,223,Belts,17,1
+Korea,224,Wallet,10,1
+Mexico,200,Jeans,10,1
+Mexico,201,Underwear,2,1
+Mexico,202,Shoes,15,1
+Mexico,203,Sandals,28,1
+Mexico,205,Socks,12,1
+Mexico,206,Swimwear,17,1
+Mexico,207,Kahkis,6,1
+Mexico,208,Gowns,31,1
+Mexico,210,T-shirts,14,1
+Mexico,214,Suits,1,1
+Mexico,215,Jackets,6,1
+Mexico,216,Coats,11,1
+Mexico,217,Ties,13,1
+Mexico,218,Briefs,13,1
+Mexico,219,Boxers,3,1
+Mexico,220,Bow-ties,7,1
+Mexico,221,Scarves,4,1
+Mexico,222,Earrings,5,1
+Mexico,224,Wallet,14,1
+Mexico,226,Watch,6,1
+Russia,200,Jeans,3,1
+Russia,203,Sandals,3,1
+Russia,205,Socks,21,1
+Russia,206,Swimwear,14,1
+Russia,208,Gowns,12,1
+Russia,211,Glasses,7,1
+Russia,212,Sunglasses,15,1
+Russia,213,Tracksuit,7,1
+Russia,214,Suits,6,1
+Russia,217,Ties,16,1
+Russia,218,Briefs,8,1
+Russia,219,Boxers,12,1
+Russia,220,Bow-ties,16,1
+Russia,221,Scarves,1,1
+Russia,222,Earrings,19,1
+Russia,223,Belts,7,1
+Russia,224,Wallet,4,1
+Russia,225,Cap,3,1
+Russia,226,Watch,7,1
+Ukraine,201,Underwear,2,1
+Ukraine,202,Shoes,11,1
+Ukraine,203,Sandals,1,1
+Ukraine,204,Formal Wear,23,1
+Ukraine,205,Socks,4,1
+Ukraine,207,Kahkis,10,1
+Ukraine,208,Gowns,9,1
+Ukraine,211,Glasses,6,1
+Ukraine,212,Sunglasses,8,1
+Ukraine,213,Tracksuit,16,1
+Ukraine,214,Suits,8,1
+Ukraine,217,Ties,31,1
+Ukraine,218,Briefs,23,1
+Ukraine,219,Boxers,3,1
+Ukraine,220,Bow-ties,19,1
+Ukraine,222,Earrings,2,1
+Ukraine,225,Cap,4,1
+Ukraine,226,Watch,17,1
+United States,200,Jeans,3,1
+United States,201,Underwear,3,1
+United States,205,Socks,9,1
+United States,206,Swimwear,25,1
+United States,207,Kahkis,15,1
+United States,208,Gowns,5,1
+United States,209,Dresses,17,1
+United States,210,T-shirts,17,1
+United States,211,Glasses,37,1
+United States,212,Sunglasses,6,1
+United States,214,Suits,5,1
+United States,215,Jackets,5,1
+United States,216,Coats,3,1
+United States,217,Ties,9,1
+United States,218,Briefs,10,1
+United States,219,Boxers,8,1
+United States,222,Earrings,9,1
+United States,224,Wallet,15,1
+United States,225,Cap,8,1
+United States,226,Watch,9,1
+Australia,200,Jeans,6,2
+Australia,201,Underwear,2,2
+Australia,202,Shoes,10,2
+Australia,205,Socks,20,2
+Australia,206,Swimwear,29,2
+Australia,209,Dresses,15,2
+Australia,210,T-shirts,11,2
+Australia,211,Glasses,10,2
+Australia,212,Sunglasses,2,2
+Australia,213,Tracksuit,25,2
+Australia,214,Suits,1,2
+Australia,215,Jackets,11,2
+Australia,217,Ties,18,2
+Australia,218,Briefs,10,2
+Australia,219,Boxers,7,2
+Australia,220,Bow-ties,10,2
+Australia,221,Scarves,13,2
+Australia,222,Earrings,2,2
+Australia,223,Belts,15,2
+Australia,224,Wallet,15,2
+Australia,225,Cap,16,2
+Australia,226,Watch,10,2
+Brazil,202,Shoes,3,2
+Brazil,203,Sandals,11,2
+Brazil,206,Swimwear,3,2
+Brazil,207,Kahkis,1,2
+Brazil,208,Gowns,10,2
+Brazil,211,Glasses,9,2
+Brazil,212,Sunglasses,15,2
+Brazil,213,Tracksuit,19,2
+Brazil,214,Suits,13,2
+Brazil,216,Coats,6,2
+Brazil,218,Briefs,6,2
+Brazil,219,Boxers,7,2
+Brazil,220,Bow-ties,3,2
+Brazil,221,Scarves,18,2
+Brazil,222,Earrings,18,2
+Brazil,223,Belts,10,2
+Brazil,224,Wallet,25,2
+Brazil,226,Watch,5,2
+China,200,Jeans,5,2
+China,201,Underwear,7,2
+China,204,Formal Wear,12,2
+China,207,Kahkis,3,2
+China,209,Dresses,6,2
+China,210,T-shirts,11,2
+China,212,Sunglasses,6,2
+China,213,Tracksuit,15,2
+China,214,Suits,8,2
+China,216,Coats,9,2
+China,218,Briefs,2,2
+China,219,Boxers,10,2
+China,220,Bow-ties,3,2
+China,221,Scarves,4,2
+China,223,Belts,10,2
+China,224,Wallet,8,2
+China,225,Cap,2,2
+China,226,Watch,14,2
+France,200,Jeans,10,2
+France,201,Underwear,2,2
+France,203,Sandals,18,2
+France,204,Formal Wear,1,2
+France,205,Socks,9,2
+France,206,Swimwear,3,2
+France,207,Kahkis,8,2
+France,210,T-shirts,18,2
+France,211,Glasses,5,2
+France,212,Sunglasses,10,2
+France,213,Tracksuit,30,2
+France,214,Suits,17,2
+France,215,Jackets,17,2
+France,216,Coats,5,2
+France,217,Ties,24,2
+France,218,Briefs,12,2
+France,219,Boxers,5,2
+France,220,Bow-ties,26,2
+France,222,Earrings,7,2
+France,223,Belts,4,2
+France,224,Wallet,9,2
+France,225,Cap,9,2
+France,226,Watch,16,2
+Germany,200,Jeans,16,2
+Germany,204,Formal Wear,7,2
+Germany,205,Socks,20,2
+Germany,207,Kahkis,6,2
+Germany,208,Gowns,3,2
+Germany,211,Glasses,16,2
+Germany,212,Sunglasses,19,2
+Germany,213,Tracksuit,4,2
+Germany,214,Suits,3,2
+Germany,215,Jackets,7,2
+Germany,216,Coats,9,2
+Germany,218,Briefs,7,2
+Germany,219,Boxers,6,2
+Germany,220,Bow-ties,14,2
+Germany,221,Scarves,9,2
+Germany,222,Earrings,15,2
+Germany,223,Belts,26,2
+Germany,224,Wallet,12,2
+Germany,225,Cap,12,2
+Great Britain,200,Jeans,5,2
+Great Britain,201,Underwear,23,2
+Great Britain,202,Shoes,26,2
+Great Britain,204,Formal Wear,21,2
+Great Britain,206,Swimwear,2,2
+Great Britain,207,Kahkis,7,2
+Great Britain,208,Gowns,9,2
+Great Britain,209,Dresses,3,2
+Great Britain,210,T-shirts,23,2
+Great Britain,211,Glasses,18,2
+Great Britain,213,Tracksuit,43,2
+Great Britain,216,Coats,20,2
+Great Britain,217,Ties,26,2
+Great Britain,218,Briefs,16,2
+Great Britain,220,Bow-ties,7,2
+Great Britain,221,Scarves,22,2
+Great Britain,222,Earrings,9,2
+Great Britain,223,Belts,8,2
+Great Britain,225,Cap,4,2
+Great Britain,226,Watch,3,2
+India,201,Underwear,14,2
+India,203,Sandals,9,2
+India,204,Formal Wear,36,2
+India,205,Socks,17,2
+India,206,Swimwear,17,2
+India,207,Kahkis,7,2
+India,209,Dresses,4,2
+India,212,Sunglasses,17,2
+India,213,Tracksuit,11,2
+India,214,Suits,1,2
+India,215,Jackets,6,2
+India,216,Coats,22,2
+India,217,Ties,7,2
+India,219,Boxers,6,2
+India,221,Scarves,11,2
+India,222,Earrings,2,2
+India,224,Wallet,20,2
+India,225,Cap,8,2
+Iran,200,Jeans,19,2
+Iran,201,Underwear,9,2
+Iran,202,Shoes,11,2
+Iran,203,Sandals,27,2
+Iran,204,Formal Wear,23,2
+Iran,205,Socks,4,2
+Iran,206,Swimwear,8,2
+Iran,207,Kahkis,11,2
+Iran,209,Dresses,7,2
+Iran,210,T-shirts,1,2
+Iran,211,Glasses,8,2
+Iran,212,Sunglasses,4,2
+Iran,213,Tracksuit,2,2
+Iran,214,Suits,24,2
+Iran,215,Jackets,9,2
+Iran,216,Coats,7,2
+Iran,217,Ties,3,2
+Iran,219,Boxers,17,2
+Iran,220,Bow-ties,6,2
+Iran,221,Scarves,9,2
+Iran,224,Wallet,17,2
+Iran,225,Cap,3,2
+Ireland,201,Underwear,7,2
+Ireland,203,Sandals,19,2
+Ireland,204,Formal Wear,8,2
+Ireland,205,Socks,2,2
+Ireland,206,Swimwear,7,2
+Ireland,208,Gowns,4,2
+Ireland,209,Dresses,10,2
+Ireland,210,T-shirts,5,2
+Ireland,211,Glasses,10,2
+Ireland,213,Tracksuit,9,2
+Ireland,214,Suits,2,2
+Ireland,215,Jackets,6,2
+Ireland,216,Coats,13,2
+Ireland,217,Ties,5,2
+Ireland,219,Boxers,8,2
+Ireland,222,Earrings,6,2
+Ireland,223,Belts,11,2
+Ireland,224,Wallet,10,2
+Ireland,225,Cap,14,2
+Ireland,226,Watch,10,2
+Japan,200,Jeans,9,2
+Japan,204,Formal Wear,5,2
+Japan,208,Gowns,19,2
+Japan,209,Dresses,1,2
+Japan,211,Glasses,10,2
+Japan,212,Sunglasses,23,2
+Japan,213,Tracksuit,15,2
+Japan,215,Jackets,7,2
+Japan,216,Coats,8,2
+Japan,217,Ties,1,2
+Japan,218,Briefs,15,2
+Japan,219,Boxers,5,2
+Japan,220,Bow-ties,8,2
+Japan,221,Scarves,4,2
+Japan,222,Earrings,10,2
+Japan,225,Cap,18,2
+Korea,200,Jeans,4,2
+Korea,201,Underwear,8,2
+Korea,202,Shoes,4,2
+Korea,203,Sandals,5,2
+Korea,205,Socks,8,2
+Korea,206,Swimwear,11,2
+Korea,207,Kahkis,9,2
+Korea,208,Gowns,8,2
+Korea,209,Dresses,18,2
+Korea,210,T-shirts,2,2
+Korea,214,Suits,13,2
+Korea,215,Jackets,8,2
+Korea,216,Coats,6,2
+Korea,217,Ties,6,2
+Korea,218,Briefs,4,2
+Korea,219,Boxers,7,2
+Korea,220,Bow-ties,8,2
+Korea,221,Scarves,4,2
+Korea,222,Earrings,8,2
+Korea,224,Wallet,31,2
+Korea,226,Watch,5,2
+Mexico,201,Underwear,18,2
+Mexico,202,Shoes,7,2
+Mexico,203,Sandals,8,2
+Mexico,204,Formal Wear,10,2
+Mexico,205,Socks,15,2
+Mexico,206,Swimwear,20,2
+Mexico,208,Gowns,38,2
+Mexico,209,Dresses,3,2
+Mexico,210,T-shirts,17,2
+Mexico,212,Sunglasses,3,2
+Mexico,213,Tracksuit,4,2
+Mexico,214,Suits,18,2
+Mexico,215,Jackets,9,2
+Mexico,216,Coats,11,2
+Mexico,218,Briefs,22,2
+Mexico,219,Boxers,30,2
+Mexico,220,Bow-ties,1,2
+Mexico,221,Scarves,5,2
+Mexico,222,Earrings,13,2
+Mexico,223,Belts,11,2
+Mexico,224,Wallet,5,2
+Mexico,226,Watch,8,2
+Russia,200,Jeans,5,2
+Russia,201,Underwear,10,2
+Russia,203,Sandals,4,2
+Russia,204,Formal Wear,10,2
+Russia,205,Socks,15,2
+Russia,206,Swimwear,1,2
+Russia,209,Dresses,8,2
+Russia,210,T-shirts,9,2
+Russia,212,Sunglasses,19,2
+Russia,214,Suits,7,2
+Russia,215,Jackets,27,2
+Russia,217,Ties,16,2
+Russia,218,Briefs,6,2
+Russia,219,Boxers,8,2
+Russia,220,Bow-ties,6,2
+Russia,221,Scarves,10,2
+Russia,222,Earrings,21,2
+Russia,223,Belts,2,2
+Russia,224,Wallet,4,2
+Russia,226,Watch,10,2
+Ukraine,201,Underwear,1,2
+Ukraine,202,Shoes,16,2
+Ukraine,203,Sandals,9,2
+Ukraine,205,Socks,22,2
+Ukraine,206,Swimwear,8,2
+Ukraine,208,Gowns,12,2
+Ukraine,211,Glasses,6,2
+Ukraine,212,Sunglasses,27,2
+Ukraine,213,Tracksuit,23,2
+Ukraine,215,Jackets,13,2
+Ukraine,216,Coats,18,2
+Ukraine,218,Briefs,8,2
+Ukraine,221,Scarves,17,2
+Ukraine,223,Belts,7,2
+Ukraine,224,Wallet,18,2
+Ukraine,225,Cap,17,2
+Ukraine,226,Watch,8,2
+United States,200,Jeans,18,2
+United States,201,Underwear,15,2
+United States,202,Shoes,14,2
+United States,203,Sandals,9,2
+United States,205,Socks,17,2
+United States,206,Swimwear,13,2
+United States,208,Gowns,7,2
+United States,209,Dresses,10,2
+United States,213,Tracksuit,18,2
+United States,214,Suits,23,2
+United States,215,Jackets,2,2
+United States,216,Coats,8,2
+United States,217,Ties,14,2
+United States,219,Boxers,8,2
+United States,220,Bow-ties,2,2
+United States,221,Scarves,3,2
+United States,222,Earrings,10,2
+United States,223,Belts,18,2
+United States,224,Wallet,5,2
+United States,225,Cap,14,2
+Australia,201,Underwear,8,3
+Australia,204,Formal Wear,5,3
+Australia,205,Socks,1,3
+Australia,206,Swimwear,7,3
+Australia,207,Kahkis,13,3
+Australia,208,Gowns,12,3
+Australia,209,Dresses,14,3
+Australia,210,T-shirts,5,3
+Australia,212,Sunglasses,14,3
+Australia,213,Tracksuit,7,3
+Australia,214,Suits,10,3
+Australia,215,Jackets,2,3
+Australia,216,Coats,10,3
+Australia,218,Briefs,8,3
+Australia,219,Boxers,7,3
+Australia,220,Bow-ties,9,3
+Australia,221,Scarves,6,3
+Australia,222,Earrings,10,3
+Australia,224,Wallet,1,3
+Australia,226,Watch,3,3
+Brazil,200,Jeans,4,3
+Brazil,202,Shoes,20,3
+Brazil,204,Formal Wear,17,3
+Brazil,205,Socks,3,3
+Brazil,206,Swimwear,33,3
+Brazil,207,Kahkis,5,3
+Brazil,208,Gowns,15,3
+Brazil,209,Dresses,4,3
+Brazil,211,Glasses,11,3
+Brazil,214,Suits,10,3
+Brazil,215,Jackets,21,3
+Brazil,216,Coats,13,3
+Brazil,217,Ties,26,3
+Brazil,218,Briefs,7,3
+Brazil,219,Boxers,19,3
+Brazil,220,Bow-ties,5,3
+Brazil,221,Scarves,10,3
+Brazil,222,Earrings,10,3
+Brazil,223,Belts,13,3
+Brazil,224,Wallet,10,3
+China,201,Underwear,7,3
+China,203,Sandals,9,3
+China,204,Formal Wear,6,3
+China,205,Socks,7,3
+China,208,Gowns,9,3
+China,210,T-shirts,15,3
+China,213,Tracksuit,19,3
+China,214,Suits,9,3
+China,215,Jackets,10,3
+China,216,Coats,16,3
+China,219,Boxers,5,3
+China,220,Bow-ties,6,3
+China,221,Scarves,9,3
+China,222,Earrings,10,3
+China,223,Belts,13,3
+China,224,Wallet,8,3
+France,201,Underwear,23,3
+France,202,Shoes,11,3
+France,203,Sandals,14,3
+France,206,Swimwear,14,3
+France,208,Gowns,10,3
+France,209,Dresses,8,3
+France,210,T-shirts,11,3
+France,214,Suits,19,3
+France,216,Coats,17,3
+France,217,Ties,5,3
+France,218,Briefs,7,3
+France,219,Boxers,5,3
+France,220,Bow-ties,12,3
+France,221,Scarves,1,3
+France,223,Belts,10,3
+France,224,Wallet,8,3
+France,225,Cap,6,3
+France,226,Watch,10,3
+Germany,200,Jeans,22,3
+Germany,201,Underwear,8,3
+Germany,202,Shoes,17,3
+Germany,204,Formal Wear,14,3
+Germany,205,Socks,8,3
+Germany,206,Swimwear,1,3
+Germany,207,Kahkis,6,3
+Germany,208,Gowns,4,3
+Germany,212,Sunglasses,15,3
+Germany,213,Tracksuit,8,3
+Germany,214,Suits,2,3
+Germany,215,Jackets,15,3
+Germany,217,Ties,10,3
+Germany,218,Briefs,9,3
+Germany,219,Boxers,14,3
+Germany,220,Bow-ties,1,3
+Germany,221,Scarves,13,3
+Germany,222,Earrings,3,3
+Germany,223,Belts,10,3
+Germany,225,Cap,1,3
+Great Britain,202,Shoes,13,3
+Great Britain,203,Sandals,5,3
+Great Britain,204,Formal Wear,10,3
+Great Britain,205,Socks,12,3
+Great Britain,207,Kahkis,2,3
+Great Britain,208,Gowns,16,3
+Great Britain,212,Sunglasses,7,3
+Great Britain,213,Tracksuit,1,3
+Great Britain,214,Suits,9,3
+Great Britain,215,Jackets,4,3
+Great Britain,217,Ties,16,3
+Great Britain,218,Briefs,1,3
+Great Britain,220,Bow-ties,9,3
+Great Britain,222,Earrings,10,3
+Great Britain,223,Belts,13,3
+Great Britain,225,Cap,1,3
+Great Britain,226,Watch,4,3
+India,200,Jeans,11,3
+India,201,Underwear,6,3
+India,202,Shoes,10,3
+India,203,Sandals,9,3
+India,204,Formal Wear,1,3
+India,206,Swimwear,8,3
+India,207,Kahkis,9,3
+India,208,Gowns,10,3
+India,209,Dresses,11,3
+India,210,T-shirts,8,3
+India,213,Tracksuit,13,3
+India,214,Suits,10,3
+India,216,Coats,13,3
+India,218,Briefs,4,3
+India,219,Boxers,9,3
+India,221,Scarves,7,3
+India,222,Earrings,9,3
+India,223,Belts,9,3
+India,224,Wallet,6,3
+India,225,Cap,6,3
+Iran,203,Sandals,9,3
+Iran,204,Formal Wear,1,3
+Iran,205,Socks,7,3
+Iran,207,Kahkis,13,3
+Iran,208,Gowns,2,3
+Iran,210,T-shirts,3,3
+Iran,211,Glasses,7,3
+Iran,212,Sunglasses,8,3
+Iran,213,Tracksuit,5,3
+Iran,217,Ties,7,3
+Iran,219,Boxers,14,3
+Iran,220,Bow-ties,6,3
+Iran,221,Scarves,4,3
+Iran,222,Earrings,12,3
+Iran,224,Wallet,6,3
+Iran,225,Cap,19,3
+Iran,226,Watch,22,3
+Ireland,201,Underwear,1,3
+Ireland,204,Formal Wear,22,3
+Ireland,205,Socks,10,3
+Ireland,206,Swimwear,10,3
+Ireland,207,Kahkis,17,3
+Ireland,208,Gowns,1,3
+Ireland,209,Dresses,5,3
+Ireland,210,T-shirts,3,3
+Ireland,211,Glasses,10,3
+Ireland,212,Sunglasses,15,3
+Ireland,213,Tracksuit,8,3
+Ireland,214,Suits,8,3
+Ireland,217,Ties,7,3
+Ireland,218,Briefs,10,3
+Ireland,219,Boxers,10,3
+Ireland,220,Bow-ties,4,3
+Ireland,221,Scarves,4,3
+Ireland,223,Belts,6,3
+Ireland,224,Wallet,6,3
+Japan,201,Underwear,3,3
+Japan,202,Shoes,18,3
+Japan,203,Sandals,6,3
+Japan,206,Swimwear,16,3
+Japan,207,Kahkis,1,3
+Japan,208,Gowns,4,3
+Japan,209,Dresses,12,3
+Japan,212,Sunglasses,12,3
+Japan,215,Jackets,4,3
+Japan,216,Coats,8,3
+Japan,217,Ties,15,3
+Japan,219,Boxers,5,3
+Japan,220,Bow-ties,15,3
+Japan,221,Scarves,8,3
+Japan,222,Earrings,2,3
+Japan,223,Belts,17,3
+Japan,224,Wallet,7,3
+Japan,226,Watch,22,3
+Korea,200,Jeans,36,3
+Korea,202,Shoes,10,3
+Korea,203,Sandals,8,3
+Korea,206,Swimwear,3,3
+Korea,207,Kahkis,15,3
+Korea,208,Gowns,7,3
+Korea,209,Dresses,33,3
+Korea,210,T-shirts,7,3
+Korea,211,Glasses,4,3
+Korea,212,Sunglasses,8,3
+Korea,213,Tracksuit,18,3
+Korea,214,Suits,13,3
+Korea,216,Coats,2,3
+Korea,217,Ties,10,3
+Korea,219,Boxers,9,3
+Korea,220,Bow-ties,8,3
+Korea,221,Scarves,7,3
+Korea,222,Earrings,18,3
+Korea,223,Belts,10,3
+Korea,224,Wallet,42,3
+Korea,225,Cap,20,3
+Korea,226,Watch,21,3
+Mexico,200,Jeans,2,3
+Mexico,202,Shoes,8,3
+Mexico,203,Sandals,6,3
+Mexico,204,Formal Wear,10,3
+Mexico,205,Socks,2,3
+Mexico,207,Kahkis,4,3
+Mexico,208,Gowns,7,3
+Mexico,209,Dresses,18,3
+Mexico,210,T-shirts,7,3
+Mexico,211,Glasses,14,3
+Mexico,214,Suits,1,3
+Mexico,215,Jackets,10,3
+Mexico,216,Coats,10,3
+Mexico,217,Ties,4,3
+Mexico,218,Briefs,8,3
+Mexico,219,Boxers,13,3
+Mexico,222,Earrings,7,3
+Mexico,223,Belts,12,3
+Mexico,224,Wallet,28,3
+Mexico,225,Cap,21,3
+Russia,200,Jeans,6,3
+Russia,203,Sandals,3,3
+Russia,204,Formal Wear,1,3
+Russia,206,Swimwear,31,3
+Russia,207,Kahkis,13,3
+Russia,208,Gowns,4,3
+Russia,209,Dresses,19,3
+Russia,212,Sunglasses,7,3
+Russia,213,Tracksuit,10,3
+Russia,214,Suits,8,3
+Russia,216,Coats,10,3
+Russia,218,Briefs,6,3
+Russia,220,Bow-ties,9,3
+Russia,221,Scarves,17,3
+Russia,222,Earrings,11,3
+Russia,224,Wallet,5,3
+Russia,226,Watch,5,3
+Ukraine,200,Jeans,19,3
+Ukraine,203,Sandals,12,3
+Ukraine,208,Gowns,10,3
+Ukraine,209,Dresses,12,3
+Ukraine,210,T-shirts,3,3
+Ukraine,212,Sunglasses,1,3
+Ukraine,213,Tracksuit,5,3
+Ukraine,214,Suits,22,3
+Ukraine,218,Briefs,1,3
+Ukraine,219,Boxers,14,3
+Ukraine,220,Bow-ties,2,3
+Ukraine,221,Scarves,7,3
+Ukraine,222,Earrings,10,3
+Ukraine,224,Wallet,9,3
+Ukraine,226,Watch,16,3
+United States,202,Shoes,3,3
+United States,204,Formal Wear,4,3
+United States,206,Swimwear,11,3
+United States,207,Kahkis,14,3
+United States,209,Dresses,7,3
+United States,210,T-shirts,19,3
+United States,211,Glasses,3,3
+United States,212,Sunglasses,24,3
+United States,213,Tracksuit,12,3
+United States,214,Suits,8,3
+United States,216,Coats,18,3
+United States,217,Ties,8,3
+United States,218,Briefs,3,3
+United States,220,Bow-ties,8,3
+United States,221,Scarves,9,3
+United States,224,Wallet,20,3
+United States,225,Cap,3,3
+United States,226,Watch,10,3
+Australia,200,Jeans,21,4
+Australia,201,Underwear,21,4
+Australia,202,Shoes,38,4
+Australia,203,Sandals,19,4
+Australia,204,Formal Wear,34,4
+Australia,205,Socks,51,4
+Australia,206,Swimwear,9,4
+Australia,207,Kahkis,19,4
+Australia,208,Gowns,13,4
+Australia,209,Dresses,40,4
+Australia,210,T-shirts,10,4
+Australia,211,Glasses,31,4
+Australia,212,Sunglasses,20,4
+Australia,213,Tracksuit,31,4
+Australia,214,Suits,57,4
+Australia,215,Jackets,32,4
+Australia,216,Coats,35,4
+Australia,217,Ties,60,4
+Australia,218,Briefs,39,4
+Australia,219,Boxers,30,4
+Australia,220,Bow-ties,39,4
+Australia,221,Scarves,2,4
+Australia,222,Earrings,38,4
+Australia,223,Belts,27,4
+Australia,224,Wallet,16,4
+Australia,225,Cap,10,4
+Australia,226,Watch,17,4
+Brazil,200,Jeans,26,4
+Brazil,201,Underwear,33,4
+Brazil,202,Shoes,31,4
+Brazil,203,Sandals,26,4
+Brazil,204,Formal Wear,34,4
+Brazil,205,Socks,9,4
+Brazil,206,Swimwear,25,4
+Brazil,207,Kahkis,26,4
+Brazil,208,Gowns,28,4
+Brazil,209,Dresses,44,4
+Brazil,210,T-shirts,21,4
+Brazil,211,Glasses,8,4
+Brazil,212,Sunglasses,7,4
+Brazil,213,Tracksuit,38,4
+Brazil,214,Suits,20,4
+Brazil,215,Jackets,14,4
+Brazil,216,Coats,28,4
+Brazil,217,Ties,50,4
+Brazil,218,Briefs,35,4
+Brazil,219,Boxers,25,4
+Brazil,220,Bow-ties,43,4
+Brazil,221,Scarves,17,4
+Brazil,222,Earrings,14,4
+Brazil,223,Belts,13,4
+Brazil,224,Wallet,13,4
+Brazil,225,Cap,31,4
+Brazil,226,Watch,7,4
+China,200,Jeans,26,4
+China,201,Underwear,58,4
+China,202,Shoes,15,4
+China,203,Sandals,28,4
+China,204,Formal Wear,39,4
+China,205,Socks,38,4
+China,206,Swimwear,39,4
+China,207,Kahkis,38,4
+China,208,Gowns,36,4
+China,209,Dresses,24,4
+China,210,T-shirts,27,4
+China,211,Glasses,50,4
+China,212,Sunglasses,25,4
+China,213,Tracksuit,29,4
+China,214,Suits,14,4
+China,215,Jackets,30,4
+China,216,Coats,30,4
+China,217,Ties,19,4
+China,218,Briefs,25,4
+China,219,Boxers,31,4
+China,220,Bow-ties,4,4
+China,221,Scarves,38,4
+China,222,Earrings,23,4
+China,223,Belts,27,4
+China,224,Wallet,78,4
+China,225,Cap,13,4
+China,226,Watch,23,4
+France,200,Jeans,14,4
+France,201,Underwear,42,4
+France,202,Shoes,18,4
+France,203,Sandals,42,4
+France,204,Formal Wear,31,4
+France,205,Socks,26,4
+France,206,Swimwear,15,4
+France,207,Kahkis,24,4
+France,208,Gowns,39,4
+France,209,Dresses,26,4
+France,210,T-shirts,44,4
+France,211,Glasses,30,4
+France,212,Sunglasses,16,4
+France,213,Tracksuit,4,4
+France,214,Suits,44,4
+France,215,Jackets,7,4
+France,216,Coats,37,4
+France,217,Ties,33,4
+France,218,Briefs,36,4
+France,219,Boxers,38,4
+France,220,Bow-ties,21,4
+France,221,Scarves,3,4
+France,222,Earrings,45,4
+France,223,Belts,39,4
+France,224,Wallet,29,4
+France,225,Cap,14,4
+France,226,Watch,33,4
+Germany,200,Jeans,43,4
+Germany,201,Underwear,49,4
+Germany,202,Shoes,6,4
+Germany,203,Sandals,60,4
+Germany,204,Formal Wear,53,4
+Germany,205,Socks,31,4
+Germany,206,Swimwear,38,4
+Germany,207,Kahkis,1,4
+Germany,208,Gowns,47,4
+Germany,209,Dresses,34,4
+Germany,210,T-shirts,5,4
+Germany,211,Glasses,36,4
+Germany,212,Sunglasses,18,4
+Germany,213,Tracksuit,47,4
+Germany,214,Suits,20,4
+Germany,215,Jackets,32,4
+Germany,216,Coats,32,4
+Germany,217,Ties,38,4
+Germany,218,Briefs,36,4
+Germany,219,Boxers,27,4
+Germany,220,Bow-ties,33,4
+Germany,221,Scarves,39,4
+Germany,222,Earrings,32,4
+Germany,223,Belts,44,4
+Germany,224,Wallet,32,4
+Germany,225,Cap,8,4
+Germany,226,Watch,26,4
+Great Britain,200,Jeans,34,4
+Great Britain,201,Underwear,24,4
+Great Britain,202,Shoes,9,4
+Great Britain,203,Sandals,38,4
+Great Britain,204,Formal Wear,40,4
+Great Britain,205,Socks,14,4
+Great Britain,206,Swimwear,34,4
+Great Britain,207,Kahkis,34,4
+Great Britain,208,Gowns,49,4
+Great Britain,209,Dresses,21,4
+Great Britain,210,T-shirts,22,4
+Great Britain,211,Glasses,45,4
+Great Britain,212,Sunglasses,9,4
+Great Britain,213,Tracksuit,13,4
+Great Britain,214,Suits,4,4
+Great Britain,215,Jackets,30,4
+Great Britain,216,Coats,60,4
+Great Britain,217,Ties,23,4
+Great Britain,218,Briefs,48,4
+Great Britain,219,Boxers,30,4
+Great Britain,220,Bow-ties,11,4
+Great Britain,221,Scarves,11,4
+Great Britain,222,Earrings,34,4
+Great Britain,223,Belts,47,4
+Great Britain,224,Wallet,15,4
+Great Britain,225,Cap,42,4
+Great Britain,226,Watch,28,4
+India,200,Jeans,43,4
+India,201,Underwear,12,4
+India,202,Shoes,17,4
+India,203,Sandals,29,4
+India,204,Formal Wear,32,4
+India,205,Socks,54,4
+India,206,Swimwear,22,4
+India,207,Kahkis,9,4
+India,208,Gowns,40,4
+India,209,Dresses,17,4
+India,210,T-shirts,26,4
+India,211,Glasses,23,4
+India,212,Sunglasses,35,4
+India,213,Tracksuit,13,4
+India,214,Suits,43,4
+India,215,Jackets,36,4
+India,216,Coats,22,4
+India,217,Ties,10,4
+India,218,Briefs,51,4
+India,219,Boxers,17,4
+India,220,Bow-ties,17,4
+India,221,Scarves,37,4
+India,222,Earrings,26,4
+India,223,Belts,30,4
+India,224,Wallet,41,4
+India,225,Cap,40,4
+India,226,Watch,34,4
+Iran,200,Jeans,21,4
+Iran,201,Underwear,25,4
+Iran,202,Shoes,34,4
+Iran,203,Sandals,23,4
+Iran,204,Formal Wear,61,4
+Iran,205,Socks,53,4
+Iran,206,Swimwear,29,4
+Iran,207,Kahkis,50,4
+Iran,208,Gowns,11,4
+Iran,209,Dresses,62,4
+Iran,210,T-shirts,26,4
+Iran,211,Glasses,63,4
+Iran,212,Sunglasses,46,4
+Iran,213,Tracksuit,26,4
+Iran,214,Suits,19,4
+Iran,215,Jackets,38,4
+Iran,216,Coats,64,4
+Iran,217,Ties,13,4
+Iran,218,Briefs,38,4
+Iran,219,Boxers,51,4
+Iran,220,Bow-ties,29,4
+Iran,221,Scarves,30,4
+Iran,222,Earrings,11,4
+Iran,223,Belts,71,4
+Iran,224,Wallet,6,4
+Iran,225,Cap,11,4
+Iran,226,Watch,37,4
+Ireland,200,Jeans,14,4
+Ireland,201,Underwear,28,4
+Ireland,202,Shoes,11,4
+Ireland,203,Sandals,38,4
+Ireland,204,Formal Wear,10,4
+Ireland,205,Socks,61,4
+Ireland,206,Swimwear,38,4
+Ireland,207,Kahkis,27,4
+Ireland,208,Gowns,42,4
+Ireland,209,Dresses,27,4
+Ireland,210,T-shirts,23,4
+Ireland,211,Glasses,22,4
+Ireland,212,Sunglasses,36,4
+Ireland,213,Tracksuit,17,4
+Ireland,214,Suits,61,4
+Ireland,215,Jackets,47,4
+Ireland,216,Coats,47,4
+Ireland,217,Ties,61,4
+Ireland,218,Briefs,51,4
+Ireland,219,Boxers,29,4
+Ireland,220,Bow-ties,45,4
+Ireland,221,Scarves,16,4
+Ireland,222,Earrings,33,4
+Ireland,223,Belts,19,4
+Ireland,224,Wallet,20,4
+Ireland,225,Cap,45,4
+Ireland,226,Watch,15,4
+Japan,200,Jeans,35,4
+Japan,201,Underwear,36,4
+Japan,202,Shoes,21,4
+Japan,203,Sandals,35,4
+Japan,204,Formal Wear,53,4
+Japan,205,Socks,37,4
+Japan,206,Swimwear,39,4
+Japan,207,Kahkis,18,4
+Japan,208,Gowns,23,4
+Japan,209,Dresses,18,4
+Japan,210,T-shirts,32,4
+Japan,211,Glasses,23,4
+Japan,212,Sunglasses,30,4
+Japan,213,Tracksuit,35,4
+Japan,214,Suits,10,4
+Japan,215,Jackets,13,4
+Japan,216,Coats,35,4
+Japan,217,Ties,5,4
+Japan,218,Briefs,27,4
+Japan,219,Boxers,24,4
+Japan,220,Bow-ties,25,4
+Japan,221,Scarves,36,4
+Japan,222,Earrings,23,4
+Japan,223,Belts,41,4
+Japan,224,Wallet,61,4
+Japan,225,Cap,21,4
+Japan,226,Watch,19,4
+Korea,200,Jeans,5,4
+Korea,201,Underwear,20,4
+Korea,202,Shoes,9,4
+Korea,203,Sandals,16,4
+Korea,204,Formal Wear,40,4
+Korea,205,Socks,17,4
+Korea,206,Swimwear,29,4
+Korea,207,Kahkis,37,4
+Korea,208,Gowns,19,4
+Korea,209,Dresses,36,4
+Korea,210,T-shirts,26,4
+Korea,211,Glasses,39,4
+Korea,212,Sunglasses,5,4
+Korea,213,Tracksuit,15,4
+Korea,214,Suits,20,4
+Korea,215,Jackets,31,4
+Korea,216,Coats,36,4
+Korea,218,Briefs,19,4
+Korea,219,Boxers,22,4
+Korea,220,Bow-ties,27,4
+Korea,221,Scarves,16,4
+Korea,222,Earrings,42,4
+Korea,223,Belts,39,4
+Korea,224,Wallet,28,4
+Korea,225,Cap,58,4
+Korea,226,Watch,17,4
+Mexico,200,Jeans,32,4
+Mexico,201,Underwear,27,4
+Mexico,202,Shoes,22,4
+Mexico,203,Sandals,29,4
+Mexico,204,Formal Wear,14,4
+Mexico,205,Socks,27,4
+Mexico,206,Swimwear,20,4
+Mexico,207,Kahkis,63,4
+Mexico,208,Gowns,35,4
+Mexico,209,Dresses,37,4
+Mexico,210,T-shirts,31,4
+Mexico,211,Glasses,17,4
+Mexico,212,Sunglasses,20,4
+Mexico,213,Tracksuit,11,4
+Mexico,214,Suits,15,4
+Mexico,215,Jackets,3,4
+Mexico,216,Coats,19,4
+Mexico,217,Ties,35,4
+Mexico,218,Briefs,59,4
+Mexico,219,Boxers,33,4
+Mexico,220,Bow-ties,21,4
+Mexico,221,Scarves,21,4
+Mexico,222,Earrings,12,4
+Mexico,223,Belts,49,4
+Mexico,224,Wallet,25,4
+Mexico,225,Cap,50,4
+Mexico,226,Watch,26,4
+Russia,200,Jeans,49,4
+Russia,201,Underwear,25,4
+Russia,202,Shoes,38,4
+Russia,203,Sandals,22,4
+Russia,204,Formal Wear,30,4
+Russia,205,Socks,10,4
+Russia,206,Swimwear,5,4
+Russia,207,Kahkis,19,4
+Russia,208,Gowns,37,4
+Russia,209,Dresses,30,4
+Russia,210,T-shirts,19,4
+Russia,211,Glasses,1,4
+Russia,212,Sunglasses,42,4
+Russia,213,Tracksuit,24,4
+Russia,214,Suits,9,4
+Russia,215,Jackets,57,4
+Russia,216,Coats,34,4
+Russia,217,Ties,21,4
+Russia,218,Briefs,18,4
+Russia,220,Bow-ties,13,4
+Russia,221,Scarves,27,4
+Russia,222,Earrings,17,4
+Russia,223,Belts,14,4
+Russia,224,Wallet,19,4
+Russia,225,Cap,58,4
+Russia,226,Watch,20,4
+Ukraine,200,Jeans,28,4
+Ukraine,201,Underwear,34,4
+Ukraine,202,Shoes,50,4
+Ukraine,203,Sandals,34,4
+Ukraine,204,Formal Wear,48,4
+Ukraine,205,Socks,14,4
+Ukraine,206,Swimwear,4,4
+Ukraine,207,Kahkis,13,4
+Ukraine,208,Gowns,9,4
+Ukraine,209,Dresses,13,4
+Ukraine,210,T-shirts,50,4
+Ukraine,211,Glasses,28,4
+Ukraine,212,Sunglasses,43,4
+Ukraine,213,Tracksuit,45,4
+Ukraine,214,Suits,10,4
+Ukraine,215,Jackets,31,4
+Ukraine,216,Coats,49,4
+Ukraine,217,Ties,40,4
+Ukraine,218,Briefs,35,4
+Ukraine,219,Boxers,49,4
+Ukraine,220,Bow-ties,33,4
+Ukraine,221,Scarves,31,4
+Ukraine,222,Earrings,21,4
+Ukraine,223,Belts,25,4
+Ukraine,224,Wallet,35,4
+Ukraine,225,Cap,31,4
+Ukraine,226,Watch,13,4
+United States,200,Jeans,47,4
+United States,201,Underwear,34,4
+United States,202,Shoes,26,4
+United States,203,Sandals,18,4
+United States,204,Formal Wear,11,4
+United States,205,Socks,47,4
+United States,206,Swimwear,41,4
+United States,207,Kahkis,39,4
+United States,208,Gowns,25,4
+United States,209,Dresses,29,4
+United States,210,T-shirts,5,4
+United States,211,Glasses,30,4
+United States,212,Sunglasses,23,4
+United States,213,Tracksuit,16,4
+United States,214,Suits,6,4
+United States,215,Jackets,37,4
+United States,216,Coats,52,4
+United States,217,Ties,36,4
+United States,218,Briefs,14,4
+United States,219,Boxers,7,4
+United States,220,Bow-ties,31,4
+United States,221,Scarves,27,4
+United States,222,Earrings,29,4
+United States,223,Belts,31,4
+United States,224,Wallet,9,4
+United States,225,Cap,17,4
+United States,226,Watch,45,4

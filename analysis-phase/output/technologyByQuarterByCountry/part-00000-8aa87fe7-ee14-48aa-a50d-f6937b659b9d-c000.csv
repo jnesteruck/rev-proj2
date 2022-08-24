@@ -1,0 +1,1050 @@
+Australia,100,Laptops,5,1
+Australia,101,Hard Drives,14,1
+Australia,103,Microwaves,7,1
+Australia,104,Headphones,7,1
+Australia,105,Electronic Locks,3,1
+Australia,106,Drones,16,1
+Australia,107,Computers,18,1
+Australia,108,Tablets,22,1
+Australia,110,Remotes,9,1
+Australia,111,Earbuds,13,1
+Australia,112,Smart fridges,12,1
+Australia,113,Mouse,4,1
+Australia,114,Webcam,2,1
+Australia,115,USB,5,1
+Australia,116,Cables,11,1
+Australia,117,Fridges,12,1
+Australia,118,Monitors,7,1
+Australia,120,Virtual Assistant,6,1
+Brazil,101,Hard Drives,10,1
+Brazil,102,Phones,12,1
+Brazil,103,Microwaves,19,1
+Brazil,104,Headphones,13,1
+Brazil,105,Electronic Locks,13,1
+Brazil,106,Drones,12,1
+Brazil,107,Computers,13,1
+Brazil,108,Tablets,10,1
+Brazil,109,TVs,26,1
+Brazil,110,Remotes,17,1
+Brazil,111,Earbuds,16,1
+Brazil,112,Smart fridges,6,1
+Brazil,113,Mouse,16,1
+Brazil,114,Webcam,24,1
+Brazil,115,USB,4,1
+Brazil,117,Fridges,5,1
+Brazil,118,Monitors,9,1
+Brazil,120,Virtual Assistant,1,1
+China,100,Laptops,5,1
+China,102,Phones,15,1
+China,103,Microwaves,37,1
+China,105,Electronic Locks,18,1
+China,106,Drones,5,1
+China,107,Computers,15,1
+China,108,Tablets,10,1
+China,109,TVs,1,1
+China,111,Earbuds,12,1
+China,112,Smart fridges,17,1
+China,113,Mouse,9,1
+China,114,Webcam,3,1
+China,115,USB,3,1
+China,116,Cables,2,1
+China,118,Monitors,8,1
+China,120,Virtual Assistant,10,1
+France,100,Laptops,2,1
+France,101,Hard Drives,3,1
+France,102,Phones,17,1
+France,103,Microwaves,34,1
+France,104,Headphones,5,1
+France,105,Electronic Locks,10,1
+France,106,Drones,6,1
+France,107,Computers,15,1
+France,108,Tablets,5,1
+France,109,TVs,24,1
+France,110,Remotes,12,1
+France,111,Earbuds,33,1
+France,113,Mouse,9,1
+France,114,Webcam,13,1
+France,115,USB,9,1
+France,116,Cables,7,1
+France,117,Fridges,12,1
+France,120,Virtual Assistant,10,1
+Germany,100,Laptops,15,1
+Germany,101,Hard Drives,3,1
+Germany,102,Phones,17,1
+Germany,103,Microwaves,18,1
+Germany,104,Headphones,6,1
+Germany,105,Electronic Locks,15,1
+Germany,108,Tablets,19,1
+Germany,109,TVs,16,1
+Germany,110,Remotes,12,1
+Germany,111,Earbuds,15,1
+Germany,113,Mouse,11,1
+Germany,114,Webcam,16,1
+Germany,115,USB,4,1
+Germany,116,Cables,9,1
+Germany,117,Fridges,10,1
+Germany,118,Monitors,11,1
+Germany,120,Virtual Assistant,10,1
+Great Britain,100,Laptops,19,1
+Great Britain,101,Hard Drives,25,1
+Great Britain,102,Phones,32,1
+Great Britain,103,Microwaves,14,1
+Great Britain,105,Electronic Locks,10,1
+Great Britain,106,Drones,2,1
+Great Britain,107,Computers,15,1
+Great Britain,108,Tablets,14,1
+Great Britain,109,TVs,8,1
+Great Britain,110,Remotes,11,1
+Great Britain,111,Earbuds,14,1
+Great Britain,112,Smart fridges,21,1
+Great Britain,113,Mouse,4,1
+Great Britain,114,Webcam,15,1
+Great Britain,115,USB,13,1
+Great Britain,116,Cables,11,1
+Great Britain,120,Virtual Assistant,3,1
+India,100,Laptops,4,1
+India,101,Hard Drives,2,1
+India,102,Phones,9,1
+India,103,Microwaves,50,1
+India,104,Headphones,5,1
+India,108,Tablets,25,1
+India,109,TVs,9,1
+India,110,Remotes,4,1
+India,111,Earbuds,16,1
+India,112,Smart fridges,11,1
+India,113,Mouse,3,1
+India,115,USB,2,1
+India,116,Cables,9,1
+India,118,Monitors,10,1
+India,120,Virtual Assistant,4,1
+Iran,101,Hard Drives,10,1
+Iran,102,Phones,6,1
+Iran,103,Microwaves,6,1
+Iran,104,Headphones,19,1
+Iran,105,Electronic Locks,34,1
+Iran,106,Drones,11,1
+Iran,107,Computers,4,1
+Iran,108,Tablets,25,1
+Iran,109,TVs,16,1
+Iran,110,Remotes,12,1
+Iran,111,Earbuds,4,1
+Iran,112,Smart fridges,9,1
+Iran,113,Mouse,14,1
+Iran,114,Webcam,7,1
+Iran,115,USB,12,1
+Iran,116,Cables,41,1
+Iran,118,Monitors,10,1
+Iran,120,Virtual Assistant,8,1
+Ireland,100,Laptops,15,1
+Ireland,101,Hard Drives,29,1
+Ireland,102,Phones,1,1
+Ireland,103,Microwaves,27,1
+Ireland,104,Headphones,10,1
+Ireland,105,Electronic Locks,22,1
+Ireland,106,Drones,19,1
+Ireland,107,Computers,20,1
+Ireland,109,TVs,9,1
+Ireland,112,Smart fridges,15,1
+Ireland,113,Mouse,1,1
+Ireland,114,Webcam,6,1
+Ireland,115,USB,14,1
+Ireland,116,Cables,23,1
+Ireland,117,Fridges,5,1
+Ireland,118,Monitors,7,1
+Ireland,120,Virtual Assistant,18,1
+Japan,100,Laptops,7,1
+Japan,101,Hard Drives,19,1
+Japan,103,Microwaves,18,1
+Japan,104,Headphones,7,1
+Japan,105,Electronic Locks,12,1
+Japan,106,Drones,1,1
+Japan,107,Computers,3,1
+Japan,108,Tablets,5,1
+Japan,109,TVs,15,1
+Japan,110,Remotes,29,1
+Japan,112,Smart fridges,14,1
+Japan,113,Mouse,9,1
+Japan,114,Webcam,13,1
+Japan,115,USB,10,1
+Japan,116,Cables,6,1
+Japan,117,Fridges,3,1
+Japan,118,Monitors,27,1
+Korea,101,Hard Drives,17,1
+Korea,102,Phones,15,1
+Korea,103,Microwaves,19,1
+Korea,104,Headphones,4,1
+Korea,105,Electronic Locks,22,1
+Korea,106,Drones,8,1
+Korea,107,Computers,4,1
+Korea,108,Tablets,2,1
+Korea,109,TVs,22,1
+Korea,110,Remotes,17,1
+Korea,112,Smart fridges,13,1
+Korea,113,Mouse,34,1
+Korea,114,Webcam,8,1
+Korea,115,USB,32,1
+Korea,116,Cables,14,1
+Korea,117,Fridges,11,1
+Korea,118,Monitors,8,1
+Mexico,101,Hard Drives,14,1
+Mexico,102,Phones,13,1
+Mexico,103,Microwaves,43,1
+Mexico,104,Headphones,2,1
+Mexico,107,Computers,1,1
+Mexico,108,Tablets,10,1
+Mexico,109,TVs,20,1
+Mexico,110,Remotes,3,1
+Mexico,111,Earbuds,14,1
+Mexico,112,Smart fridges,4,1
+Mexico,113,Mouse,9,1
+Mexico,115,USB,7,1
+Mexico,116,Cables,42,1
+Mexico,118,Monitors,3,1
+Mexico,120,Virtual Assistant,3,1
+Russia,100,Laptops,25,1
+Russia,101,Hard Drives,31,1
+Russia,102,Phones,10,1
+Russia,103,Microwaves,26,1
+Russia,104,Headphones,26,1
+Russia,106,Drones,17,1
+Russia,107,Computers,14,1
+Russia,108,Tablets,10,1
+Russia,109,TVs,5,1
+Russia,110,Remotes,15,1
+Russia,111,Earbuds,12,1
+Russia,112,Smart fridges,9,1
+Russia,113,Mouse,16,1
+Russia,114,Webcam,4,1
+Russia,115,USB,11,1
+Russia,118,Monitors,12,1
+Russia,120,Virtual Assistant,22,1
+Ukraine,101,Hard Drives,2,1
+Ukraine,102,Phones,17,1
+Ukraine,103,Microwaves,19,1
+Ukraine,104,Headphones,16,1
+Ukraine,105,Electronic Locks,4,1
+Ukraine,106,Drones,23,1
+Ukraine,107,Computers,25,1
+Ukraine,108,Tablets,3,1
+Ukraine,109,TVs,13,1
+Ukraine,110,Remotes,9,1
+Ukraine,111,Earbuds,12,1
+Ukraine,112,Smart fridges,23,1
+Ukraine,113,Mouse,9,1
+Ukraine,114,Webcam,7,1
+Ukraine,115,USB,15,1
+Ukraine,116,Cables,2,1
+Ukraine,117,Fridges,22,1
+Ukraine,118,Monitors,26,1
+Ukraine,120,Virtual Assistant,10,1
+United States,100,Laptops,8,1
+United States,102,Phones,16,1
+United States,103,Microwaves,34,1
+United States,104,Headphones,10,1
+United States,105,Electronic Locks,9,1
+United States,107,Computers,27,1
+United States,108,Tablets,6,1
+United States,109,TVs,7,1
+United States,110,Remotes,22,1
+United States,112,Smart fridges,15,1
+United States,113,Mouse,15,1
+United States,116,Cables,1,1
+United States,117,Fridges,6,1
+United States,118,Monitors,11,1
+United States,120,Virtual Assistant,30,1
+Australia,100,Laptops,15,2
+Australia,101,Hard Drives,5,2
+Australia,103,Microwaves,29,2
+Australia,104,Headphones,11,2
+Australia,105,Electronic Locks,7,2
+Australia,106,Drones,12,2
+Australia,107,Computers,14,2
+Australia,108,Tablets,12,2
+Australia,110,Remotes,14,2
+Australia,111,Earbuds,3,2
+Australia,113,Mouse,10,2
+Australia,114,Webcam,9,2
+Australia,117,Fridges,9,2
+Australia,118,Monitors,15,2
+Australia,120,Virtual Assistant,2,2
+Brazil,100,Laptops,3,2
+Brazil,101,Hard Drives,24,2
+Brazil,102,Phones,1,2
+Brazil,103,Microwaves,7,2
+Brazil,104,Headphones,4,2
+Brazil,105,Electronic Locks,6,2
+Brazil,106,Drones,7,2
+Brazil,107,Computers,1,2
+Brazil,108,Tablets,12,2
+Brazil,109,TVs,22,2
+Brazil,110,Remotes,10,2
+Brazil,111,Earbuds,7,2
+Brazil,114,Webcam,15,2
+Brazil,115,USB,9,2
+Brazil,116,Cables,16,2
+Brazil,117,Fridges,2,2
+Brazil,118,Monitors,17,2
+Brazil,120,Virtual Assistant,8,2
+China,100,Laptops,15,2
+China,101,Hard Drives,13,2
+China,102,Phones,7,2
+China,103,Microwaves,14,2
+China,104,Headphones,13,2
+China,105,Electronic Locks,7,2
+China,106,Drones,4,2
+China,108,Tablets,24,2
+China,109,TVs,10,2
+China,111,Earbuds,19,2
+China,113,Mouse,9,2
+China,114,Webcam,4,2
+China,115,USB,9,2
+China,118,Monitors,17,2
+China,120,Virtual Assistant,10,2
+France,100,Laptops,3,2
+France,101,Hard Drives,10,2
+France,102,Phones,25,2
+France,103,Microwaves,5,2
+France,104,Headphones,8,2
+France,105,Electronic Locks,12,2
+France,106,Drones,21,2
+France,107,Computers,8,2
+France,108,Tablets,8,2
+France,109,TVs,12,2
+France,110,Remotes,5,2
+France,111,Earbuds,6,2
+France,112,Smart fridges,23,2
+France,113,Mouse,2,2
+France,114,Webcam,2,2
+France,116,Cables,5,2
+France,117,Fridges,34,2
+France,118,Monitors,23,2
+France,120,Virtual Assistant,9,2
+Germany,100,Laptops,10,2
+Germany,101,Hard Drives,12,2
+Germany,102,Phones,16,2
+Germany,103,Microwaves,30,2
+Germany,104,Headphones,14,2
+Germany,105,Electronic Locks,11,2
+Germany,106,Drones,6,2
+Germany,107,Computers,14,2
+Germany,108,Tablets,1,2
+Germany,109,TVs,2,2
+Germany,110,Remotes,5,2
+Germany,111,Earbuds,14,2
+Germany,113,Mouse,7,2
+Germany,114,Webcam,10,2
+Germany,116,Cables,1,2
+Germany,117,Fridges,18,2
+Germany,120,Virtual Assistant,9,2
+Great Britain,100,Laptops,6,2
+Great Britain,101,Hard Drives,12,2
+Great Britain,102,Phones,18,2
+Great Britain,103,Microwaves,15,2
+Great Britain,104,Headphones,14,2
+Great Britain,105,Electronic Locks,15,2
+Great Britain,106,Drones,10,2
+Great Britain,107,Computers,10,2
+Great Britain,108,Tablets,19,2
+Great Britain,111,Earbuds,20,2
+Great Britain,112,Smart fridges,20,2
+Great Britain,113,Mouse,15,2
+Great Britain,114,Webcam,26,2
+Great Britain,116,Cables,9,2
+Great Britain,117,Fridges,20,2
+Great Britain,118,Monitors,9,2
+Great Britain,120,Virtual Assistant,10,2
+India,100,Laptops,11,2
+India,102,Phones,17,2
+India,103,Microwaves,8,2
+India,104,Headphones,25,2
+India,106,Drones,22,2
+India,107,Computers,15,2
+India,108,Tablets,12,2
+India,109,TVs,4,2
+India,110,Remotes,9,2
+India,111,Earbuds,15,2
+India,112,Smart fridges,12,2
+India,113,Mouse,18,2
+India,115,USB,2,2
+India,116,Cables,12,2
+India,117,Fridges,1,2
+India,118,Monitors,17,2
+India,120,Virtual Assistant,10,2
+Iran,100,Laptops,22,2
+Iran,101,Hard Drives,8,2
+Iran,103,Microwaves,12,2
+Iran,104,Headphones,14,2
+Iran,105,Electronic Locks,7,2
+Iran,106,Drones,9,2
+Iran,109,TVs,6,2
+Iran,110,Remotes,29,2
+Iran,111,Earbuds,7,2
+Iran,112,Smart fridges,9,2
+Iran,113,Mouse,2,2
+Iran,114,Webcam,19,2
+Iran,115,USB,10,2
+Iran,117,Fridges,6,2
+Iran,118,Monitors,22,2
+Iran,120,Virtual Assistant,9,2
+Ireland,101,Hard Drives,18,2
+Ireland,102,Phones,5,2
+Ireland,103,Microwaves,12,2
+Ireland,104,Headphones,4,2
+Ireland,105,Electronic Locks,8,2
+Ireland,106,Drones,13,2
+Ireland,107,Computers,8,2
+Ireland,108,Tablets,10,2
+Ireland,111,Earbuds,4,2
+Ireland,112,Smart fridges,10,2
+Ireland,113,Mouse,4,2
+Ireland,114,Webcam,8,2
+Ireland,115,USB,15,2
+Ireland,116,Cables,2,2
+Ireland,117,Fridges,9,2
+Ireland,120,Virtual Assistant,22,2
+Japan,100,Laptops,6,2
+Japan,101,Hard Drives,11,2
+Japan,102,Phones,5,2
+Japan,103,Microwaves,16,2
+Japan,105,Electronic Locks,1,2
+Japan,106,Drones,10,2
+Japan,107,Computers,14,2
+Japan,109,TVs,24,2
+Japan,110,Remotes,8,2
+Japan,112,Smart fridges,5,2
+Japan,113,Mouse,24,2
+Japan,114,Webcam,16,2
+Japan,115,USB,9,2
+Japan,116,Cables,11,2
+Japan,117,Fridges,16,2
+Japan,118,Monitors,4,2
+Japan,120,Virtual Assistant,12,2
+Korea,100,Laptops,14,2
+Korea,101,Hard Drives,5,2
+Korea,102,Phones,5,2
+Korea,103,Microwaves,19,2
+Korea,104,Headphones,5,2
+Korea,105,Electronic Locks,18,2
+Korea,107,Computers,12,2
+Korea,108,Tablets,10,2
+Korea,109,TVs,12,2
+Korea,110,Remotes,11,2
+Korea,111,Earbuds,12,2
+Korea,112,Smart fridges,6,2
+Korea,113,Mouse,14,2
+Korea,114,Webcam,13,2
+Korea,116,Cables,16,2
+Korea,117,Fridges,12,2
+Korea,118,Monitors,6,2
+Korea,120,Virtual Assistant,31,2
+Mexico,102,Phones,4,2
+Mexico,103,Microwaves,16,2
+Mexico,104,Headphones,8,2
+Mexico,106,Drones,13,2
+Mexico,109,TVs,2,2
+Mexico,110,Remotes,10,2
+Mexico,111,Earbuds,19,2
+Mexico,112,Smart fridges,6,2
+Mexico,113,Mouse,17,2
+Mexico,114,Webcam,7,2
+Mexico,115,USB,13,2
+Mexico,116,Cables,8,2
+Mexico,120,Virtual Assistant,6,2
+Russia,100,Laptops,8,2
+Russia,101,Hard Drives,13,2
+Russia,102,Phones,5,2
+Russia,103,Microwaves,35,2
+Russia,104,Headphones,9,2
+Russia,105,Electronic Locks,30,2
+Russia,107,Computers,24,2
+Russia,108,Tablets,5,2
+Russia,109,TVs,3,2
+Russia,110,Remotes,7,2
+Russia,111,Earbuds,5,2
+Russia,112,Smart fridges,8,2
+Russia,114,Webcam,8,2
+Russia,116,Cables,1,2
+Russia,117,Fridges,10,2
+Russia,118,Monitors,20,2
+Ukraine,100,Laptops,17,2
+Ukraine,101,Hard Drives,11,2
+Ukraine,102,Phones,13,2
+Ukraine,103,Microwaves,8,2
+Ukraine,104,Headphones,4,2
+Ukraine,107,Computers,18,2
+Ukraine,108,Tablets,9,2
+Ukraine,109,TVs,22,2
+Ukraine,110,Remotes,17,2
+Ukraine,112,Smart fridges,10,2
+Ukraine,113,Mouse,14,2
+Ukraine,114,Webcam,16,2
+Ukraine,115,USB,17,2
+Ukraine,120,Virtual Assistant,18,2
+United States,100,Laptops,4,2
+United States,101,Hard Drives,7,2
+United States,102,Phones,5,2
+United States,103,Microwaves,11,2
+United States,105,Electronic Locks,16,2
+United States,106,Drones,14,2
+United States,107,Computers,3,2
+United States,108,Tablets,7,2
+United States,109,TVs,29,2
+United States,111,Earbuds,9,2
+United States,112,Smart fridges,6,2
+United States,113,Mouse,23,2
+United States,114,Webcam,9,2
+United States,116,Cables,26,2
+United States,118,Monitors,20,2
+United States,120,Virtual Assistant,2,2
+Australia,100,Laptops,7,3
+Australia,101,Hard Drives,6,3
+Australia,102,Phones,28,3
+Australia,103,Microwaves,18,3
+Australia,104,Headphones,18,3
+Australia,105,Electronic Locks,9,3
+Australia,106,Drones,9,3
+Australia,107,Computers,21,3
+Australia,108,Tablets,27,3
+Australia,110,Remotes,2,3
+Australia,111,Earbuds,16,3
+Australia,112,Smart fridges,20,3
+Australia,114,Webcam,17,3
+Australia,115,USB,16,3
+Australia,116,Cables,13,3
+Australia,117,Fridges,22,3
+Australia,118,Monitors,8,3
+Australia,120,Virtual Assistant,5,3
+Brazil,100,Laptops,5,3
+Brazil,101,Hard Drives,24,3
+Brazil,102,Phones,6,3
+Brazil,103,Microwaves,4,3
+Brazil,105,Electronic Locks,11,3
+Brazil,106,Drones,6,3
+Brazil,107,Computers,4,3
+Brazil,108,Tablets,10,3
+Brazil,109,TVs,5,3
+Brazil,110,Remotes,13,3
+Brazil,112,Smart fridges,10,3
+Brazil,113,Mouse,15,3
+Brazil,114,Webcam,3,3
+Brazil,115,USB,38,3
+Brazil,117,Fridges,17,3
+Brazil,118,Monitors,14,3
+China,100,Laptops,1,3
+China,101,Hard Drives,13,3
+China,102,Phones,3,3
+China,103,Microwaves,34,3
+China,104,Headphones,2,3
+China,106,Drones,6,3
+China,107,Computers,6,3
+China,108,Tablets,2,3
+China,109,TVs,7,3
+China,111,Earbuds,2,3
+China,112,Smart fridges,23,3
+China,113,Mouse,2,3
+China,115,USB,7,3
+China,116,Cables,18,3
+China,117,Fridges,4,3
+China,120,Virtual Assistant,10,3
+France,100,Laptops,5,3
+France,102,Phones,12,3
+France,103,Microwaves,1,3
+France,104,Headphones,1,3
+France,105,Electronic Locks,1,3
+France,106,Drones,2,3
+France,107,Computers,8,3
+France,108,Tablets,10,3
+France,109,TVs,6,3
+France,110,Remotes,15,3
+France,111,Earbuds,12,3
+France,112,Smart fridges,9,3
+France,114,Webcam,2,3
+France,115,USB,11,3
+France,116,Cables,4,3
+France,117,Fridges,7,3
+France,118,Monitors,9,3
+France,120,Virtual Assistant,10,3
+Germany,100,Laptops,9,3
+Germany,101,Hard Drives,13,3
+Germany,102,Phones,11,3
+Germany,103,Microwaves,14,3
+Germany,104,Headphones,24,3
+Germany,105,Electronic Locks,17,3
+Germany,107,Computers,8,3
+Germany,108,Tablets,16,3
+Germany,109,TVs,13,3
+Germany,110,Remotes,10,3
+Germany,111,Earbuds,15,3
+Germany,112,Smart fridges,11,3
+Germany,113,Mouse,12,3
+Germany,114,Webcam,18,3
+Germany,115,USB,9,3
+Germany,116,Cables,3,3
+Germany,117,Fridges,32,3
+Germany,118,Monitors,8,3
+Germany,120,Virtual Assistant,3,3
+Great Britain,100,Laptops,5,3
+Great Britain,101,Hard Drives,16,3
+Great Britain,102,Phones,8,3
+Great Britain,103,Microwaves,5,3
+Great Britain,104,Headphones,10,3
+Great Britain,106,Drones,12,3
+Great Britain,107,Computers,27,3
+Great Britain,108,Tablets,6,3
+Great Britain,109,TVs,20,3
+Great Britain,110,Remotes,13,3
+Great Britain,111,Earbuds,7,3
+Great Britain,112,Smart fridges,2,3
+Great Britain,114,Webcam,9,3
+Great Britain,115,USB,5,3
+Great Britain,116,Cables,22,3
+Great Britain,118,Monitors,8,3
+Great Britain,120,Virtual Assistant,19,3
+India,102,Phones,1,3
+India,105,Electronic Locks,24,3
+India,106,Drones,2,3
+India,107,Computers,23,3
+India,108,Tablets,17,3
+India,109,TVs,10,3
+India,110,Remotes,9,3
+India,111,Earbuds,4,3
+India,112,Smart fridges,6,3
+India,113,Mouse,18,3
+India,115,USB,14,3
+India,116,Cables,9,3
+India,117,Fridges,13,3
+India,118,Monitors,6,3
+India,120,Virtual Assistant,4,3
+Iran,100,Laptops,10,3
+Iran,102,Phones,16,3
+Iran,103,Microwaves,13,3
+Iran,104,Headphones,5,3
+Iran,105,Electronic Locks,7,3
+Iran,106,Drones,7,3
+Iran,107,Computers,12,3
+Iran,109,TVs,16,3
+Iran,112,Smart fridges,3,3
+Iran,113,Mouse,19,3
+Iran,114,Webcam,12,3
+Iran,115,USB,3,3
+Iran,116,Cables,2,3
+Iran,117,Fridges,29,3
+Iran,118,Monitors,8,3
+Iran,120,Virtual Assistant,11,3
+Ireland,100,Laptops,9,3
+Ireland,102,Phones,8,3
+Ireland,103,Microwaves,14,3
+Ireland,104,Headphones,4,3
+Ireland,105,Electronic Locks,4,3
+Ireland,106,Drones,22,3
+Ireland,107,Computers,2,3
+Ireland,108,Tablets,5,3
+Ireland,109,TVs,6,3
+Ireland,110,Remotes,16,3
+Ireland,111,Earbuds,11,3
+Ireland,112,Smart fridges,22,3
+Ireland,113,Mouse,6,3
+Ireland,114,Webcam,11,3
+Ireland,115,USB,4,3
+Ireland,116,Cables,12,3
+Ireland,117,Fridges,16,3
+Ireland,118,Monitors,10,3
+Ireland,120,Virtual Assistant,5,3
+Japan,100,Laptops,12,3
+Japan,101,Hard Drives,6,3
+Japan,103,Microwaves,16,3
+Japan,104,Headphones,17,3
+Japan,105,Electronic Locks,17,3
+Japan,106,Drones,11,3
+Japan,107,Computers,21,3
+Japan,108,Tablets,11,3
+Japan,109,TVs,8,3
+Japan,111,Earbuds,3,3
+Japan,114,Webcam,17,3
+Japan,115,USB,2,3
+Japan,117,Fridges,5,3
+Japan,120,Virtual Assistant,18,3
+Korea,100,Laptops,20,3
+Korea,101,Hard Drives,17,3
+Korea,102,Phones,14,3
+Korea,103,Microwaves,24,3
+Korea,104,Headphones,1,3
+Korea,105,Electronic Locks,21,3
+Korea,106,Drones,10,3
+Korea,107,Computers,5,3
+Korea,108,Tablets,14,3
+Korea,109,TVs,5,3
+Korea,111,Earbuds,9,3
+Korea,112,Smart fridges,18,3
+Korea,113,Mouse,12,3
+Korea,114,Webcam,4,3
+Korea,115,USB,1,3
+Korea,116,Cables,9,3
+Korea,117,Fridges,9,3
+Korea,118,Monitors,4,3
+Korea,120,Virtual Assistant,18,3
+Mexico,100,Laptops,7,3
+Mexico,101,Hard Drives,1,3
+Mexico,102,Phones,29,3
+Mexico,103,Microwaves,11,3
+Mexico,104,Headphones,3,3
+Mexico,105,Electronic Locks,9,3
+Mexico,106,Drones,19,3
+Mexico,107,Computers,1,3
+Mexico,108,Tablets,29,3
+Mexico,110,Remotes,11,3
+Mexico,111,Earbuds,18,3
+Mexico,112,Smart fridges,15,3
+Mexico,113,Mouse,13,3
+Mexico,114,Webcam,4,3
+Mexico,115,USB,17,3
+Mexico,116,Cables,5,3
+Mexico,117,Fridges,16,3
+Mexico,118,Monitors,31,3
+Mexico,120,Virtual Assistant,19,3
+Russia,100,Laptops,12,3
+Russia,102,Phones,7,3
+Russia,103,Microwaves,21,3
+Russia,104,Headphones,28,3
+Russia,105,Electronic Locks,9,3
+Russia,106,Drones,8,3
+Russia,107,Computers,11,3
+Russia,110,Remotes,1,3
+Russia,111,Earbuds,5,3
+Russia,112,Smart fridges,7,3
+Russia,114,Webcam,2,3
+Russia,115,USB,18,3
+Russia,116,Cables,11,3
+Russia,117,Fridges,3,3
+Russia,118,Monitors,12,3
+Russia,120,Virtual Assistant,7,3
+Ukraine,100,Laptops,3,3
+Ukraine,101,Hard Drives,12,3
+Ukraine,102,Phones,6,3
+Ukraine,103,Microwaves,22,3
+Ukraine,105,Electronic Locks,11,3
+Ukraine,108,Tablets,23,3
+Ukraine,109,TVs,13,3
+Ukraine,110,Remotes,26,3
+Ukraine,111,Earbuds,3,3
+Ukraine,112,Smart fridges,9,3
+Ukraine,113,Mouse,16,3
+Ukraine,114,Webcam,25,3
+Ukraine,115,USB,11,3
+Ukraine,120,Virtual Assistant,8,3
+United States,100,Laptops,2,3
+United States,101,Hard Drives,19,3
+United States,102,Phones,17,3
+United States,103,Microwaves,19,3
+United States,104,Headphones,12,3
+United States,105,Electronic Locks,18,3
+United States,107,Computers,10,3
+United States,108,Tablets,8,3
+United States,109,TVs,18,3
+United States,110,Remotes,5,3
+United States,112,Smart fridges,5,3
+United States,113,Mouse,10,3
+United States,114,Webcam,4,3
+United States,115,USB,16,3
+United States,116,Cables,12,3
+United States,117,Fridges,7,3
+United States,118,Monitors,6,3
+Australia,100,Laptops,26,4
+Australia,101,Hard Drives,43,4
+Australia,102,Phones,41,4
+Australia,103,Microwaves,88,4
+Australia,104,Headphones,20,4
+Australia,105,Electronic Locks,33,4
+Australia,106,Drones,74,4
+Australia,107,Computers,20,4
+Australia,108,Tablets,18,4
+Australia,109,TVs,22,4
+Australia,110,Remotes,28,4
+Australia,111,Earbuds,59,4
+Australia,112,Smart fridges,38,4
+Australia,113,Mouse,61,4
+Australia,114,Webcam,52,4
+Australia,115,USB,17,4
+Australia,116,Cables,31,4
+Australia,117,Fridges,29,4
+Australia,118,Monitors,43,4
+Australia,120,Virtual Assistant,26,4
+Brazil,100,Laptops,33,4
+Brazil,101,Hard Drives,37,4
+Brazil,102,Phones,31,4
+Brazil,103,Microwaves,38,4
+Brazil,104,Headphones,45,4
+Brazil,105,Electronic Locks,38,4
+Brazil,106,Drones,40,4
+Brazil,107,Computers,26,4
+Brazil,108,Tablets,28,4
+Brazil,109,TVs,51,4
+Brazil,110,Remotes,35,4
+Brazil,111,Earbuds,16,4
+Brazil,112,Smart fridges,37,4
+Brazil,113,Mouse,27,4
+Brazil,114,Webcam,33,4
+Brazil,115,USB,35,4
+Brazil,116,Cables,60,4
+Brazil,117,Fridges,21,4
+Brazil,118,Monitors,35,4
+Brazil,120,Virtual Assistant,26,4
+China,100,Laptops,60,4
+China,101,Hard Drives,18,4
+China,102,Phones,37,4
+China,103,Microwaves,57,4
+China,104,Headphones,52,4
+China,105,Electronic Locks,58,4
+China,106,Drones,40,4
+China,107,Computers,34,4
+China,108,Tablets,29,4
+China,109,TVs,52,4
+China,110,Remotes,15,4
+China,111,Earbuds,36,4
+China,112,Smart fridges,43,4
+China,113,Mouse,71,4
+China,114,Webcam,66,4
+China,115,USB,41,4
+China,116,Cables,33,4
+China,117,Fridges,35,4
+China,118,Monitors,41,4
+China,120,Virtual Assistant,23,4
+France,100,Laptops,5,4
+France,101,Hard Drives,31,4
+France,102,Phones,51,4
+France,103,Microwaves,72,4
+France,104,Headphones,51,4
+France,105,Electronic Locks,85,4
+France,106,Drones,25,4
+France,107,Computers,43,4
+France,108,Tablets,19,4
+France,109,TVs,18,4
+France,110,Remotes,39,4
+France,111,Earbuds,34,4
+France,112,Smart fridges,37,4
+France,113,Mouse,20,4
+France,114,Webcam,23,4
+France,115,USB,24,4
+France,116,Cables,26,4
+France,117,Fridges,32,4
+France,118,Monitors,47,4
+France,120,Virtual Assistant,52,4
+Germany,100,Laptops,40,4
+Germany,101,Hard Drives,50,4
+Germany,102,Phones,10,4
+Germany,103,Microwaves,49,4
+Germany,104,Headphones,48,4
+Germany,105,Electronic Locks,67,4
+Germany,106,Drones,61,4
+Germany,107,Computers,35,4
+Germany,108,Tablets,41,4
+Germany,109,TVs,62,4
+Germany,110,Remotes,57,4
+Germany,111,Earbuds,44,4
+Germany,112,Smart fridges,19,4
+Germany,113,Mouse,22,4
+Germany,114,Webcam,30,4
+Germany,115,USB,28,4
+Germany,116,Cables,67,4
+Germany,117,Fridges,70,4
+Germany,118,Monitors,38,4
+Germany,120,Virtual Assistant,24,4
+Great Britain,100,Laptops,17,4
+Great Britain,101,Hard Drives,32,4
+Great Britain,102,Phones,64,4
+Great Britain,103,Microwaves,79,4
+Great Britain,104,Headphones,54,4
+Great Britain,105,Electronic Locks,39,4
+Great Britain,106,Drones,62,4
+Great Britain,107,Computers,35,4
+Great Britain,108,Tablets,60,4
+Great Britain,109,TVs,33,4
+Great Britain,110,Remotes,8,4
+Great Britain,111,Earbuds,31,4
+Great Britain,112,Smart fridges,42,4
+Great Britain,113,Mouse,21,4
+Great Britain,114,Webcam,47,4
+Great Britain,115,USB,48,4
+Great Britain,116,Cables,31,4
+Great Britain,117,Fridges,36,4
+Great Britain,118,Monitors,48,4
+Great Britain,120,Virtual Assistant,44,4
+India,100,Laptops,34,4
+India,101,Hard Drives,14,4
+India,102,Phones,45,4
+India,103,Microwaves,63,4
+India,104,Headphones,22,4
+India,105,Electronic Locks,57,4
+India,106,Drones,37,4
+India,107,Computers,10,4
+India,108,Tablets,49,4
+India,109,TVs,58,4
+India,110,Remotes,49,4
+India,111,Earbuds,53,4
+India,112,Smart fridges,34,4
+India,113,Mouse,25,4
+India,114,Webcam,70,4
+India,115,USB,11,4
+India,116,Cables,83,4
+India,117,Fridges,34,4
+India,118,Monitors,51,4
+India,120,Virtual Assistant,29,4
+Iran,100,Laptops,26,4
+Iran,101,Hard Drives,76,4
+Iran,102,Phones,17,4
+Iran,103,Microwaves,80,4
+Iran,104,Headphones,55,4
+Iran,105,Electronic Locks,15,4
+Iran,106,Drones,37,4
+Iran,107,Computers,36,4
+Iran,108,Tablets,36,4
+Iran,109,TVs,73,4
+Iran,110,Remotes,44,4
+Iran,111,Earbuds,7,4
+Iran,112,Smart fridges,35,4
+Iran,113,Mouse,41,4
+Iran,114,Webcam,32,4
+Iran,115,USB,31,4
+Iran,116,Cables,29,4
+Iran,117,Fridges,22,4
+Iran,118,Monitors,37,4
+Iran,120,Virtual Assistant,23,4
+Ireland,100,Laptops,41,4
+Ireland,101,Hard Drives,70,4
+Ireland,102,Phones,8,4
+Ireland,103,Microwaves,90,4
+Ireland,104,Headphones,45,4
+Ireland,105,Electronic Locks,51,4
+Ireland,106,Drones,22,4
+Ireland,107,Computers,25,4
+Ireland,108,Tablets,47,4
+Ireland,109,TVs,58,4
+Ireland,110,Remotes,9,4
+Ireland,111,Earbuds,43,4
+Ireland,112,Smart fridges,42,4
+Ireland,113,Mouse,23,4
+Ireland,114,Webcam,36,4
+Ireland,115,USB,17,4
+Ireland,116,Cables,17,4
+Ireland,117,Fridges,30,4
+Ireland,118,Monitors,37,4
+Ireland,120,Virtual Assistant,36,4
+Japan,100,Laptops,42,4
+Japan,101,Hard Drives,54,4
+Japan,102,Phones,45,4
+Japan,103,Microwaves,89,4
+Japan,104,Headphones,69,4
+Japan,105,Electronic Locks,8,4
+Japan,106,Drones,18,4
+Japan,107,Computers,29,4
+Japan,108,Tablets,46,4
+Japan,109,TVs,56,4
+Japan,110,Remotes,39,4
+Japan,111,Earbuds,25,4
+Japan,112,Smart fridges,36,4
+Japan,113,Mouse,33,4
+Japan,114,Webcam,68,4
+Japan,115,USB,46,4
+Japan,116,Cables,22,4
+Japan,117,Fridges,13,4
+Japan,118,Monitors,31,4
+Japan,120,Virtual Assistant,46,4
+Korea,100,Laptops,42,4
+Korea,101,Hard Drives,66,4
+Korea,102,Phones,49,4
+Korea,103,Microwaves,42,4
+Korea,104,Headphones,52,4
+Korea,105,Electronic Locks,55,4
+Korea,106,Drones,52,4
+Korea,107,Computers,35,4
+Korea,108,Tablets,23,4
+Korea,109,TVs,17,4
+Korea,110,Remotes,43,4
+Korea,111,Earbuds,47,4
+Korea,112,Smart fridges,34,4
+Korea,113,Mouse,36,4
+Korea,114,Webcam,22,4
+Korea,115,USB,88,4
+Korea,116,Cables,39,4
+Korea,117,Fridges,59,4
+Korea,118,Monitors,14,4
+Korea,120,Virtual Assistant,46,4
+Mexico,100,Laptops,76,4
+Mexico,101,Hard Drives,56,4
+Mexico,103,Microwaves,64,4
+Mexico,104,Headphones,52,4
+Mexico,105,Electronic Locks,83,4
+Mexico,106,Drones,33,4
+Mexico,107,Computers,59,4
+Mexico,108,Tablets,68,4
+Mexico,109,TVs,35,4
+Mexico,110,Remotes,25,4
+Mexico,111,Earbuds,31,4
+Mexico,112,Smart fridges,47,4
+Mexico,113,Mouse,45,4
+Mexico,114,Webcam,30,4
+Mexico,115,USB,18,4
+Mexico,116,Cables,31,4
+Mexico,117,Fridges,53,4
+Mexico,118,Monitors,13,4
+Mexico,120,Virtual Assistant,24,4
+Russia,100,Laptops,33,4
+Russia,101,Hard Drives,56,4
+Russia,102,Phones,39,4
+Russia,103,Microwaves,94,4
+Russia,104,Headphones,60,4
+Russia,105,Electronic Locks,49,4
+Russia,106,Drones,49,4
+Russia,107,Computers,27,4
+Russia,108,Tablets,26,4
+Russia,109,TVs,35,4
+Russia,110,Remotes,47,4
+Russia,111,Earbuds,33,4
+Russia,112,Smart fridges,64,4
+Russia,113,Mouse,49,4
+Russia,114,Webcam,70,4
+Russia,115,USB,41,4
+Russia,116,Cables,52,4
+Russia,117,Fridges,16,4
+Russia,118,Monitors,61,4
+Russia,120,Virtual Assistant,32,4
+Ukraine,100,Laptops,62,4
+Ukraine,101,Hard Drives,39,4
+Ukraine,102,Phones,30,4
+Ukraine,103,Microwaves,57,4
+Ukraine,104,Headphones,36,4
+Ukraine,105,Electronic Locks,38,4
+Ukraine,106,Drones,45,4
+Ukraine,107,Computers,4,4
+Ukraine,108,Tablets,46,4
+Ukraine,109,TVs,24,4
+Ukraine,110,Remotes,43,4
+Ukraine,111,Earbuds,58,4
+Ukraine,112,Smart fridges,70,4
+Ukraine,113,Mouse,18,4
+Ukraine,114,Webcam,6,4
+Ukraine,115,USB,4,4
+Ukraine,116,Cables,50,4
+Ukraine,117,Fridges,29,4
+Ukraine,118,Monitors,32,4
+Ukraine,120,Virtual Assistant,48,4
+United States,100,Laptops,48,4
+United States,101,Hard Drives,28,4
+United States,102,Phones,24,4
+United States,103,Microwaves,137,4
+United States,104,Headphones,27,4
+United States,105,Electronic Locks,37,4
+United States,106,Drones,49,4
+United States,107,Computers,70,4
+United States,108,Tablets,36,4
+United States,109,TVs,42,4
+United States,110,Remotes,17,4
+United States,111,Earbuds,33,4
+United States,112,Smart fridges,48,4
+United States,113,Mouse,39,4
+United States,114,Webcam,36,4
+United States,115,USB,47,4
+United States,116,Cables,24,4
+United States,117,Fridges,32,4
+United States,118,Monitors,6,4
+United States,120,Virtual Assistant,49,4
