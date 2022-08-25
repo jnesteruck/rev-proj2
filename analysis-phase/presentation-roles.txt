@@ -1,0 +1,9 @@
+Name - Section
+--------------------------------------------------------------
+Jacob - Popularity of products throughout the year
+Ray F - Top Selling Product Categories
+Ray J - Sales Traffic by Location
+Martin - Introduction/Conclusion
+Keynon - Sales Traffic by Time/Hour
+
+
